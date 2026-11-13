@@ -33,7 +33,7 @@ Anche l'introduzione è in italiano: sia il racconto in corsivo sul Capitano Mav
 
 Nella schermata del titolo, sotto i crediti di Nintendo e di Tashi e DackR, c'è anche "©26 Sanciopanza88".
 
-Ho tradotto anche il menu di gioco: i cartelli ora dicono SQUA-DRA, ROBA ed ESCI, e i fumetti in basso sono in italiano ("per cercare", "Muovi con", "Non funziona"...).
+Ho tradotto anche il menu di gioco: i cartelli ora dicono SQUA-DRA ed ESCI (ITEM è rimasto ITEM), e i fumetti in basso sono in italiano ("per cercare", "Muovi con", "Non funziona"...). Anche le icone che compaiono nei dialoghi corrispondono al menu italiano, e sono tradotte le schermate dei salvataggi e del nome della squadra, compresi i titoli dei capitoli.
 
 Sono rimasti in inglese il logo del titolo, la scritta LIFE nella schermata della squadra e alcune scritte disegnate negli scenari, come cartelli e biglietti.
 

@@ -46,11 +46,6 @@ def text(s,word,x0,y0,T,O,scale=1,outline=True,x1=None):
     s[m]=T
 def patch(rom):
     A=load(rom)
-    for pair,band,dark in ((0,16,True),(0,80,False)):          # ITEM -> ROBA
-        s=get(A,pair,band); clean=s[4].copy()
-        for y in range(5,21): s[y]=clean
-        text(s,'ROBA',7,6,2 if dark else 0xE,0xD if dark else 9,scale=2,x1=30)
-        put(A,pair,band,s)
     for pair,band,dark in ((2,0,True),(2,64,False)):           # TEAM WORK -> SQUA DRA
         s=get(A,pair,band); clean=s[4].copy()
         for y in range(5,24): s[y]=clean
