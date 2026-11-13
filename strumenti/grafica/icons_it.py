@@ -1,4 +1,4 @@
-# Icone nei dialoghi: EXIT -> ESCI, TEAM WORK -> SQUA/DRA (2bpp, non compresse)
+# Icone nei dialoghi: EXIT -> ESCI, TEAM WORK -> SQUA/DRA, nello stile di ITEM e ?! (2bpp, non compresse)
 def _get(e,base,col,row):
     a=[[0]*32 for _ in range(16)]
     for half in (0,1):
@@ -20,24 +20,27 @@ def _put(e,base,col,row,a):
 BIG={'E':["2222","22..","22..","22..","222.","22..","22..","22..","2222"],
      'S':[".222","22..","22..","22..",".22.","..22","..22","..22","222."],
      'C':[".222"]+["22.."]*7+[".222"],'I':["22"]*9}
-SM={'S':["22222","22...","22222","...22","...22","22222"],'Q':["22222","22.22","22.22","22.22","22222","..222"],
-    'U':["22.22"]*5+["22222"],'A':["22222","22.22","22222","22.22","22.22","22.22"],
-    'D':["2222.","22.22","22.22","22.22","22.22","2222."],'R':["2222.","22.22","2222.","22.22","22.22","22.22"]}
-def _draw(a,font,word,y0,x0,x1,gap=1):
-    w=sum(len(font[c][0])+gap for c in word)-gap; x=x0+((x1-x0+1)-w)//2
+SM={'S':["22222","22...","22222","...22","22222"],'Q':["22222","22.22","22.22","22222","..222"],
+    'U':["22.22"]*4+["22222"],'A':["22222","22.22","22222","22.22","22.22"],
+    'D':["2222.","22.22","22.22","22.22","2222."],'R':["2222.","22.22","2222.","22.22","22.22"]}
+def _blank():
+    a=[[3]*32 for _ in range(16)]
+    for x in range(32): a[0][x]=a[15][x]=1
+    for y in range(16): a[y][0]=a[y][31]=1
+    for x in range(1,31): a[1][x]=2
+    return a
+def _draw(a,font,word,y0,gap=2):
+    w=sum(len(font[c][0])+gap for c in word)-gap; x=1+(30-w)//2
+    m=[[False]*32 for _ in range(16)]
     for c in word:
         for k,r in enumerate(font[c]):
             for j,b in enumerate(r):
-                if b=='2': a[y0+k][x+j]=2
+                if b=='2': m[y0+k][x+j]=True
         x+=len(font[c][0])+gap
+    for y in range(2,15):
+        for xx in range(1,31):
+            if m[y][xx]: a[y][xx]=2
+            elif any(m[yy][xc] for yy in (y-1,y,y+1) for xc in (xx-1,xx,xx+1) if 0<=yy<16 and 0<=xc<32): a[y][xx]=1
 def patch(e):
-    base,col,row=0x26c800,4,0                       # EXIT
-    a=_get(e,base,col,row); assert a[0][0]==1 and a[2][5]==3
-    for y in range(4,13):
-        for x in range(4,28): a[y][x]=1
-    _draw(a,BIG,'ESCI',4,4,27,gap=2); _put(e,base,col,row,a)
-    base,col,row=0x26dc00,12,10                     # TEAM WORK
-    a=_get(e,base,col,row)
-    for y in range(1,15):
-        for x in range(1,31): a[y][x]=1
-    _draw(a,SM,'SQUA',1,1,30); _draw(a,SM,'DRA',9,1,30); _put(e,base,col,row,a)
+    a=_blank(); _draw(a,BIG,'ESCI',4); _put(e,0x26c800,4,0,a)
+    a=_blank(); _draw(a,SM,'SQUA',3); _draw(a,SM,'DRA',9); _put(e,0x26dc00,12,10,a)
