@@ -1,0 +1,39 @@
+### 0110
+…Sono felice che
+2|abbiate trovato qui
+3|quello che cercavate.<P>
+1|Tornerete sull'isola,
+1|vero?<P>
+1|Prego che possiate
+1|ritrovare sana e salva
+1|la vostra maestra.<P>
+1|
+1|     Addio.<FA>
+
+### 0112
+Viandanti, pietà
+2|di un povero vecchio.<P>
+3|Non volete salvare
+1|la principessa?<FA>
+
+### 0114
+<F2>Ora si va avanti!<FA>
+
+### 0133
+Punteggio squadra <FE 6D 1A><FC 1A>
+2|Raccolto<FC 1A> <FE 6B><FE 6D 34>
+3|Aiutati<FC 1A> <FE 6C><F4>{65}<FE 6D 32>  Ovvero…<FA>
+
+### 0145
+Sono una biologa,
+2|venuta ad aiutare
+3|i coloni…<P>
+1|Ora sembro una
+1|poetessa haiku, eh?<FB>
+
+### 0166
+Fugo! Fu-fugo.<P>
+2|TR<FC 1A> Vi arrendete
+3|troppo facilmente!<P>
+1|Non vivrete a lungo
+1|con quel carattere!<FA>

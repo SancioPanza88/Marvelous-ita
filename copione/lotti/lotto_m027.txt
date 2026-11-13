@@ -1,0 +1,636 @@
+### 2300
+<F5 01>ZCra cra!<P>
+2|TR<FC 1A> Nessuno si avvicini
+3|a questa tomba!<FB>
+
+### 2301
+C'è scritto<FC 1A> L'eroe che
+2|protesse la città,<P>
+3|Christopher Benson,
+1|riposa qui.<FB>
+
+### 2302
+"Tomba del Bandito
+2|Malvagissimo, Indio."
+3|…C'è scritto qui.<P>
+1|…Cosa…?<FB>
+
+### 2303
+Dalla tomba è uscito
+2|qualcosa.<P>
+3|Sembra una
+1|foto…<FB>
+
+### 2304
+È una casa misteriosa
+2|senza un
+3|ingresso.<P>
+1|A proposito di
+1|case misteriose,<P>
+1|si dice che nel cuore
+1|della notte<P>
+1|si sentano suonare
+1|gli orologi nella villa
+1|a Est di qui.<P>
+1|Che brividi, eh?<FB>
+
+### 2305
+Si stava molto
+2|meglio una
+3|volta…<P>
+1|Eravamo pirati e
+1|l'erba era verde.<P>
+1|Poi i banditi hanno
+1|preso il "Tesoro" ed
+1|è andato tutto a monte…<FB>
+
+### 2306
+Questa è l'unica acqua
+2|della città.<P>
+3|Dovevo dare retta a
+1|Indio e scavare più
+1|pozzi…<FB>
+
+### 2307
+Tanto tempo fa pensai
+2|di costruire una
+3|macchina scavatrice,<P>
+1|ma ho perso i
+1|progetti…<P>
+1|Così quei pezzi ora
+1|sono solo ferraglia!<P>
+1|Prendeteli, se
+1|volete.<FB>
+
+### 2308
+Questo cane è
+2|d'intralcio…<FB>
+
+### 2309
+Il cane ha mangiato e
+2|si è addormentato!<P>
+3|Non credo che si
+1|sveglierà presto…<FB>
+
+### 2310
+È una ciotola da cane.<FB>
+
+### 2311
+<F2>Ottenuti i Fiori di
+2|Sisko!<FA>
+
+### 2312
+La "stanza del tempo"
+2|è nella villa chiusa.<P>
+3|L'anziana che vive
+1|qui accanto ha le
+1|chiavi.<FB>
+
+### 2313
+C'è un quadro
+2|qui.<FB>
+
+### 2314
+Problemi? Volete
+2|vedere l'interno della
+3|villa qui accanto?<FB>
+
+### 2315
+Tanto tempo fa, nella
+2|villa qui accanto,<P>
+3|Indio e mio marito
+1|lavoravano a un
+1|progetto.<FB>
+
+### 2316
+Siamo i pirati
+2|Fratelli Patchie!<P>
+3|Siete proprio patetici
+1|a cadere nella
+1|nostra trappola.<P>
+1|Volete uscire?<P>
+1|Allora indovinate
+1|l'ordine delle
+1|nostre età!<P>
+1|Capito?<P>
+1|Vi spiego…<FB>
+
+### 2317
+Vi avevo detto di
+2|stare fuori di qui!<P>
+3|Il miele ve l'ho dato,
+1|no?<FB>
+
+### 2318
+Servirà tanta legna
+2|per scaldare questa
+3|pentola gigante.<FB>
+
+### 2319
+Che tristezza vedere
+2|il nostro lavoro
+3|andare in fumo…<FB>
+
+### 2320
+Il fuoco si è spento.
+2|Non credo che la
+3|cottura sia finita.<FB>
+
+### 2321
+Questa roccia può
+2|spostarla 1 persona.<FB>
+
+### 2322
+<F5 03>{A2}Cip<P>
+2|TR<FC 1A> Che seccatura.
+3|Sono il risolvi-guai,
+1|Pluck.<P>
+1|Se vi bloccate,
+1|fischiate e parlatemi
+1|con <FE 6D 02>.<P>
+1|Vi darò un indizio…
+1|A pagamento!<FA>
+
+### 2323
+Possiamo usarlo per
+2|pompare aria calda
+3|nella mongolfiera.<P>
+1|…Però dovremo
+1|collaborare.<FB>
+
+### 2324
+<F5 03>sCip-cip!<P>
+2|TR<FC 1A> Grazie per la
+3|fiducia!
+1|Fanno <FE 6D 20> Pietra Fortuna!<FA>
+
+### 2325
+Se questo fosse il
+2|mare, la nave andrebbe?<FB>
+
+### 2326
+L'albero maestro è
+2|spezzato alla base.<P>
+3|Cosa l'avrà
+1|causato…?<FB>
+
+### 2327
+Questa statua di sirena
+2|è fatta d'oro!
+3|È… Oro!!<FB>
+
+### 2328
+Se c'è un camino,
+2|ci dev'essere un
+3|motore lì sotto.<FB>
+
+### 2329
+Se spostiamo questo,
+2|il motore partirà…<FB>
+
+### 2330
+Questo dev'essere il
+2|motore…!<FB>
+
+### 2331
+Dev'essere collegato
+2|al motore.<FB>
+
+### 2332
+Mi sono già stufato
+2|del calcio.<P>
+3|Ora gestisco il gioco
+1|"Jim Non Porta Sfiga".<P>
+1|Una partita costa
+1|<FE 6D 20> Pietra Fortuna.<P>
+1|Per giocare, scegliete
+1|una delle <FE 6D 24> casse.<P>
+1|Magari ne troverete
+1|una piena di
+1|Pietre Fortuna.<P>
+1|Volete giocare?<FB>
+
+### 2333
+Oh, siete venuti!
+2|Avvicinatevi un po'
+3|così parliamo.<FB>
+
+### 2334
+Ci sono 3 forzieri.<FB>
+
+### 2335
+Che volete?
+2|Ho finito le Pietre!<P>
+3|…Voi…
+1|Mi avete spennato!<P>
+1|Maledetta la vostra
+1|fortuna.<FB>
+
+### 2336
+…Fuori di qui, sono
+2|rovinato!<FB>
+
+### 2337
+Oh, piccoli viaggiatori,
+2|che bello vedervi.<P>
+3|La principessa
+1|insiste per guidare
+1|una spedizione.<P>
+1|Vuole marciare
+1|contro le Cose
+1|Blu.<P>
+1|Non potete fermarla?<FB>
+
+### 2338
+Eheheh. Facciamo una
+2|sfida ai rigori.<P>
+3|Volete sfidare Jim?
+1|Le regole sono semplici.<P>
+1|Calciate la palla
+1|nella tenda laggiù.<P>
+1|Se ci riuscite, vi
+1|daremo un premio.<P>
+1|Che ne dite?<FE 6A>
+1|    Ci sto!
+1|    Passo.<FE 68><FA>
+
+### 2339
+Sbrigatevi a calciare!
+2|Basta perdere tempo!<FB>
+
+### 2340
+Non è che ho
+2|perso davvero.<P>
+3|C'erano…
+1|delle circostanze!<P>
+1|Prendetelo e
+1|andatevene.<FA>
+
+### 2341
+Prendetelo e basta.<FA>
+
+### 2342
+State cercando la
+2|legna, vero?<P>
+3|Ne ho vista un po' a
+1|nord del lago.<FB>
+
+### 2343
+<FE 6A>È un pallone.
+2|Chi giocherebbe a
+3|calcio fin quaggiù?<FB>
+
+### 2344
+La porta è chiusa.<FB>
+
+### 2345
+Grazie per aver
+2|portato i fiori sulla
+3|tomba di mio padre.<P>
+1|Se posso aiutarvi
+1|in qualche modo,
+1|ditemelo.<FB>
+
+### 2346
+Cra cra!<P>
+2|TR<FC 1A> Sisko è una ragazza
+3|bella e gentile!<FB>
+
+### 2347
+…Cosa? C'è qualcosa
+2|di scritto qui.<FB>
+
+### 2348
+È un interruttore da
+2|calpestare.<FB>
+
+### 2349
+Ascoltatemi, vi prego!
+2|In città dicono tutti
+3|di aver visto spettri,<P>
+1|ma sta succedendo
+1|qualcosa di peggio!<FB>
+
+### 2350
+Ho sentito che quella
+2|casa disabitata è
+3|infestata…<P>
+1|Chissà se è vero.<FB>
+
+### 2351
+U… Un fantasma è
+2|uscito… Da quella
+3|casa vuota!!<FB>
+
+### 2352
+Pare che sia uscito
+2|un fantasma pirata.
+3|Ora tutti in
+1|città sono in
+1|subbuglio.<P>
+1|Dovrebbero
+1|vergognarsi.<FB>
+
+### 2353
+Sono tutti in panico
+2|per il fantasma
+3|pirata.<FB>
+
+### 2354
+Sentite qua!
+2|Il fantasma di mio
+3|marito era in pensiero
+1|per me ed è venuto.<P>
+1|Appena ha visto il
+1|mio viso,<P>
+1|si sarà tranquillizzato
+1|ed è
+1|sparito.<FB>
+
+### 2355
+Appena risolto il
+2|caso del
+3|rapimento…<P>
+1|Ora un fantasma
+1|terrorizza la città.<P>
+1|Ma che sta
+1|succedendo~?!<FB>
+
+### 2356
+Pare che sia apparso
+2|un fantasma!<P>
+3|Sarà lo scherzo
+1|di qualcuno.<FB>
+
+### 2357
+Dicono che c'è un
+2|fantasma in città!<FB>
+
+### 2358
+È l'ombra di qualcuno…
+2|Chi va là?!<FB>
+
+### 2359
+Non sono un fantasma
+2|né un tipo sospetto!<FB>
+
+### 2360
+Dobbiamo sbrigarci!
+2|Riprendiamoci la
+3|Sfera di Cristallo dai
+1|Fratelli Mammut!<FB>
+
+### 2361
+Sono sicuro che
+2|l'entrata segreta era
+3|qui intorno…<FB>
+
+### 2362
+Sembra che…
+2|L'entrata sia bloccata.<FB>
+
+### 2363
+Di qua è tutto
+2|bloccato.<P>
+3|Dovremo trovare
+1|un'altra entrata…<P>
+1|Sono sicuro che ce
+1|n'era un'altra qui
+1|da qualche parte.<FB>
+
+### 2364
+Wow!
+2|Che fisico~!<FB>
+
+### 2365
+Mi hanno aggredito
+2|i banditi!<P>
+3|Così mi prenderò
+1|un raffreddore~.<FB>
+
+### 2366
+La famiglia di Indio si
+2|è trasferita vicino
+3|al Lago dei Pinguini.<P>
+1|Il papà sembra un
+1|po' strambo!<FB>
+
+### 2367
+Mio figlio ultimamente
+2|indossa dei vestiti
+3|stranissimi…<P>
+1|Di chi starà copiando
+1|la moda?<FB>
+
+### 2368
+Perché non lavorate
+2|per me? Vi farò
+3|diventare "Patchies"!<FB>
+
+### 2369
+Il mio papà ora
+2|non c'è!<FB>
+
+### 2370
+È un uovo d'uccello
+2|che ha trovato papà.<FB>
+
+### 2371
+Si è schiuso! È nato un
+2|corvetto! Evviva!<FA>
+
+### 2372
+Questo fiore mutante ha
+2|petali robustissimi!
+3|È come se stesse
+1|proteggendo qualcosa
+1|all'interno…<FB>
+
+### 2373
+Questa parte sembra
+2|la radice.<P>
+3|A quale fiore sarà
+1|collegata?<FB>
+
+### 2374
+I petali proteggevano
+2|questa parte!<P>
+3|Non c'è un modo
+1|per attaccarla?<FB>
+
+### 2375
+Da dove venite,
+2|ragazzi?<P>
+3|Ho mandato un uomo in
+1|un varco temporale…<P>
+1|Venite forse
+1|dal futuro..?<P>
+1|Comunque, ho proprio
+1|bisogno del vostro
+1|aiuto!<P>
+1|La città è in pericolo!
+1|In realtà…<FA>
+
+### 2376
+Fugo, fugogo.<P>
+2|TR<FC 1A> Per prendere le
+3|rocce gialle, saltate
+1|sopra di noi.<FB>
+
+### 2377
+"Durante l'interrogatorio
+2|del prigioniero,
+3|vietato il passaggio."<P>
+1|…C'è scritto qui.<FB>
+
+### 2378
+Questa finestra è
+2|socchiusa!<FB>
+
+### 2379
+Accidenti…
+2|Sapete dov'è
+3|Indio?<P>
+1|Mi aiutate a
+1|trovarlo?!<FB>
+
+### 2380
+Indio è stato davvero
+2|arrestato per aver
+3|rubato il "tesoro"?<P>
+1|Che prove ha lo
+1|sceriffo contro di lui?<FB>
+
+### 2381
+Ehi, è un pinguino!<P>
+2|Se scavate dove
+3|lascia il segno,<P>
+1|troverete l'acqua
+1|di sicuro.<FB>
+
+### 2382
+Secondo il mio fiuto,
+2|servono circa <FE 6D 24>
+3|pozzi.<P>
+1|Se trovate i pezzi
+1|della "Macchina
+1|Scavatrice",<P>
+1|potrete costruirla!<FB>
+
+### 2383
+La "Macchina Scavatrice"
+2|è troppo pesante per
+3|chiunque tranne Max.<FB>
+
+### 2384
+<FE 6A>Una mucca gigante.<FB>
+
+### 2385
+<FE 6A>L'impronta del
+2|pinguino non era sotto
+3|questa mucca…?<P>
+1|Come facciamo a
+1|spostarla?<FB>
+
+### 2386
+Se volete salvare
+2|Indio, cercate una
+3|rana!<P>
+1|Lo sceriffo ha il
+1|terrore delle rane.<FB>
+
+### 2387
+Cra cra.<P>
+2|TR<FC 1A> Uffa, quei
+3|pinguini in amore
+1|sono così rumorosi…<P>
+1|Non riesco neanche
+1|a stare fuori!<FB>
+
+### 2388
+Cra! Cra!<P>
+2|TR<FC 1A> …Ho fame!<FB>
+
+### 2389
+Sento odore d'acqua.<P>
+2|Pare che siate
+3|riusciti a scavare
+1|i pozzi.<P>
+1|Siete stati voi a
+1|liberarmi?<P>
+1|Ma per provare la
+1|mia innocenza, devo
+1|restare qui.<P>
+1|Chi ha rubato il
+1|"tesoro" si nasconde
+1|nel covo in montagna.<P>
+1|Si fanno chiamare
+1|"Fratelli Mammut".<P>
+1|Dovete dirlo a
+1|Benson
+1|subito!<P>
+1|Vi aiuterà a
+1|sistemare i banditi!<P>
+1|Benson è alto e…
+1|La sua faccia è… Oh,
+1|come posso spiegare…<FB>
+
+### 2390
+Dite subito a Benson
+2|dei Fratelli
+3|Mammut!<FB>
+
+### 2391
+Non preoccupatevi…<P>
+2|Dovete riprendervi
+3|la Sfera di Cristallo
+1|dai banditi!<FB>
+
+### 2392
+Ho iniziato a costruire
+2|una casa nuova,<P>
+3|ma non so decidere
+1|che progetto usare!<FB>
+
+### 2393
+Farò come dite voi
+2|e costruirò la
+3|Casa <FE 6D 32>!<FB>
+
+### 2394
+Che state facendo?<P>
+2|Avete dimenticato
+3|come avviare il
+1|motore della nave?<FB>
+
+### 2395
+Sono sicuro che
+2|l'entrata era qui…<P>
+3|Quei maledetti Mammut
+1|devono averla
+1|sigillata!<P>
+1|…In casi come questi
+1|serve una soluzione
+1|creativa!<FA>
+
+### 2396
+Basterà un solo
+2|colpo di questa
+3|dinamite.<P>
+1|Ecco, prendetela!<FA>
+
+### 2397
+Mi sembra molto
+2|familiare…?<FB>
+
+### 2398
+Cip. Cip, cii.<P>
+2|TR<FC 1A> Che fate?
+3|Fate come
+1|prima.<FB>
+
+### 2399
+Questa roccia sembra
+2|più tenera delle altre…<P>
+3|Proviamo la dinamite
+1|qui!<FB>

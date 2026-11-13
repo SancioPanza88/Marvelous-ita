@@ -1,0 +1,112 @@
+### 1148
+Pensiamo in fretta.<P>
+2|Coi nostri pesi…
+3|Uno pesante deve
+1|stare a sinistra…<P>
+1|Gli altri due
+1|pompano dal lato
+1|destro.<FA>
+
+### 1149
+<F5 00>{D3}Questa è la mia più
+2|grande invenzione.<P>
+3|Si pensava che per
+1|l'uomo fosse impossibile
+1|volare, <P>
+1|ma questa mongolfiera
+1|permette agli uomini
+1|di farlo.<P>
+1|E' il tesoro che
+1|lascio a chi riuscirà
+1|a trovarlo.<P>
+1|E' anche l'unico modo
+1|per fuggire dalla
+1|prigione.<P>
+1|Spero che questo
+1|congegno vada ancora
+1|quando lo troverete.<P>
+1|
+1|   Capitano Maverick<FB>
+
+### 1171
+<F2>Max ha trovato gli
+2|Occhialini da Nuoto!<P>
+3|Si usano con il tasto
+1|<FE 6D 04> sott'acqua.<P>
+1|<FE 6A>Uffa, è solo un
+1|altro rottame.<P>
+1|Pensavo che fosse
+1|quello
+1|grosso…<P>
+1|Per usarli, apri il
+1|menu con START
+1|e equipaggiali.<P>
+1|Capito?<FA>
+
+### 1176
+Le azioni si fanno
+2|col tasto <FE 6D 04>.<P>
+3|Prendete un oggetto
+1|dal menu START e
+1|usatelo con <FE 6D 04>…<P>
+1|Proviamo.<FB>
+
+### 1181
+Trovate il buco da
+2|cui è entrato il topo
+3|e cacciatelo!<P>
+1|Su, <FE 6D 1A>, vi
+1|prego?<FB>
+
+### 1182
+<FE 6A>Trovate il buco
+2|della tenda da cui
+3|entrano i topi,<P>
+1|e fate in modo che
+1|non gli venga più in
+1|mente di entrare.<P>
+1|Su, <FE 6D 1A>, vi
+1|prego?<FB>
+
+### 1186
+Voglio ringraziarvi,
+2|squadra <FE 6D 1A>,
+3|davvero.<P>
+1|Avvicinatevi.<FB>
+
+### 1189
+In questa cassa si
+2|mettono gli oggetti…<P>
+3|Ma non da così
+1|lontano.<P>
+1|Avvicinatevi un po'.<FB>
+
+### 1190
+Sì, gli oggetti si
+2|mettono qui dentro.<P>
+3|Tranquilli… Non è che
+1|l'oggetto sparisca
+1|o roba simile.<FB>
+
+### 1196
+Scordavo di dirvelo,
+2|ma non usciranno più
+3|Pietre Fortuna…<P>
+1|La vita è dura.<FA>
+
+### 1204
+Cosa dovete fare
+2|adesso?<P>
+3|…Potete solo lasciare
+1|l'isola con quella
+1|nave, giusto?<P>
+1|Per muoverla dovete
+1|aprire la porta della
+1|nave che non si apre.<P>
+1|Avete già incontrato
+1|una persona minuscola?<P>
+1|Se no, cercate lungo
+1|la costa a nord
+1|e salvatela.<P>
+1|Allora potrete aprire
+1|la porta.<FA>

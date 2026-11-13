@@ -1,0 +1,465 @@
+### 1930
+Uuu kii, uuu kii kii!<P>
+2|TR<FC 1A> Ora di ciao ciao.<FB>
+
+### 1931
+2| Che porta inquietante.<FB>
+
+### 1932
+Ehi, squadra <FE 6D 1A>.
+2|Cercate la legna?<FB>
+
+### 1933
+Ciroròp-cip.<P>
+2|TR<FC 1A> Oddio, è caduto
+3|in una delle trappole
+1|di Maverick!<P>
+1|Che tonto.
+1|Voi volete salvare
+1|la maestra, vero?<FB>
+
+### 1934
+<FE 6A><F5 03>G…Oh?
+2|Questo robot sta
+3|dicendo qualcosa.<FB>
+
+### 1935
+Oh wow!
+2|E' più piccolo di un
+3|bambino!<FB>
+
+### 1936
+2|     E' una grotta.<FB>
+
+### 1937
+2|  E' un grosso palo.<FB>
+
+### 1938
+Nuotano un sacco
+2|di pesci.<FB>
+
+### 1939
+E' un robot.
+2|…Mmm?
+3|Qualcosa non va.<FB>
+
+### 1940
+Non mi hai sentito?
+2|Ho detto che volevo il
+3|ragazzo g-r-a-s-s-o.<P>
+1|A volte ci vuole
+1|un bel ciccione.<FA>
+
+### 1941
+Bell'occhio.<FA>
+
+### 1942
+<FE 6A>…E' uguale al robot
+2|dell'isola.<FB>
+
+### 1943
+2| C'è un ingresso.<FB>
+
+### 1944
+Sembra un vecchio
+2|carrello da miniera…<FB>
+
+### 1945
+E' un interruttore
+2|da calpestare.<FB>
+
+### 1946
+Un vecchio carrello.<FB>
+
+### 1947
+Qui c'è un buco per
+2|le persone…<FB>
+
+### 1948
+La porta è ben
+2|chiusa.<FB>
+
+### 1949
+Santo cielo!<P>
+2|Il robot spinge un
+3|masso enorme qui!<P>
+1|…Eh?…
+1|Sta dicendo qualcosa.<FB>
+
+### 1950
+E' una pendola
+2|gigante!<FB>
+
+### 1951
+Cip cip. Tuit.<P>
+2|TR<FC 1A> Cosa vi prende,
+3|ragazzi?<P>
+1|Non volete salvare
+1|la vostra maestra?<FB>
+
+### 1952
+Fugo. Fugofu. Fugogo.<P>
+2|TR<FC 1A> Sono il secondo
+3|dei 4 fratelli
+1|ragni.<P>
+1|Non passeggiate così
+1|sulla mia pista.<FB>
+
+### 1953
+Fugo? Fugofugo.<P>
+2|TR<FC 1A> Che succede?
+3|Sbrigatevi a partire.<P>
+1|E correte nel verso
+1|giusto.<FB>
+
+### 1954
+Fugofugo.<P>
+2|TR<FC 1A> Sbrigatevi a
+3|finire.<FB>
+
+### 1955
+Fugo. Fugofugo.<P>
+2|TR<FC 1A> …Vi piace questa
+3|pietra, eh?
+1|L'ho trovata laggiù.<FB>
+
+### 1956
+Questi pinguini sono
+2|una coppia.<P>
+3|Sembrano persi nel
+1|loro mondo.<P>
+1|Lasciamoli un po'
+1|in pace.<FB>
+
+### 1957
+Questi pinguini non
+2|sono ancora una coppia…<FB>
+
+### 1958
+<F5 00>{D3}E' il gruppo maschile.<FB>
+
+### 1959
+Che fa?
+2|Non scende.<FB>
+
+### 1960
+Facciamoli mettere
+2|insieme!<FB>
+
+### 1961
+Che ne dite di questo?<FA>
+
+### 1962
+Questa è una coppia
+2|che abbiamo formato noi.<FB>
+
+### 1963
+<F5 00>{D3}…E' molto, molto
+2|difficile da dire…<P>
+3|Ma tutti gli altri
+1|pinguini sono già
+1|in coppia.<FB>
+
+### 1964
+E' furioso.<FB>
+
+### 1965
+Fugofugo… Fugo?<P>
+2|TR<FC 1A> Sono il terzo
+3|dei 4 fratelli ragni.
+1|…Volete qualcosa?<FB>
+
+### 1966
+Fugo? Fugofugo. Fu-go.<P>
+2|TR<FC 1A> Smettetela di
+3|perdere tempo e
+1|calciate!<FB>
+
+### 1967
+Fugo. Fugofugo.<P>
+2|TR<FC 1A> Ciao, sono un
+3|ragno portiere.<P>
+1|Sono piuttosto veloce,
+1|quindi buona fortuna.
+1|Vi servirà.<FB>
+
+### 1968
+Sono un porcellino di
+2|terra. Sono abbastanza
+3|sveglio da parlare…<P>
+1|Ma non pensavo di
+1|finire usato come
+1|pallone da calcio.<FB>
+
+### 1969
+Fugo. Fugofugo.<P>
+2|TR<FC 1A> Sono il più
+3|piccolo dei 4 fratelli
+1|ragni.<P>
+1|…Cosa volete?<FB>
+
+### 1970
+Fugo. Fugofugo.<P>
+2|TR<FC 1A> Finito il tempo,
+3|le pietre gialle
+1|spariscono.<FB>
+
+### 1971
+E' il gruppo femminile.<FB>
+
+### 1972
+Fugofugo. Fugofugo.<P>
+2|TR<FC 1A> Tempo scaduto!
+3|Bel lavoro~.<P>
+1|Peccato che ne abbiate
+1|prese solo <FE 6B>!<FB>
+
+### 1973
+Fugofugo. Fugofugo.<P>
+2|TR<FC 1A> Cosa c'è?
+3|Cercate ancora
+1|qualcosa?<FB>
+
+### 1974
+Fugo. Fugofugo.<P>
+2|TR<FC 1A> Cosa volete?
+3|Ho già smesso con
+1|quel gioco dei salti.<FB>
+
+### 1975
+Facciamo mettere
+2|insieme questo pinguino?<FA>
+
+### 1976
+Fugofugo. Fugofugo.<P>
+2|TR<FC 1A> Sapete correre?
+3|Lascio passare <FE 6D 20>
+1|velocista.<P>
+1|  Che fate?<FE 6A>
+1|    Fammi entrare.
+1|    Torno dopo.<FE 68><FA>
+
+### 1977
+Fugo. Fugogo.<P>
+2|TR<FC 1A> Fermi
+3|lì.<P>
+1|Non si entra finché
+1|chi è dentro non esce.<FB>
+
+### 1978
+Fugofugo. Fugogo.<P>
+2|TR<FC 1A> Sapete saltare?
+3|Lascio passare <FE 6D 20>.<P>
+1|  Che ne dite?<FE 6A>
+1|    Fammi passare.
+1|    Torno dopo.<FE 68><FA>
+
+### 1979
+E' l'impronta del
+2|pinguino solitario.<FB>
+
+### 1980
+Pegi, pegi, pegiii.<P>
+2|TR<FC 1A> Conoscete il mio
+3|potere speciale?<FB>
+
+### 1981
+Cosa, non ha funzionato?<FB>
+
+### 1982
+Mi sono avanzati degli
+2|ingredienti, così
+3|ne ho fatto un altro.<P>
+1|Voi ragazzi potete
+1|prendere questo!<FA>
+
+### 1983
+<FE 6A>Forse ora
+2|smetterà di piangere?<FA>
+
+### 1984
+Non vi permetterò di
+2|entrare o uscire dalla
+3|foresta…<P>
+1|Finché il cancello della
+1|prigione non è chiuso!<FB>
+
+### 1985
+Uhfufu! Uhfufuuu!<P>
+2|TR<FC 1A> Non salitemi
+3|sulla schiena!
+1|Mi fate male!!<FB>
+
+### 1986
+<F2>Avete un Pranzo
+2|al Sacco in più!<P>
+3|Sembra piccantissimo,
+1|meglio non
+1|mangiarlo.<FA>
+
+### 1987
+Santi orologi!<FB>
+
+### 1988
+Dev'essere un
+2|cannocchiale.<FB>
+
+### 1989
+2|C'è un quadro.<FB>
+
+### 1990
+<FE 6A>Come hanno fatto a
+2|prenderli tutti?<FB>
+
+### 1991
+Così si fa!
+2|<P>
+3|Bene, ci sono tutti.<FA>
+
+### 1992
+<FE 6A>La…
+2|La principessa….<FA>
+
+### 1993
+Ti farò fare un bel
+2|sogno.<FB>
+
+### 1994
+…Qui manca una
+2|piastrella.<FB>
+
+### 1995
+Se qualcuno chiedesse
+2|cosa faccio qui…<FB>
+
+### 1996
+Il mio lavoro è
+2|registrare i versi
+3|degli animali!<FB>
+
+### 1997
+<FE 6A>La principessa è
+2|stata schiacciata…<P>
+3|Stupido uccellaccio!!
+1|Scendile di dosso!!<FA>
+
+### 1998
+Fugofugo. Fugofugo.<P>
+2|TR<FC 1A> Complimenti.
+3|Che mosse pazzesche!<P>
+1|Ecco qua.<FA>
+
+### 1999
+Cosa c'è?<P>
+2|Senza il permesso del
+3|soldato n.<FE 6D 28>, non
+1|posso farvi passare.<FB>
+
+### 2000
+Cosa faccio?<P>
+2|Lavoro col professor
+3|Marlowe.<P>
+1|Studiamo le piante
+1|strane che si trovano
+1|su quest'isola.<FB>
+
+### 2001
+Mmm?
+2|Ohh…
+3|Vi serve qualcosa?<P>
+1|Se si tratta di piante,
+1|so tutto!
+1|<P>
+1|Sono il biologo
+1|Phillip Marlowe!<FB>
+
+### 2002
+Cosa c'è, ragazzi?<FB>
+
+### 2003
+Questo ritratto…
+2|Sembra un antico
+3|pirata?<FB>
+
+### 2004
+E' un cactus
+2|misterioso.<FB>
+
+### 2005
+<FE 6A>Una tesi di ricerca<FC 1A>
+2| "Flora dell'Isola"
+3|   Phillip Marlowe<FB>
+
+### 2006
+…Cosa?
+2|Cercate il soldato
+3|n.<FE 6B>?<P>
+1|Mi spiace, non è il
+1|mio numero.<FB>
+
+### 2007
+…Cosa?
+2|Cercate il soldato
+3|n.<FE 6B>?<P>
+1|Beh, eccomi qui,
+1|in carne e ossa.<FB>
+
+### 2008
+…Cosa?
+2|Oh, cercate il
+3|soldato n.<FE 6D 2A>?<FB>
+
+### 2009
+Pare che ora abbiate
+2|il permesso.<P>
+3|…Oh, era il soldato
+1|n.<FE 6D 2A>, non il n.<FE 6D 28>?
+1|<P>
+1|Ops, colpa mia.<FB>
+
+### 2010
+Vi servono altre
+2|Pietre Fortuna!<FB>
+
+### 2011
+Fugo? Fugogo?<P>
+2|TR<FC 1A> Ve la filate?
+3|Non vi chiamerò
+1|nemmeno fifoni.<P>
+1| Che fate?<FE 6A>
+1|    Me ne vado.
+1|    Non ancora.<FE 68><FA>
+
+### 2012
+Bella qualità per
+2|un giocattolo
+3|in omaggio~.<FB>
+
+### 2013
+Sembra una vite, ma
+2|cosa succede se la
+3|tocchiamo?<FA>
+
+### 2014
+Si è rotto!<FA>
+
+### 2015
+Bel lavoro.
+2|Andiamo avanti!
+3|     Domanda 2<FC 1A><FA>
+
+### 2016
+Fantastico~!
+2|Ne manca una sola!
+3|     Domanda 3<FC 1A><FA>
+
+### 2017
+C'è un piccolo buco.<FB>
+
+### 2018
+…Sbirciamo.<FB>
+
+### 2019
+Sembra che il miele
+2|sia caduto in questo
+3|buco.<FB>

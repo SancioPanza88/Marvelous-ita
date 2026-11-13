@@ -1,0 +1,553 @@
+### 0760
+Niente, non ci sente.
+2|
+3|Avviciniamoci.<FB>
+
+### 0761
+La maestra Gina è nei
+2|guai!! …Cosa?
+3|Lo sapete già?<P>
+1|La tengono in
+1|ostaggio?<P>
+1|Saranno minuscoli, ma
+1|fanno sul serio.
+1|<P>
+1|Hanno sfondato questo
+1|cancello e sono andati
+1|verso la valle.<P>
+1|Cosa aspettate?
+1|
+1|<P>
+1|Presto, slegatemi!
+1|<FA>
+
+### 0762
+Senza chiave, sembra
+2|impossibile
+3|toglierlo…<FB>
+
+### 0763
+Avete trovato una chiave!!<FB>
+
+### 0764
+Squit, squit!<P>
+2|TR<FC 1A> Se tiri così forte,
+3|non fa male
+1|per niente~!!<FB>
+
+### 0765
+Il grasso solleva lo
+2|spilungone e il
+3|piccoletto…<P>
+1|C'erano pirati come
+1|noi anche a quei
+1|tempi?!<FB>
+
+### 0766
+E-ner-gi-a. Esau-ri-ta…Pfffftt…  Rim-pian-to!!<FB>
+
+### 0767
+No, è troppo in alto
+2|per arrivarci!<FB>
+
+### 0768
+Per fare squadra
+2|servono tutti e 3!<FB>
+
+### 0769
+Se lavoriamo insieme,
+2|arriviamo anche in
+3|alto!<FA>
+
+### 0770
+Pe… Pesante!<P>
+2|Max! Pensiamoci prima
+3|che schiacci
+1|qualcuno.<FA>
+
+### 0771
+Se lavoriamo insieme…
+2|Aha! Ce l'abbiamo fatta!<FA>
+
+### 0772
+Wow! E' uscito un
+2|forziere!<FA>
+
+### 0773
+Dai! Da laggiù non
+2|potete toglierli!
+3|<FB>
+
+### 0774
+G…Grazie mille,
+2|squadra <FE 6D 1A>! Scusate se
+3|sono stato un cretino.<P>
+1|D'ora in poi giuro
+1|di cambiare
+1|vita…<P>
+1|
+1|      …Come no!
+1|<FA>
+
+### 0775
+Squadra <FE 6D 1A>,
+2|avvicinatevi.<FB>
+
+### 0776
+Squadra, siete stati
+2|"Piuttosto Marvelous!"
+3|      F i n e !<FA>
+
+### 0777
+Allora la Sfera di
+2|Cristallo ce l'avevate!<P>
+3|Ci condurrà dritti
+1|al "Tesoro di
+1|Maverick".<P>
+1|Ora sarà finalmente
+1|mio!<P>
+1|Patchies, metti la
+1|sfera laggiù.<FA>
+
+### 0778
+Aspettate e vedrete,
+2|il tesoro sarà presto
+3|nostro!<FA>
+
+### 0779
+Anche saltando, è
+2|troppo lontano… Se
+3|non ci fosse la cassa…<FB>
+
+### 0780
+Perdonami,
+2|Patchies…<FB>
+
+### 0781
+Dopo che hanno messo lì
+2|la sfera, ha cominciato
+3|a brillare…<P>
+1|E la porta…<P>
+1|Maestra Gina!
+1|Cosa le è successo!?
+1|<FB>
+
+### 0782
+Non c'è un interruttore
+2|qui vicino?<FB>
+
+### 0783
+Un ragazzino che se
+2|la tira perché è
+3|più alto di me!<P>
+1|Non vi lascerò andare
+1|più avanti!<FB>
+
+### 0784
+Lasciateci la sfera e
+2|andatevene!<P>
+3|Con quel tesoro,
+1|vivremo una vita
+1|di lusso!<FB>
+
+### 0785
+Ci avete rubato le
+2|Sfere di Cristallo
+3|che cercavamo…<P>
+1|Avete preso le chiavi
+1|che volevamo…
+1|<P>
+1|Sul serio, siete
+1|peggio di qualsiasi
+1|pirata!!<FB>
+
+### 0786
+La vostra maestra è
+2|proprio uno schianto.
+3|Il nostro capo è orrendo.<P>
+1|Siamo un po' gelosi
+1|di voi…
+1|<FB>
+
+### 0787
+Se ci avviciniamo
+2|troppo ci investe…
+3|Che facciamo?<FB>
+
+### 0788
+La porta in realtà
+2|non è molto robusta.
+3|Il che vuol dire…<FB>
+
+### 0789
+Ugh…<P>
+2|Non reggo a sbatterci
+3|contro più e più
+1|volte…<P>
+1|Comincia a fare
+1|male sul serio.<FB>
+
+### 0790
+Da solo non si
+2|solleva…<FB>
+
+### 0791
+…Sembra che ci sia
+2|un trucco per farlo
+3|funzionare.<FB>
+
+### 0792
+Prendiamo velocità e
+2|BUM! Sfondiamola!<FA>
+
+### 0793
+Cos'è questo…<P>
+2|"CI DISPIACE!
+3|Resterete qui per
+1|sempre, secchioni!"<P>
+1|Sarcastici E maleducati!…
+1|Hmpf!…
+1|<FB>
+
+### 0794
+C'è scritto "Casa di
+2|Sisko". Ma la porta
+3|è chiusa…<FB>
+
+### 0795
+Sembra che non ci sia
+2|nessuno.<FB>
+
+### 0796
+Prendiamo in fretta la
+2|Sfera di Cristallo e
+3|andiamocene!<FB>
+
+### 0797
+…Kweh kweh!<P>
+2|TR<FC 1A> …Questi tipi
+3|sono sospetti!<FB>
+
+### 0798
+Avviciniamoci e
+2|spingiamolo.<FB>
+
+### 0799
+Fugo. Fugo. Fugo!<P>
+2|TR<FC 1A> Venite qui!<FB>
+
+### 0800
+Cosa state facendo?!
+2|La porta della prigione
+3|è rimasta aperta!<FB>
+
+### 0801
+My, myy.<P>
+2|TR<FC 1A> La casa ce l'ho.
+3|Ora mi serve solo…
+1|Una moglie.<FB>
+
+### 0802
+Eh?! Chi è questa
+2|vecchietta rugosa?!<FB>
+
+### 0803
+E' la realtà…!?
+2|Se è un sogno,
+3|svegliatemi subito!<FB>
+
+### 0804
+Squadra, siete stati
+2|"Abbastanza Marvelous."
+3|      F i n e !<FA>
+
+### 0805
+Squadra, siete stati
+2|"Appena Marvelous."
+3|      F i n e !<FA>
+
+### 0806
+Sembra che qui ci
+2|fosse qualcosa di
+3|grosso.<FB>
+
+### 0807
+Squadra, siete stati
+2|"Quasi Marvelous."
+3|      F i n e !<FA>
+
+### 0808
+Squadra, siete stati
+2|"Non proprio Marvelous."
+3|      F i n e !<FA>
+
+### 0809
+Squadra, "potevate
+2|impegnarvi di più."
+3|      F i n e !<FA>
+
+### 0810
+Squadra, "dovete
+2|migliorare parecchio."
+3|      F i n e !<FA>
+
+### 0811
+Squadra, siete stati
+2|"un po' deludenti."
+3|      F i n e !<FA>
+
+### 0812
+Squadra, siete stati
+2|"molto deludenti."
+3|      F i n e !<FA>
+
+### 0813
+Ma che storia
+2|terribile…<FB>
+
+### 0814
+Ti senti fortunato?
+2|Prova a passare!<FB>
+
+### 0815
+…E' solo una
+2|sensazione, ma…<P>
+3|Non mancano alcuni
+1|soldati del
+1|castello?<FB>
+
+### 0816
+Hassan ha preso
+2|l'Antiformiche finito
+3|e se n'è andato.<P>
+1|Ha detto che doveva
+1|renderlo più forte…
+1|<P>
+1|Credo che sia andato
+1|nella stanza di Polly.<FB>
+
+### 0817
+Tutti i nostri guai
+2|sono colpa di quei
+3|banditi vigliacchi!<FB>
+
+### 0818
+Sembrava una brava
+2|persona…<P>
+3|Ma in realtà era il
+1|capo dei
+1|banditi…<FB>
+
+### 0819
+<F2>Avete ricevuto un
+2|Osso per Cani!<P>
+3|Che sceriffo
+1|bizzarro~!<FA>
+
+### 0820
+Pensavamo che qui ci
+2|fosse un tesoro e
+3|siamo entrati.<P>
+1|Poi la porta si è
+1|chiusa e siamo rimasti
+1|intrappolati!<P>
+1|E allora, il tesoro
+1|non l'avete ancora
+1|trovato?<P>
+1|Non voglio essere
+1|colpito da altri
+1|fulmini…<P>
+1|Quindi ciao ciao!<FA>
+
+### 0821
+Se avete qualcosa da
+2|dire, venite qui
+3|a dirlo!<FB>
+
+### 0822
+Il cane che sorveglia
+2|l'ingresso del "Lago
+3|della Morte" è mio.<P>
+1|E' amichevole solo
+1|quando mangia.
+1|<P>
+1|Appena finisce di
+1|mangiare, si addormenta
+1|sul posto!<FB>
+
+### 0823
+<F2>Avete ricevuto -un
+2|altro- Osso per Cani!<FA>
+
+### 0824
+Il "Lago della Morte"
+2|è pericoloso, state
+3|attenti.<FB>
+
+### 0825
+Presto, trovate la
+2|figlia di Indio al
+3|"Lago della Morte".<P>
+1|Salvate il mio bambino!<FB>
+
+### 0826
+In questa stanza ci
+2|sono un sacco di
+3|cose interessanti.<P>
+1|Guardatevi bene
+1|intorno.
+1|<FB>
+
+### 0827
+Non ci sono dubbi,
+2|questo è un pirata!<FB>
+
+### 0828
+Il mio defunto marito
+2|era identico al
+3|nonno qui.<P>
+1|Il sangue pirata non
+1|mente.<FB>
+
+### 0829
+Chi è quella bella
+2|signora con quel
+3|ragazzo dall'aria tosta?<FB>
+
+### 0830
+Ma dai, sono io da
+2|giovane, ovviamente!
+3|<P>
+1|Non sono cambiata
+1|poi tanto, vero?<FB>
+
+### 0831
+Questo è il mio unico
+2|figlio, Blue.<P>
+3|Ha lasciato il paese
+1|per diventare pirata
+1|come suo padre.<P>
+1|E' stato tanto tempo
+1|fa… Chissà cosa
+1|starà facendo…<P>
+1|Spero che non sia
+1|morto su qualche
+1|isola lontana…<FB>
+
+### 0832
+Dobbiamo portare
+2|subito a casa questo
+3|bambino.<P>
+1|Sua madre sarà
+1|preoccupata.<FA>
+
+### 0833
+La gente del paese è
+2|tutta bugiarda!<P>
+3|La signorina Sisko non
+1|è affatto cattiva!<P>
+1|Dovete credermi!
+1|<P>
+1|Provate anche voi
+1|a parlarle.<P>
+1|Di sicuro vedrete
+1|che non è una
+1|cattiva persona.<FA>
+
+### 0834
+Il corvo del cimitero
+2|sorveglia la tomba
+3|di mio padre.<P>
+1|Se vede questi fiori,
+1|di sicuro si
+1|ricorderà di me.<FB>
+
+### 0835
+Volete ascoltare
+2|quello che ho da dire?<FB>
+
+### 0836
+Dovrei essere io a
+2|farlo…<P>
+3|Ma quando penso alla
+1|gente del paese…<P>
+1|Non riesco a uscire.<FB>
+
+### 0837
+Che tristezza… Il
+2|bambino è sotto shock
+3|e non dice la verità.<FB>
+
+### 0838
+La signorina Sisko è
+2|buona, visto?<FB>
+
+### 0839
+Ci avete proprio
+2|salvato.<FB>
+
+### 0840
+<FE 6A>Finché c'è questo
+2|corvo, non possiamo
+3|avvicinarci alla lapide…<FB>
+
+### 0841
+E' la lapide di
+2|Christopher Benson.<FB>
+
+### 0842
+Qui c'è una fessura
+2|nella pietra… Credo
+3|che ci sia qualcosa…<FB>
+
+### 0843
+Da qui non si capisce
+2|cos'è.<FB>
+
+### 0844
+Cra, cra!<P>
+2|TR<FC 1A> Il fiore di Sisko!
+3|<P>
+1|Cra, cra!<P>
+1|TR<FC 1A> La figlia di Indio
+1|non è cattiva! E' una
+1|ragazza bella e buona!<FB>
+
+### 0845
+Se volete visitare
+2|la villa a est
+3|di qui…<P>
+1|Accanto vive una
+1|vecchietta, quindi
+1|si trova facilmente.<FB>
+
+### 0846
+Dei banditi che rubano
+2|il "Tesoro" ai
+3|pirati…<P>
+1|Sembra una brutta
+1|barzelletta…<FB>
+
+### 0847
+Com'è possibile che
+2|questa sia l'unica
+3|acqua rimasta in paese!?<P>
+1|Se solo potessi
+1|tornare indietro
+1|nel tempo…<P>
+1|Avrei dovuto proprio
+1|scavare quei
+1|pozzi…<FB>
+
+### 0848
+Davvero, vi
+2|ringrazierei se vi
+3|prendeste quella robaccia…<FB>
+
+### 0849
+Grr… Bau! Bau!<P>
+2|TR<FC 1A> Di qui si va al
+3|"Lago della Morte".<P>
+1|E' un posto molto
+1|pericoloso, non vi
+1|lascio passare!<FB>

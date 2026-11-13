@@ -1,0 +1,553 @@
+### 0083
+<FE 6A>Accidenti, stavo per
+2|essere mangiata!<P>
+3|Grazie, giganti!
+1|Piacere di conoscervi.
+1|Mi chiamo Polly.<FA>
+
+### 0084
+Un momento…<P>
+2|Se non siete tutti e
+3|3 in questa stanza,
+1|non fermiamo la nave.<P>
+1|Portate qui tutti.<FB>
+
+### 0085
+Chissà se c'è qualcosa
+2|alla base
+3|dell'albero…<FA>
+
+### 0086
+Ci sono minuscole
+2|impronte che portano
+3|al tronco.<FA>
+
+### 0087
+Qui non c'è più
+2|niente!<FB>
+
+### 0088
+Dove va questo…?<FB>
+
+### 0089
+<FE 6A>Bene, uniamo le
+2|nostre forze!<FA>
+
+### 0090
+Cosa c'è?
+2|Io non so niente.<FB>
+
+### 0091
+Era tutto per gioco,
+2|no?<P>
+3|Non arrabbiatevi.<FB>
+
+### 0092
+Non somigli per niente
+2|a Blue.<FB>
+
+### 0093
+Uuu, Uuu Iiik~!<P>
+2|TR<FC 1A> SOS all'albero a
+3|nord-ovest. Aiutateli!<FB>
+
+### 0094
+Di sicuro è ancora
+2|nella grotta!
+3|Dobbiamo salvarla!<FB>
+
+### 0095
+Scommetto che adesso
+2|ne ricavano dell'olio
+3|buono.<FB>
+
+### 0096
+Cirorò? Cir-cippì.<P>
+2|TR<FC 1A> Che succede?
+3|Siete fuori tempo.
+1|Riprovate.<FA>
+
+### 0097
+2| Gomme o caramelle….<FB>
+
+### 0098
+2| Mangia ancora?!?<FB>
+
+### 0099
+1 gennaio<FC 1A>
+2|3 piccoli coraggiosi
+3|hanno salvato il paese.<P>
+1|I ragazzi sono in
+1|viaggio per salvare
+1|la loro maestra.<P>
+1|Spero che possano
+1|rivederla presto.
+1|     -Smith-<FB>
+
+### 0100
+Non hai abbastanza
+2|Pietre Fortuna~!<FB>
+
+### 0101
+<FE 6A><F5 03>M
+2|   Registrazione…!<FA>
+
+### 0102
+1<FC 1A> Conchiglia Silvana<P>
+2|Una certa conchiglia
+3|della foresta pare
+1|che scacci le formiche.<FB>
+
+### 0103
+2<FC 1A> Goccia d'Oro<P>
+2|L'ingrediente base
+3|dell'antiformiche.<P>
+1|Il suo odore dolce
+1|stordirà le formiche.<FB>
+
+### 0104
+Sembra un teschio, ma
+2|da questa distanza è
+3|difficile dirlo.<FB>
+
+### 0105
+Non… Rimpiango…
+2|NIENTE.<FB>
+
+### 0106
+…Cip. Ci-cip.<P>
+2|TR<FC 1A> Lo so che siete
+3|emozionati, ma non
+1|abbiamo finito.<FA>
+
+### 0107
+Dovete sbrigarvi a
+2|raccoglierlo…<FB>
+
+### 0108
+3<FC 1A> Coda di Rana<P>
+2|Le formiche odiano più
+3|di tutto la bava di
+1|girino.<FB>
+
+### 0109
+Cosa?
+2|C'è ancora qualcuno
+3|dentro?<P>
+1|L'avete abbandonato
+1|per salvarvi?<P>
+1|…Dobbiamo fare
+1|l'impossibile.<P>
+1|Ehi!!
+1|Datemi una mano!<FA>
+
+### 0110
+…Sono felice che
+2|abbiate trovato qui
+3|quello che cercavate.<P>
+1|Tornerete su quell'isola,
+1|vero?<P>
+1|Prego che possiate
+1|ritrovare sana e salva
+1|la vostra maestra.<P>
+1|
+1|     Addio.<FA>
+
+### 0111
+…Cosa?! E' vero!?
+2|Vi prego, dovete
+3|salvare la principessa!<FA>
+
+### 0112
+Viandanti, abbiate pietà
+2|di questo povero vecchio.<P>
+3|Non volete salvare
+1|la principessa?<FA>
+
+### 0113
+…Lo farete?! Siete
+2|davvero all'altezza
+3|delle mie aspettative.<P>
+1|Prendete questo.<FA>
+
+### 0114
+<F2>Ora possiamo andare
+2|avanti!<FA>
+
+### 0115
+Se qualcuno sta sul
+2|blocco luminoso
+3|dentro la cella,<P>
+1|la porta si può
+1|chiudere da dentro.<FA>
+
+### 0116
+Io do ancora
+2|un'occhiata qui
+3|intorno.<FB>
+
+### 0117
+<F2>Avete trovato una
+2|tavola di legno!<P>
+3|Perché nasconderla
+1|in una buca?<FA>
+
+### 0118
+4<FC 1A> Filo d'Argento<P>
+2|Il filo d'argento super
+3|appiccicoso blocca
+1|le formiche.<FB>
+
+### 0119
+5<FC 1A> Pelliccia Silvana<P>
+2|La pelliccia di una
+3|creatura che odia
+1|il freddo.<P>
+1|Si dice che indebolisca
+1|le formiche.<FB>
+
+### 0120
+Che serratura enorme!<P>
+2|Ci entrerebbe una
+3|mano intera.<FB>
+
+### 0121
+Cippù, cip-cip.<P>
+2|TR<FC 1A> Più in là non
+3|possiamo andare.<P>
+1|L'anziano è stato
+1|molto severo su
+1|questo.<P>
+1|Ora dovete inventarvi
+1|qualcosa voi
+1|ragazzi.<P>
+1|Tranquilli, sono
+1|sicuro che andrà bene.
+1|<FA>
+
+### 0122
+Sarà un gioco da
+2|ragazzi!!<FA>
+
+### 0123
+La serratura era molto
+2|vecchia e arrugginita,
+3|ma niente paura!<P>
+1|Ora dovrebbe aprirsi.<FA>
+
+### 0124
+    "Antiformiche"
+2|Potente! E! Grande!<P>
+3|Attenzione<FC 1A> leggere
+1|il manuale d'uso
+1|prima dell'uso.<FB>
+
+### 0125
+2|  Avviciniamoci.<FB>
+
+### 0126
+Da qui non ci
+2|arriviamo.
+3|Che facciamo?<FB>
+
+### 0127
+Uuu Uuu-kii!<P>
+2|TR<FC 1A> Aprite porta,
+3|salvate maestra!<FB>
+
+### 0128
+Il paletto ci
+2|impedisce di
+3|spostarlo…<FB>
+
+### 0129
+Prendete questo,
+2|piccoli pirati!<P>
+3|Ehm, cosa? Chissà come,
+1|ora il tubo è
+1|allineato!<FA>
+
+### 0130
+<F5 02>{1A}Uho ho!<P>
+2|TR<FC 1A> Avvicinatevi.<FB>
+
+### 0131
+Se perdete tempo,
+2|farete tardi a pranzo!<P>
+3|Dorothy non ha molta
+1|pazienza, quindi
+1|buona fortuna!<FB>
+
+### 0132
+…Lasciamoli…
+2|in pace.<FB>
+
+### 0133
+Punteggio squadra <FE 6D 1A><FC 1A>
+2|Raccolto<FC 1A> <FE 6B><FE 6D 34>
+3|Persone aiutate<FC 1A> <FE 6C><F4>{65}<FE 6D 32>  Ovvero…<FA>
+
+### 0134
+Hassan non è proprio
+2|un soldato,<P>
+3|ma proviamo lo
+1|stesso a usare su
+1|di lui "Blu Soldato".<P>
+1|Dovrebbe andar bene…
+1|o no?<FA>
+
+### 0135
+<F5 02>{1A}Uho-ho!<P>
+2|TR<FC 1A> Mi sfidate?
+3|Costa <FE 6D 20>{EC}{ED}.<FE 6A><P>
+1|    Andiamo!
+1|    No. Ookiki!<FE 68><FA>
+
+### 0136
+E se scommettete la
+2|vita? Se perdete,
+3|perdete PV.<P>
+1|  Che ne dite?<FE 6A>
+1|    Va bene.
+1|    Sembra doloroso…<FE 68><FA>
+
+### 0137
+Squadra, siete stati
+2|"Molto Marvelous!!"
+3|      F i n e !<FA>
+
+### 0138
+Uuu Uuu!<P>
+2|TR<FC 1A> Di qua!
+3|Di qua!<FB>
+
+### 0139
+Il masso è sparito!<FA>
+
+### 0140
+Cosa?
+2|Non basta?<FB>
+
+### 0141
+<F2>Wow! E' un ponte di
+2|foglie gigante!<P>
+3|Forse gli abbiamo
+1|dato troppa acqua?
+1|<FB>
+
+### 0142
+Per favore… Gui-da-
+2|mi… Con-cu-ra!!<FB>
+
+### 0143
+Sento il vento soffiare
+2|tra queste
+3|rocce.<FB>
+
+### 0144
+Fugo. Fugofugogo.<P>
+2|TR<FC 1A> Lo so, volete la
+3|cosa sulla mia
+1|schiena, eh?<P>
+1|Prima dovete
+1|battermi.<P>
+1|Accettate la sfida?<FE 6A>
+1|    Accetto.<P>
+1|    No, grazie.<FE 68><FA>
+
+### 0145
+Sono una biologa,
+2|venuta ad aiutare
+3|i coloni…<P>
+1|Ora sembro una
+1|poetessa giapponese, eh?<FB>
+
+### 0146
+Sarebbe terribile se
+2|vi cadesse qualcosa
+3|dentro.<P>
+1|La morale è questa<FC 1A>
+1|nelle serrature non
+1|entrano solo chiavi…<FB>
+
+### 0147
+Uuu-Uuu! Uuu.<P>
+2|TR<FC 1A> Troverete la
+3|persona importante
+1|che state cercando!<P>
+1|Ne sono sicuro!<FB>
+
+### 0148
+…Trovate i forzieri
+2|verdi. Apriteli in
+3|sequenza.<P>
+1|L'ultimo contiene la
+1|chiave. In tutto,
+1|ce ne sono-----<P>
+1|
+1|<F5 01>7…Eh?…Si interrompe
+1|a metà.<FB>
+
+### 0149
+E' fermo alle 10<FC 1A>00.<FB>
+
+### 0150
+Fugo? Fugogo!<P>
+2|TR<FC 1A> Non lo fate?
+3|Allora sparite!<FB>
+
+### 0151
+Fugo. Fugo-fugo.<P>
+2|TR<FC 1A> Partite da qui e
+3|fate il giro <FE 6D 22>
+1|volte. Capito?<FB>
+
+### 0152
+Fuugogo. Fugo.<P>
+2|TR<FC 1A> Un uomo lotta
+3|fino alla fine, anche
+1|se sa di aver perso!<FB>
+
+### 0153
+<F2>Evviva!
+2|Avete battuto il ragno!<FA>
+
+### 0154
+<F5 02>N<F5 00>BAccidenti!
+2|…Avete perso.<FA>
+
+### 0155
+Fugo! Fufu-gogo.<P>
+2|TR<FC 1A> Che lumache!
+3|Non mi batterete mai
+1|con quelle mosse.<P>
+1|Riprovate?<FE 6A>
+1|    Sì.
+1|    Basta con te.<FE 68><FA>
+
+### 0156
+Fugo! Fugo. Fufugo.<P>
+2|TR<FC 1A> Mettetecela
+3|tutta!<P>
+1|Vi do di nuovo un
+1|po' di vantaggio.<P>
+1|Partite quando
+1|siete pronti.
+1|<FA>
+
+### 0157
+Pengi?<FB>
+
+### 0158
+Pengi-pegi. Pegi-pegi!<P>
+2|TR<FC 1A> Sono troppo
+3|fifone per dichiararmi
+1|da solo.<P>
+1|
+1|
+1|Pengi-pegigi. Pegi.<P>
+1|Mi ferisce l'orgoglio,
+1|ma mi servirebbe
+1|l'aiuto di un umano.<FB>
+
+### 0159
+Pengi-pengi-pengi!<P>
+2|TR<FC 1A> Non sono
+3|esigente. Basta che
+1|sia una pinguina.<FB>
+
+### 0160
+Pegi-pengi. Pegi!<P>
+2|TR<FC 1A> Verrei con voi,
+3|ma prima pensate
+1|a lui.<FB>
+
+### 0161
+Siete forti!
+2|Che dichiarazione!<P>
+3|Caspita, qui si sta
+1|facendo caldo.<FA>
+
+### 0162
+Niente da fare…
+2|Credo che sia
+3|traumatizzato.<FA>
+
+### 0163
+Pegi-pengi. Pengi.<FB>
+
+### 0164
+Pegi. Pegi-pengi.<FA>
+
+### 0165
+Pengi-pegi!<P>
+2|TR<FC 1A> Maledetti
+3|pinguini, tutti
+1|sdolcinati!<P>
+1|Con loro ho chiuso!
+1|…In realtà, ho il
+1|cuore spezzato.<P>
+1|Vi prego, portatemi
+1|via da qui.<FA>
+
+### 0166
+Fugo! Fu-fugo.<P>
+2|TR<FC 1A> Vi arrendete
+3|troppo facilmente!<P>
+1|Non vivrete a lungo
+1|con quell'atteggiamento!<FA>
+
+### 0167
+Fugo! Fugo-go!<P>
+2|TR<FC 1A> Accidenti, come
+3|ho fatto a perdere con
+1|dei mocciosi…<P>
+1|E va bene, l'ho
+1|promesso, prendetelo.<FA>
+
+### 0168
+Pegi-pegi-pengi.<FB>
+
+### 0169
+…Ripara… Pavimento…
+2|Quadro… Usa…
+3|Testa… E… Piedi…<FB>
+
+### 0170
+<F2>Vernice Rossa!<P>
+2|Ha anche un comodo
+3|pennello per
+1|stenderla.<FA>
+
+### 0171
+Fugo. Fuuugo.<P>
+2|TR<FC 1A> Ho altri tre
+3|fratelli in questa
+1|foresta.<P>
+1|Li avete già visti?
+1|Sono molto
+1|competitivi.<FA>
+
+### 0172
+Fufo- fugo.<P>
+2|TR<FC 1A> Ho così tante di
+3|queste pietre…
+1|Ne ho abbastanza.<P>
+1|Che ne dite di una
+1|scommessa su una gara?<P>
+1|Costa 1{EC}{ED}.<FE 6A>
+1|    Certo!
+1|    Meglio di no…<FE 68><FA>
+
+### 0173
+Ehi, riconoscerei quel
+2|pranzo piccante
+3|ovunque!<P>
+1|Ve l'ha detto mia
+1|moglie di portarmelo?
+1|Grazie mille!<P>
+1|
+1|      Tesoro…
+1|<P>
+1|
+1|Beh, sembra affamato.<FA>

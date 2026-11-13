@@ -1,0 +1,522 @@
+### 0001
+2|    Cos'è questo?!<FB>
+
+### 0002
+2|Dobbiamo avvicinarci!<FB>
+
+### 0003
+Messaggio fallito.<FB>
+
+### 0004
+…Eh?
+2|Come mai sentiamo la
+3|voce della maestra Gina?<P>
+1|Ce ne sono due??
+1|…Ma che diavolo…?<FA>
+
+### 0005
+Avete preso l'oggetto
+2|dalla tomba?<FA>
+
+### 0006
+2|    No, non quello!<FB>
+
+### 0007
+Cip cip!<P>
+2|TR<FC 1A> Eccoci, a casa
+3|dolce campo.<P>
+1|Siete pronti?<FA>
+
+### 0008
+Muuuha! Hayaah!
+2|Non distrarmi, sennò
+3|scappa!<P>
+1|Guraaah, questo è
+1|quello grosso!!<FB>
+
+### 0009
+Cip-cip.<P>
+2|TR<FC 1A> Io vado avanti
+3|e vi aspetto.<P>
+1|Winky, andiamo!<FA>
+
+### 0010
+Al resto ci pensiamo noi.
+2|Perché non andate a
+3|esplorare l'isola?<FB>
+
+### 0011
+Perché non esplorate
+2|l'isola finché il
+3|pranzo non è pronto?<P>
+1|Potreste fare una
+1|nuova scoperta.<FB>
+
+### 0012
+Eh?! Non hai abbastanza
+2|Pietre Fortuna!<P>
+3|Torna quando ne avrai
+1|molte di più.<FA>
+
+### 0013
+Il nostro capo è un
+2|fanatico della pesca,<P>
+3|ma non ha mai preso
+1|un pesce in vita sua.<P>
+1|Tira su solo rottami.<FB>
+
+### 0014
+E se uno forzuto
+2|restasse sotto?<P>
+3|Forse gli altri due
+1|possono provare a
+1|sollevare da sopra?<FB>
+
+### 0015
+Il nostro capo è un
+2|fanatico della pesca,<P>
+3|ma non ha mai preso
+1|un pesce in vita sua.<P>
+1|Tira su solo rottami.<FB>
+
+### 0016
+Presto, prendilo!!<FB>
+
+### 0017
+Uuu-kii! Uuu-kii!<P>
+2|TR<FC 1A> Aiuto! Aiuto!<FB>
+
+### 0018
+Dove va questo?<FB>
+
+### 0019
+Pare che spingendo la
+2|leva possiamo farla
+3|ruotare.<P>
+1|Ma è troppo pesante
+1|per una persona sola.<FB>
+
+### 0020
+Non riusciamo a
+2|spostarlo in qualche
+3|modo…?<FB>
+
+### 0021
+La potente corrente
+2|d'acqua ha spostato
+3|il macigno!<FB>
+
+### 0022
+Uuu-kiii!<P>
+2|TR<FC 1A>…Aspettate!<FA>
+
+### 0023
+C'è scritto<FC 1A>
+2|"Pericolo!
+3| Trappola più avanti."<FB>
+
+### 0024
+Pronto!
+2|Così inciampano di
+3|sicuro. Eheh…<FB>
+
+### 0025
+2|  Altri rottami? Uffa.<FB>
+
+### 0026
+Come facciamo a
+2|sollevare una cosa
+3|così grossa…?<FB>
+
+### 0027
+Se solleviamo da tutti
+2|e due i lati del masso,
+3|forse si sposta.<FB>
+
+### 0028
+Ne vuoi un po'?<P>
+2|Stai attento, prima che
+3|il tuo bel faccino
+1|finisca<P>
+1|spiaccicato come il mio!<P>
+1|AHAHAHahahahahahaha~!<FE 6A>
+1|
+1|<P>
+1|<FE 6A>Non c'è da ridere!<FE 6A>
+1|
+1|<FB>
+
+### 0029
+<FE 6A>Ai membri della
+2|squadra <FE 6D 1A><FC 1A><P>
+3|La nave è arrivata
+1|dalla città, quindi
+1|partiamo subito.<P>
+1|Vi abbiamo aspettato
+1|due ore, ma non vi
+1|siete fatti vedere.<P>
+1|Abbiamo chiamato la
+1|polizia: lasciate che
+1|cerchi la maestra Gina.<P>
+1|Fatevi dare un
+1|passaggio da loro
+1|per tornare in città.<P>
+1|Il campo di quest'anno
+1|ci è proprio sfuggito
+1|di mano,<P>
+1|ma quando tornate in
+1|città, giochiamo di
+1|nuovo a calcio.<P>
+1|
+1|Vedete di tornare,
+1|teppisti!<P>
+1|              -Jim<FB>
+
+### 0030
+Uuukii-kii-kiikiikii~.<P>
+2|TR<FC 1A> Pluck sa aprire
+3|porta. Io? No.<FB>
+
+### 0031
+  Dai su~.
+2|Usa il pannello <FE 6D 46>.<P>
+3|Porta il segno <FE 6D 0C>
+1|sulla maestra e
+1|premi <FE 6D 02>.<FB>
+
+### 0032
+Bene, squadra <FE 6D 1A>,
+2|ora vi spiego i
+3|vostri compiti.<P>
+1|Ascoltate bene.
+1|Dovete trovare <FE 6D 2A>
+1|pezzi di legna e<P>
+1|portarli a Dorothy
+1|nella tenda 3, così
+1|prepara il pranzo.<P>
+1|Su quest'isola ci
+1|sono anche tante
+1|belle pietre.<P>
+1|Si chiamano
+1|"Pietre Fortuna" e
+1|a me piacciono tanto.<P>
+1|Bene, è tutto quello
+1|che avevo da dire.<P>
+1|Se volete, premete
+1|<FE 6D 02> sul pannello <FE 6D 46>
+1|per i dettagli.<FB>
+
+### 0033
+Il vostro compito è
+2|raccogliere <FE 6D 2A> pezzi
+3|di legna. Capito?<P>
+1|…E non scordate
+1|le Pietre Fortuna.<P>
+1|Premi <FE 6D 04> o <FE 6D 02> sul
+1|pannello <FE 6D 44> per
+1|chiudere la schermata.<FB>
+
+### 0034
+Cip-cip-cirrlll~.
+2|TR<FC 1A> Il "Cristallo
+3|Rosso" lo metto io.<P>
+1|Voi mettete a posto
+1|gli altri 3 cristalli.<P>
+1|Insieme, d'accordo?<FB>
+
+### 0035
+Sono un gentile
+2|robot innaffiatore.<P>
+3|Innaffio le piante
+1|secche. Però…<P>
+1|Senza telecomando,
+1|sono solo un robot.<FB>
+
+### 0036
+Avviciniamoci un po'
+2|per dare un'occhiata.<FB>
+
+### 0037
+A… acqua…<FB>
+
+### 0038
+<FE 79><F5 02>LUsa <FE 6D 08> e <FE 6D 0A><FE 6D 1C> <FE 6D 18><FE 71><FA>
+
+### 0039
+<FE 79>Imposta il percorso.<FE 6D 08>
+2| 1 2 3 4 5 6 7 8<FE 6F><FB>
+
+### 0040
+<FE 79><FD 01> sinistra. <FD 00> destra.
+2|<FE 6D 08> per la rotazione.
+3|   {1C}<FD 00>1{1C}  {1C}<FE 70><FA>
+
+### 0041
+Ci sono dei vasi sotto.<P>
+2|Pare che in questa
+3|buca ce ne siano tre…<P>
+1|Sembrano due vasi rossi
+1|e uno blu.<FB>
+
+### 0042
+Avete salvato una
+2|scimmia, ma avete
+3|maltrattato un cane.<P>
+1|Scimmie e cani sono
+1|rivali fin dai tempi
+1|antichi…<P>
+1|Però io sono amico
+1|dei cani, quindi ora
+1|vi combatto!<FB>
+
+### 0043
+Anche se non funziona,
+2|siamo arrivati fin
+3|qui. Proviamoci!<FB>
+
+### 0044
+Uuu uuu aah…<P>
+2|TR<FC 1A> Grazie, bravi
+3|ragazzi.<P>
+1|Vi do quello che
+1|cercavano loro.<FA>
+
+### 0045
+<F2>La scimmia vi dà
+2|delle strane chiavi!
+3|<P>
+1|Stranamente, i colori
+1|corrispondono ai
+1|vostri vestiti.<P>
+1|Cosa apriranno
+1|queste chiavi??<FA>
+
+### 0046
+Non vedo pesci da
+2|queste parti…<FB>
+
+### 0047
+Forse potremmo legarli
+2|insieme con una
+3|corda.<FB>
+
+### 0048
+Cip-cippì.<P>
+2|TR<FC 1A> Al mio tre,
+3|premete <FE 6D 02>, ok?<FA>
+
+### 0049
+Prendiamo la rincorsa
+2|e poi BAM,<P>
+3|SBAM, buttiamo giù
+1|la porta!<FB>
+
+### 0050
+<F2>Avete fatto una scala!<FA>
+
+### 0051
+Mi sa che c'è una
+2|serratura.<P>
+3|Avviciniamoci.<FB>
+
+### 0052
+Che ne dite di dare
+2|un'occhiata da vicino?<FB>
+
+### 0053
+2| Fiuuuuuuuuuuuu~!<FB>
+
+### 0054
+Qualcosa non va.
+2|Dobbiamo metterci tutti
+3|in fila dietro la cassa.<FA>
+
+### 0055
+Prima non lo pensavo…<P>
+2|
+3|Ma forse la maestra
+1|Gina è di qua?…<FB>
+
+### 0056
+Sembra che ci si possa
+2|salire, ma c'entra
+3|solo una persona.<FB>
+
+### 0057
+E' veloce! Insieme
+2|non riusciremo a
+3|evitarli.<FB>
+
+### 0058
+Ma come ci arriviamo
+2|lassù…?<FB>
+
+### 0059
+Guarda qua, sceriffo!
+2|Beccati questo!<FA>
+
+### 0060
+Se lo tiriamo così,
+2|poi non riusciremo
+3|più a uscire.<FB>
+
+### 0061
+Cosa? Lo sceriffo era
+2|un impostore?!<P>
+3|Ma lo sceriffo sono io.<P>
+1|Oh, si è trasformato
+1|NEGLI abitanti del
+1|villaggio e li ha
+1|attaccati!<FB>
+
+### 0062
+Uuu-kii-kii, kiiiii!<P>
+2|TR<FC 1A> Venite qui!
+3|Presto! Presto!<FB>
+
+### 0063
+Credo che i bambini
+2|sappiano percepire la
+3|bontà nelle persone.<P>
+1|Per questo sognavo di
+1|diventare maestra--<P>
+1|Per insegnare ai
+1|bambini ad avere un
+1|cuore gentile. <FB>
+
+### 0064
+Tranquilli, non sono
+2|cambiata per niente.
+3|Guardate, non sono bella?<FB>
+
+### 0065
+Possiamo salirci
+2|sopra!<FB>
+
+### 0066
+<F5 02>{1A}Uuu-kii!! Tornate
+2|presto, eh?…<FB>
+
+### 0067
+Come si apre…?<FB>
+
+### 0068
+Scheeerzavo!<P>
+2|Sembra vernice…
+3|Ma che ci farebbe
+1|qui…?<FB>
+
+### 0069
+Fugo, fufugo, fugogo.<P>
+2|TR<FC 1A> Lo so.
+3|Volete la cosa che
+1|ho sulla schiena, eh?<P>
+1|Beh, ci penserò
+1|se riuscite a battermi.<FE 6A><P>
+1|    Accetto.
+1|    Rinuncio.<FE 68><FA>
+
+### 0070
+Fugo! Fugo, fugogo.<P>
+2|TR<FC 1A> Bene, ascoltate,
+3|le regole sono semplici.<P>
+1|Fate <FE 6D 22> giri
+1|della pista.<P>
+1|Chi arriva primo
+1|vince.<P>
+1|Visto che sono tanto
+1|buono, vi do un po'
+1|di vantaggio.<P>
+1|Partite quando siete
+1|pronti.<FA>
+
+### 0071
+Qualcosa non va.
+2|Dobbiamo disporci in
+3|modo uniforme attorno<P>
+1|alla leva, o non
+1|riusciremo a muoverla.<FB>
+
+### 0072
+Qualcosa non va.<P>
+2|Dobbiamo metterci tutti
+3|e tre in fila davanti
+1|al tubo.<FB>
+
+### 0073
+Ehi, ciccione.
+2|Mi piacciono i robusti.<P>
+3|Sarà probabilmente un
+1|lungo viaggio, quindi
+1|facciamo amicizia.<FA>
+
+### 0074
+<FE 6A>E' una ragazza grande
+2|come il mio pollice.<FB>
+
+### 0075
+<F2>Polly, la ragazza
+2|minuscola, è diventata
+3|vostra amica?!<P>
+1|Può aiutarci nei posti
+1|troppo piccoli per
+1|noi.<P>
+1|Sembra un po'
+1|prepotente…<FA>
+
+### 0076
+Cara squadra <FE 6D 1A>,
+2|come vanno gli studi?<P>
+3|Pare che Jim vi abbia
+1|giudicati male.<P>
+1|Il suo comportamento
+1|dopo il rapimento
+1|di Gina è stato
+1|presuntuoso.<P>
+1|Detto questo, sarebbe
+1|meglio che tornaste.<P>
+1|Aspettate la polizia,<P>
+1|oppure trovate una
+1|nave e lasciate l'isola.<P>
+1|Buona fortuna.
+1|    ~Studiate sempre.<FB>
+
+### 0077
+<FE 6A>Qualcosa si muove
+2|tra le radici!!<FB>
+
+### 0078
+Bau-bau-bau-bau-bau!<P>
+2|TR<FC 1A> Chi va là?!
+3|Vi mangio!<P>
+1|Mangio tutto quello che
+1|trovo sulla mia strada!<FB>
+
+### 0079
+Allora dovete trovare
+2|subito quella sfera di
+3|cristallo e scappare!<P>
+1|Presto!<FA>
+
+### 0080
+Cip? Cip.<P>
+2|TR<FC 1A> Che succede?
+3|Così non funzionerà.<P>
+1|Dovete mettervi tutti
+1|e tre più vicini.<FB>
+
+### 0081
+Se resto qui, un altro
+2|cane potrebbe provare
+3|a mangiarmi…<P>
+1|…Quindi il mio regalo
+1|per voi è venire con
+1|voi.<P>
+1|Mi faccio dare un
+1|passaggio dal ciccione.<FA>
+
+### 0082
+Che intenzioni avete
+2|con una signora!?<P>
+3|Se non vi avvicinate,
+1|non vengo con voi.<FB>

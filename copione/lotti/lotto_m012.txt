@@ -1,0 +1,541 @@
+### 0940
+Anche se è un fantasma,
+2|è proprio timido…<FB>
+
+### 0941
+Con fantasmi e rane
+2|non ci sono mai
+3|andato d'accordo….<FB>
+
+### 0942
+Dietro c'è di sicuro
+2|la figlia di Indio!<FB>
+
+### 0943
+Fa un po' paura, ma
+2|è anche emozionante!<FB>
+
+### 0944
+Gli diamo una
+2|scrollata…?<FB>
+
+### 0945
+Non è che non mi fidi
+2|di voi…<P>
+3|Ho promesso di non
+1|rivelare niente di
+1|personale.<P>
+1|Soprattutto il mio
+1|nome, o da dove
+1|vengo.<FB>
+
+### 0946
+Cos'è quella foto?
+2|E' troppo lontana per
+3|vederla bene…<FB>
+
+### 0947
+Ehi, siamo io e
+2|Indio!<P>
+3|Non ricordo di aver
+1|mai fatto questa
+1|foto…<P>
+1|
+1|Ma chi siete, ragazzi?
+1|<FA>
+
+### 0948
+Ma che diavolo!?
+2|La "Sfera Blu" rubata
+3|dai banditi?!<P>
+1|Come lo sapete?! Se è
+1|vero, siamo nei guai
+1|seri!<P>
+1|So dov'è il covo
+1|dei "Fratelli
+1|Mammut",<P>
+1|andiamo a salvare
+1|Indio!<P>
+1|Se non vi dispiace,
+1|prendo quella foto.
+1|<FB>
+
+### 0949
+Presto!<FB>
+
+### 0950
+Guardate qua!!<FA>
+
+### 0951
+Da qui dovremmo
+2|riuscire a entrare.
+3|Presto!<FA>
+
+### 0952
+Venite qui.<FB>
+
+### 0953
+Forse cercando da
+2|un'altra parte mi
+3|ricordo.<FA>
+
+### 0954
+Non volete solcare i
+2|sette mari da
+3|pirati?<FB>
+
+### 0955
+Che razza di scherzo,
+2|dei banditi che
+3|attaccano i pirati?<FB>
+
+### 0956
+Perché non vedete
+2|da soli?<FB>
+
+### 0957
+Blue!
+2|Comportati bene!!<FB>
+
+### 0958
+La mia mamma è bella,
+2|vero?<FB>
+
+### 0959
+Da grande voglio fare
+2|la maestra!<FB>
+
+### 0960
+Di che uccello sarà
+2|quest'uovo…?
+3|…Cosa?!<FA>
+
+### 0961
+<F2>E' nato un corvetto!<FB>
+
+### 0962
+Wow! Che forte!<FA>
+
+### 0963
+Chissà come si fa ad
+2|aprire il fiore…<FB>
+
+### 0964
+Forse basta un bel
+2|calcio!<FB>
+
+### 0965
+Se vi avvicinate
+2|troppo, le spine vi
+3|pungono…<FB>
+
+### 0966
+Per mille balene!<P>
+2|
+3|Il salto nel tempo ha
+1|funzionato! Indio
+1|diceva la verità!<P>
+1|Allora sono finito
+1|nel futuro…?<P>
+1|L'acqua si è davvero
+1|prosciugata come
+1|diceva Indio?!<FA>
+
+### 0967
+Questa Sfera di
+2|Cristallo ci porterà
+3|al tesoro leggendario!<P>
+1|Mi sa che a voi
+1|non serve più,
+1|vero?<P>
+1|Spiacenti, ma ce la
+1|prendiamo noi!!
+1|<FA>
+
+### 0968
+Il resto lo lasciamo
+2|alla gente del
+3|paese.<P>
+1|
+1|Non vedo l'ora!
+1|<FA>
+
+### 0969
+Premi <FE 6D 04> per
+2|tirare pugni, tienilo
+3|per parare! Ok!?<FA>
+
+### 0970
+Eheheh, ciao!<FA>
+
+### 0971
+Il "tesoro del paese"
+2|è sparito!<P>
+3|L'hai rubato tu,
+1|vero, Indio?!<P>
+1|Ho appena ricevuto
+1|una soffiata
+1|anonima su di te!<FA>
+
+### 0972
+Sei in arresto!<FA>
+
+### 0973
+Grazie dell'aiuto con
+2|l'arresto, ragazzi!<P>
+3|Ora sappiamo che Indio
+1|è il capo dei banditi
+1|della montagna.<FA>
+
+### 0974
+Wow! L'avete aperta!
+2|Quella chiave aprirà
+3|la porta blu…<P>
+1|Andiamoci
+1|subito.
+1|<FA>
+
+### 0975
+…Non c'è un altro
+2|modo di guardare dentro?<FB>
+
+### 0976
+Senza avvicinarsi
+2|parecchio non si vede.<FB>
+
+### 0977
+<FE 6A>Oh, eccoli!
+2|Di cosa stanno
+3|parlando?<FB>
+
+### 0978
+Non ho rubato io la
+2|sfera! Lo giuro!
+3|Ma la cosa importante,<P>
+1|è scavare altri pozzi,
+1|o il paese resterà
+1|senz'acqua!<P>
+1|Ho chiesto al ragazzo
+1|del lago di scavare
+1|i buchi…<P>
+1|Potete trovarlo e
+1|aiutarlo?<P>
+1|Se quei pozzi non
+1|vengono scavati presto,<P>
+1|il paese sarà nei
+1|guai seri!<FB>
+
+### 0979
+Il paese resterà
+2|senz'acqua?<P>
+3|Hai chiesto al ragazzo
+1|del lago dei pozzi?
+1|Basta con le bugie!<P>
+1|Dimmi dove hai nascosto
+1|il "tesoro del paese"!
+1|<FB>
+
+### 0980
+Indio mi ha chiesto
+2|un favore…<P>
+3|Sapete dov'è
+1|adesso?<FB>
+
+### 0981
+Indio dice che questo
+2|lago si seccherà presto,<P>
+3|e mi ha chiesto di
+1|scavare dei pozzi…<P>
+1|Per scavare un pozzo,
+1|mi serve l'aiuto di
+1|questi pinguini.<P>
+1|Hanno un potere
+1|misterioso, sentono
+1|dov'è l'acqua.<P>
+1|Ma questi pinguini
+1|sono in piena
+1|stagione degli amori!<P>
+1|Non riesco a farne
+1|allontanare nessuno
+1|dal lago.<P>
+1|  Mi aiutate a prenderne uno?<FE 6A>
+1|    Certo!
+1|    Fallo da solo!<FE 68><FA>
+
+### 0982
+Così si fa!<P>
+2|Io torno indietro e
+3|aspetto che mi
+1|portiate un pinguino.<FA>
+
+### 0983
+Non posso perché…
+2|non so nuotare!<FB>
+
+### 0984
+Non avete niente
+2|per scavare?<P>
+3|Va bene, vi do la mia
+1|invenzione, la "macchina
+1|scavabuchi"!<P>
+1|…Vorrei dire, ma ho
+1|solo il progetto
+1|disegnato.<P>
+1|La darò al ragazzo
+1|che ama di più
+1|costruire cose.<FB>
+
+### 0985
+Vorrei darvi la
+2|"macchina scavabuchi"
+3|che ho progettato,<P>
+1|ma ne ho solo il
+1|progetto.<P>
+1|I pezzi dovrete
+1|trovarli da soli.
+1|<FA>
+
+### 0986
+<F2>Progetto della Macchina
+2|Scavabuchi!<P>
+3|Questi pezzi mi pare di
+1|averli già visti…<FA>
+
+### 0987
+Il mio istinto dice che
+2|in paese ci sono <FE 6D 24> punti
+3|giusti per un pozzo.<FA>
+
+### 0988
+Se non li scaviamo in
+2|fretta, sarà un
+3|disastro!<FB>
+
+### 0989
+<F2>Avete costruito la
+2|Macchina Scavabuchi!<FA>
+
+### 0990
+Ma è troppo pesante
+2|da sollevare.
+3|Max, pensaci tu!<FB>
+
+### 0991
+Facciamola portare
+2|a Max!<FB>
+
+### 0992
+2|Datti una mossa, Jack.<FB>
+
+### 0993
+<F5 01>eMuu~ muu~.
+2|TR<FC 1A> Muu muu.<FB>
+
+### 0994
+Avviciniamoci e
+2|proviamo qualcosa…<FB>
+
+### 0995
+<F5 01>eMrruu~ muuuu.<P>
+2|TR<FC 1A> Soffro tanto
+3|il solletico, non
+1|avvicinatevi!<FB>
+
+### 0996
+Mascalzoni! E' questo
+2|il modo di trattare
+3|una signora?!<FA>
+
+### 0997
+<F2>Ce l'avete fatta!<P>
+2|Ora il paese avrà
+3|sempre acqua in
+1|abbondanza!<P>
+1|Grazie! Questo
+1|pinguino lo tengo io.<P>
+1|Ah, ragazzi, ho
+1|una cosa interessante
+1|da dirvi.<P>
+1|Se volete salvare
+1|Indio, prendete una rana.<P>
+1|Lo sceriffo odia le
+1|rane più di qualsiasi
+1|altra cosa!<FA>
+
+### 0998
+Grazie a voi ragazzi,
+2|i problemi d'acqua del
+3|paese sono risolti.<P>
+1|Ora dobbiamo salvare
+1|Indio!<FB>
+
+### 0999
+Cra cra.<P>
+2|TR<FC 1A> Maledetti pinguini!
+3|Sbrigatevi ad
+1|accoppiarvi!<FB>
+
+### 1000
+Crrrra cra.<P>
+2|TR<FC 1A> Che fame…
+3|Tutto quello che si
+1|muove sembra cibo…<FB>
+
+### 1001
+<F2>Avete una Rana!<P>
+2|Ve la siete guadagnata~.<FB>
+
+### 1002
+Cerchiamo l'ascensore
+2|della porta blu.<P>
+3|Credo che fosse sotto
+1|la stanza dove ero
+1|prigioniera.<FB>
+
+### 1003
+Aiuto! Una rana!!
+2|Aiutatemi!!<FA>
+
+### 1004
+Quello a sinistra è
+2|Benson! E io sono
+3|accanto a lui…<P>
+1|Dove l'avete
+1|presa?<P>
+1|Non ricordo di aver
+1|posato per questa…<P>
+1|Siete viaggiatori
+1|nel tempo?!<P>
+1|Vi prego, prendete
+1|questa foto e
+1|cercate Benson!<FB>
+
+### 1005
+Eh? Dite di conoscere
+2|Benson?<P>
+3|Non che non vi creda,
+1|ma avete qualche
+1|prova?<FB>
+
+### 1006
+Dovete essere
+2|viaggiatori nel tempo!<P>
+3|Di sicuro riuscirete
+1|a trovare Benson!<FB>
+
+### 1007
+Tempo, ti prego,
+2|proteggi questi ragazzi…<FB>
+
+### 1008
+Quale pensate che
+2|sia bella?
+3|Indicatela.<FB>
+
+### 1009
+<F5 02>MCapisco, quella con
+2|solo una finestra…<P>
+3|Sì, semplice è bello!<FA>
+
+### 1010
+<F5 02>MCapisco, quella con
+2|porta E finestra…<P>
+3|Già, senza una porta,
+1|non si entra,
+1|no??<FA>
+
+### 1011
+<F5 02>MCapisco, quella con
+2|la porta in alto…<P>
+3|Sì, così se nevica,
+1|posso uscire lo
+1|stesso!<FA>
+
+### 1012
+<F5 02>MOh, quella con tante
+2|finestre…<P>
+3|Bella idea, così
+1|dentro ci sarà
+1|tanta luce!<FA>
+
+### 1013
+Grazie!<P>
+2|Quando l'avrò finita,
+3|vorrei mostrarvela…
+1|<P>
+1|Ma c'è ancora
+1|tanta strada da fare…<P>
+1|Tornate quando sarete
+1|grandi!<FA>
+
+### 1014
+<FE 6D 32> non va bene?
+2|Allora scegliete la
+3|vostra preferita.<FB>
+
+### 1015
+Evviva!
+2|La porta si è aperta!<FB>
+
+### 1016
+A dire il vero… mi
+2|è partita la schiena e
+3|non mi muovo…<FB>
+
+### 1017
+…Però.<FA>
+
+### 1018
+Sembra divertente,
+2|lo faccio io!<FA>
+
+### 1019
+<F2>Avete la Dinamite!<P>
+2|Equipaggiatela e
+3|usatela con il tasto <FE 6D 04>!<FA>
+
+### 1020
+Max, pensa prima di
+2|usare un oggetto.<FB>
+
+### 1021
+Puoi avvicinarti
+2|un po'?<FB>
+
+### 1022
+Smettila di perdere
+2|tempo e trova un
+3|ingresso con la dinamite!<FB>
+
+### 1023
+Volete provarci
+2|-BUM- in un colpo solo?<FB>
+
+### 1024
+Chi ha la
+2|dinamite?<FB>
+
+### 1025
+Bene, mi sono ripreso
+2|la dinamite.<P>
+3|Quando la uso,
+1|fa un sacco di
+1|fumo.<P>
+1|Quindi non perdetevi!<FA>
+
+### 1026
+Finché abbiamo le
+2|maschere, non
+3|passerete mai!<FB>
+
+### 1027
+E' troppo duro da
+2|spingere a mano…<FB>
+
+### 1028
+E' piuttosto pesante…<FB>
+
+### 1029
+Per fare squadra,
+2|dobbiamo metterci
+3|in posizione migliore.<FB>

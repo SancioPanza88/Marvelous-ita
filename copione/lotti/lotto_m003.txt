@@ -1,0 +1,552 @@
+### 0174
+Hyaaaah!!<P>
+2|Che ci fate con
+3|quella roba piccante
+1|e pericolosa??<P>
+1|Portatela via prima
+1|che rovini la mia
+1|bellezza!!!<FA>
+
+### 0175
+Eh? Cosa? Una bambola…
+2|Dite che volete
+3|regalarla a me?<P>
+1|P-perché pensate che
+1|io la voglia…<P>
+1|
+1|   …M-me la date
+1|davvero?<P>
+1|O-oh… E' uno scherzo,
+1|vero? A-ahahahaha~!<P>
+1|
+1|         …
+1|<P>
+1|…L-la darò a una
+1|ragazza… Parente…
+1|…A-amica…<P>
+1|P-per sapere, credo
+1|di dovervi chiedere
+1|chi ve l'ha v-venduta~.<P>
+1|Cosa rispondi?<FE 6A>
+1|    Non so il nome.
+1|    Anche se lo sapessi…<FE 68><FA>
+
+### 0176
+Come fate a non saperlo?!
+2|Che antipatici!
+3|…Andatevene.<FB>
+
+### 0177
+Fugofugo!<P>
+2|TR<FC 1A> N…non male.
+3|Ecco, prendila.
+1|<FA>
+
+### 0178
+<F5 03>rPietra Fortuna!
+2|Ora ne hai <FE 6C>{EC}{ED}!<FA>
+
+### 0179
+Fugogo. Fugo.<P>
+2|TR<FC 1A> Sfidatemi
+3|quando volete.
+1|Vi aspetto.<FA>
+
+### 0180
+Fugo. Fugo-go?<P>
+2|TR<FC 1A> …Scommetto che
+3|volete la cosa sulla
+1|mia schiena?<P>
+1|Ve la do se riuscite
+1|a battermi.<P>
+1|  Che fate?<FE 6A>
+1|    Accetto.
+1|    No, grazie.<FE 68><FA>
+
+### 0181
+Fu-go. Fugofugo!<P>
+2|TR<FC 1A> Fate come vi pare.
+3|L'uscita è da quella
+1|parte.<FA>
+
+### 0182
+Fugo fugo!<P>
+2|TR<FC 1A> Vi do una palla,
+3|provate a farmi
+1|gol!<FA>
+
+### 0183
+Fugo-fugo?<P>
+2|TR<FC 1A> …Chi è "Jim"?
+3|Non mi chiamo così,
+1|mocciosi!<FB>
+
+### 0184
+Fugo. Fugo.<P>
+2|TR<FC 1A> Ah, giusto, la
+3|palla in realtà è un
+1|porcellino di terra,<P>
+1|quindi si muove.<FB>
+
+### 0185
+Ooooohh…
+2|Per favore, non
+3|calciate forte…<FB>
+
+### 0186
+Fuuugo fugo!<P>
+2|TR<FC 1A> N…non male…
+3|Ecco, prendila.<FA>
+
+### 0187
+<F2>Il ragno vi ha dato
+2|la Vernice Verde!<P>
+3|Ha anche un comodo
+1|pennello per
+1|stenderla.<FA>
+
+### 0188
+Fugo? Fugofugo.<P>
+2|TR<FC 1A> …? Chi è "Jim"?
+3|Non mi chiamo così!<FA>
+
+### 0189
+Fugo! Fugofugo.<P>
+2|TR<FC 1A> Come osate
+3|rifiutare! Che faccia.<FA>
+
+### 0190
+Fugo fugo!<P>
+2|TR<FC 1A> Bello spirito!
+3|Giochiamo al "Salta
+1|la Pietra Gialla".<P>
+1|Vi lancio delle
+1|pietre gialle,<P>
+1|prendetene <FE 6D 22><FE 6D 1E>
+1|in <FE 6D 2A><FE 6D 1E> secondi, ok?<FA>
+
+### 0191
+Fugofugo. Fugo.<P>
+2|TR<FC 1A> Saltate i 3 ragni
+3|e prendete le pietre
+1|che vi lancio.<FB>
+
+### 0192
+…Trova… Pavimento…
+2|…Ammaccato…<P>
+3|…Cosa?
+1|Tutto qui?…<FB>
+
+### 0193
+Sembra che voglia
+2|dire qualcosa…<FB>
+
+### 0194
+Pengi. Pegi. Pengu.<P>
+2|TR<FC 1A> Se sento qualcosa
+3|sotto terra, ve lo
+1|segno io!<FB>
+
+### 0195
+  Riprovare?
+2|    Accetto.
+3|    Rinuncio…<FE 68><FA>
+
+### 0196
+Fugofugo. Fu-go.<P>
+2|TR<FC 1A> …Se volete
+3|riprovare, tornate
+1|più tardi.<P>
+1|Ne parleremo allora.<FA>
+
+### 0197
+Cercate--… Forziere
+2|blu.
+3|Aprite in--… Ordine.<P>
+1|L'ultima chiave apre-…
+1|la porta. In tutto,
+1|ce ne so-------…<P>
+1|<F5 01>7Eh?… Il messaggio
+1|finisce qui.<FB>
+
+### 0198
+Cercate--… Forziere
+2|rosso.
+3|Aprite in--… Ordine.<P>
+1|L'ultima chiave apre-…
+1|la porta. In tutto,
+1|ce ne so-------…<P>
+1|<F5 01>7Eh?… Il messaggio
+1|finisce qui.<FB>
+
+### 0199
+…Non è fortuna né
+2|caso,<P>
+3|ma qui le cose
+1|sembrano andare un
+1|po' storte…<FB>
+
+### 0200
+Fugofugo. Fu-go.<P>
+2|TR<FC 1A> Avete già visto
+3|i miei fratelli?<P>
+1|Ne ho 3 in questa
+1|foresta, ma il più
+1|grande fa paura,<P>
+1|quindi è meglio che
+1|gli stiate alla larga.<FA>
+
+### 0201
+         Ah!!<P>
+2|Ha aspettato che
+3|partissi io! Imbroglione!
+1|<P>
+1|<F5 02>{1A}Uho! Uuu~! Uuu!<P>
+1|TR<FC 1A> Gli umani non li
+1|capisco proprio! No!
+1|Uuu-uuh!<FA>
+
+### 0202
+Non fissatemi così!
+2|Dite che c'è una
+3|cerniera…?<P>
+1|Assurdo!
+1|Fatevi sotto!<FB>
+
+### 0203
+Gnam gnam gnom.
+2|Ah, che bontà… gnam
+3|Buonissimo… gnam gnam<P>
+1|?!
+1|
+1|<P>
+1|E questo cos'è?!
+1|Che piccante! Brucia!
+1|Acqua! Acqua!<FA>
+
+### 0204
+Oh, c'è una bambola!<FB>
+
+### 0205
+Che pianta dall'aspetto
+2|strano…<FB>
+
+### 0206
+<F2>La vostra Chiave Blu
+2|è diventata la
+3|"Chiave Blu <FE 6B>"!<P>
+1|Chissà cosa
+1|apre.<FA>
+
+### 0207
+Una cosa strana è
+2|appena rotolata qui…
+3|Sta per colpirci!<P>
+1|Qual era il punto<P>
+1|debole delle piante?<FB>
+
+### 0208
+A questo vecchio
+2|orologio manca la
+3|lancetta dei minuti.<FB>
+
+### 0209
+Anche questo è fermo
+2|alle 10<FC 1A>00.<FB>
+
+### 0210
+Da qui non si
+2|vede.<FB>
+
+### 0211
+Controlliamo la
+2|nostra posizione.<FB>
+
+### 0212
+Guarda, del fumo!<FB>
+
+### 0213
+Guardiamo a
+2|sinistra.<FA>
+
+### 0214
+Guardiamo a
+2|destra.<FA>
+
+### 0215
+Ah!
+2|La lancetta è caduta…<FB>
+
+### 0216
+Non è successo niente!<FB>
+
+### 0217
+Questo orologio è rotto.<FB>
+
+### 0218
+Fugofugo.<P>
+2|TR<FC 1A> Arrivederci-!<FA>
+
+### 0219
+Fugo, Fugogo.<P>
+2|TR<FC 1A> Va bene, potete
+3|passare.<FA>
+
+### 0220
+Fugo. Fugogo.<P>
+2|TR<FC 1A> …Fate pure con
+3|comodo, eh.<FA>
+
+### 0221
+Fugofugo. Fugo.<P>
+2|TR<FC 1A> Aspettate il turno!<FB>
+
+### 0222
+Ci sono <FE 6D 20><FE 6D 24>
+2|soldati dentro e fuori
+3|il castello.<P>
+1|Vi diranno i loro
+1|numeri.<FB>
+
+### 0223
+Whoaaaa~~~!!<FA>
+
+### 0224
+E' uscita l'acqua!!<FA>
+
+### 0225
+U-u-uaaa~~~~~!!!<FA>
+
+### 0226
+…Eh? Volete sapere
+2|il mio numero?<P>
+3|Va bene, il mio numero
+1|è quante code ha
+1|un cane.<FB>
+
+### 0227
+<F2>La Chiave Rossa è
+2|diventata "Chiave Rossa <FE 6B>".<P>
+3|Chissà cosa
+1|apre.<FA>
+
+### 0228
+…Mmm? Volete sapere
+2|il mio numero?<P>
+3|Va bene, il mio numero
+1|è quanti occhi ha
+1|una persona.<FB>
+
+### 0229
+Non mi metto a
+2|gridare, venite
+3|qui.<FB>
+
+### 0230
+La voce di quel gorilla
+2|fa così paura,<P>
+3|che qualsiasi animale
+1|la senta è terrorizzato.<P>
+1|A proposito di
+1|terrore…<P>
+1|Fa quell'effetto
+1|anche a me.<P>
+1|Quindi, potreste
+1|prendere questo per me?<FA>
+
+### 0231
+Volete sapere degli
+2|abitanti?<P>
+3|Posso parlare solo
+1|di mia moglie e dei
+1|miei due figli.<P>
+1|<F5 01>3John e Ken sono
+1|gemelli. E lo dico
+1|io, ma insomma,<P>
+1|hanno un gran
+1|senso del ritmo.<P>
+1|Si mettono a ballare
+1|se suonate un bel
+1|ritmo rocki{5A}!<FB>
+
+### 0232
+<FE 6A><F5 01>ZKukee! Kukee~! Kukeko!<P>
+2|TR<FC 1A>Altro che l'uovo,
+3|prendo voi~!<FB>
+
+### 0233
+<FE 6A>Registrare?
+2|    Va bene!
+3|    No!<FE 68><FA>
+
+### 0234
+<FE 6A><F5 03>N
+2| Registrazione finita.<F5 00>{D6}<FB>
+
+### 0235
+Se battete Bob,
+2|forse vincete un premio.<P>
+3|Se vi sentite forti,
+1|costa solo una
+1|moneta.<P>
+1|Senza soldi non si
+1|sogna in grande.<FB>
+
+### 0236
+<F2>La vostra Chiave
+2|Verde è diventata la
+3|"Chiave Verde <FE 6B>".<P>
+1|Chissà cosa
+1|apre!<FA>
+
+### 0237
+Eh..? La chiave rossa
+2|dovrebbe aprire un
+3|forziere rosso…<P>
+1|Chissà cosa non va.<FA>
+
+### 0238
+…Volete il mio numero?<P>
+2|Va bene, il mio numero
+3|ha la forma di un orecchio.<FB>
+
+### 0239
+Su quest'isola ci sono
+2|piante di ogni tipo
+3|da moltissimi anni.<P>
+1|In mezzo all'isola
+1|c'è un albero
+1|gigante.<P>
+1|Produce un olio
+1|speciale che vendono
+1|in città.<FB>
+
+### 0240
+2|   …Che uomo!<FA>
+
+### 0241
+Ah sì!
+2|Ehi, venite qui!<FB>
+
+### 0242
+<F2>Avete la Foto della
+2|Pianta Misteriosa!
+3|<P>
+1|Ci sa proprio
+1|fare con la gente…<FA>
+
+### 0243
+Ah, giusto, scusate
+2|tanto,<P>
+3|ma potreste portare
+1|questa foto al prof.
+1|Marlowe?<FA>
+
+### 0244
+Smettila di frignare!
+2|Alle ragazze non
+3|piacciono i piagnoni.<FB>
+
+### 0245
+E' troppo lontano per
+2|vedere la foto!<FB>
+
+### 0246
+Wow, che foto!
+2|Dev'essere una nuova
+3|specie di pianta!<P>
+1|Non ho mai visto
+1|niente del genere.<P>
+1|Che fortuna aver
+1|scelto quest'isola!<P>
+1|Bravi, ragazzi.
+1|Vorrei regalarvi
+1|qualcosa…<P>
+1|Ma ho solo
+1|strumenti scientifici…<P>
+1|
+1|Ma certo! Prendete
+1|questo.<P>
+1|Vorrei darlo a chi
+1|ama davvero
+1|costruire cose.<P>
+1|Chi lo vuole?<FA>
+
+### 0247
+Con la fotografa
+2|Jennifer dovrebbe
+1|esserci un certo<P>
+1|Allen. Credo che
+1|registri dei suoni
+1|o roba simile.
+1|Se li incontrate,
+1|salutatemeli.<FB>
+
+### 0248
+Dunque…
+2|Questo è tutto.<P>
+3|Se volete sapere
+1|qualcos'altro sulle
+1|piante, chiedetemi.<P>
+1|Vi aiuterò io…
+1|Tutto perché…
+1|<P>
+1|
+1|  Sono un bravo tipo!
+1|<FA>
+
+### 0249
+Wow, quanti pomodori!
+2|Mi sento pieno solo
+3|a guardarli.<FB>
+
+### 0250
+Cari mocciosi puzzolenti,
+2|fate schifo.<P>
+3|Non crediate di
+1|cavarvela dopo aver
+1|toccato il mio tesoro.<P>
+1|Quindi tengo d'occhio
+1|la vostra bellissima
+1|maestra.<P>
+1|Se volete
+1|rivederla,<P>
+1|venite nella valle
+1|oltre il lago.<P>
+1|Non scordate la mia
+1|Sfera di Cristallo!<P>
+1| -Il Pirata più Grande
+1|  sotto il Cielo,
+1|  Re Blue<FA>
+
+### 0251
+<FE 6A>…Qui non c'è
+2|scritto niente.<FA>
+
+### 0252
+Cosa?… Questa chiave
+2|blu non apre il
+3|forziere blu…<P>
+1|Chissà cosa non va.<FA>
+
+### 0253
+…Mm? Volete sapere
+2|il mio numero?<P>
+1|Il mio numero ha
+1|la forma di una vela.<P>
+1|Indovinate qual è?<FB>
+
+### 0254
+…Mmm? Volete sapere
+2|il mio numero?<P>
+3|Scritto in giapponese,
+1|si segna con
+1|"<FC 46>".<P>
+1|In Asia lo usano per
+1|contare a tacche,<P>
+1|un po' come noi con i
+1|numeri romani, un
+1|tratto alla volta.<P>
+1|Scritto in numeri
+1|romani, sarebbe
+1|una "V".<FB>

@@ -1,0 +1,529 @@
+### 1660
+Quale?
+2|Fammi vedere!<FB>
+
+### 1661
+Bene, andiamo a cercare
+2|le ultime <FE 6D 22> sfere
+3|di cristallo.<P>
+1|Quando la nave parte,
+1|non potremo tornare
+1|su quest'isola.<P>
+1|Quindi assicuratevi di
+1|aver fatto tutto quello
+1|che volete qui.<P>
+1|Quando siete pronti,
+1|accendetela!<FB>
+
+### 1662
+Bene, andiamo a cercare
+2|l'ultima sfera.<P>
+3|Avete abbastanza
+1|Pietre Fortuna?<P>
+1|Da qui in poi
+1|tocca a voi!<FB>
+
+### 1663
+Bene, ora è tutto
+2|in ordine.<P>
+3|Torniamo
+1|sull'isola!<P>
+1|………..?!<FB>
+
+### 1664
+Presto, fatelo vedere
+2|a Pluck!<FB>
+
+### 1665
+Siamo arrivati su
+2|un'isola!<FA>
+
+### 1666
+Uuu! Kii!<P>
+2|TR<FC 1A> Muovete nave per
+3|salvare maestra!
+1|Presto! Presto!<FA>
+
+### 1667
+<F5 03>sCippù!<P>
+2|TR<FC 1A> Dai, Winky,
+3|devi spiegare
+1|dall'inizio.<FA>
+
+### 1668
+La porta nella grotta
+2|non si apre con
+3|una sola sfera.<FA>
+
+### 1669
+Per aprire la porta,
+2|vi servono altre <FE 6D 24>
+3|Sfere di Cristallo.<P>
+1|Non prendetevela con
+1|me, è il primo enigma
+1|del capitano Maverick.<P>
+1|Con questa nave
+1|possiamo trovare le
+1|altre <FE 6D 24> sfere.<P>
+1|E' l'unico modo per
+1|salvare la maestra.<P>
+1|Altrimenti, finirete
+1|come quei pirati.<P>
+1|Allora, che dite?
+1|Avete capito?<P>
+1|    Sì.
+1|    No.<FE 68><FA>
+
+### 1670
+Ma non capite
+2|niente~?<P>
+3|Sul serio, è come
+1|avere davanti QUATTRO
+1|Winky!<FA>
+
+### 1671
+Fatemi vedere la
+2|Sfera di Cristallo.<P>
+3|Dovrebbe indicare la
+1|posizione della
+1|prossima sfera…<P>
+1|Come una bussola.<FA>
+
+### 1672
+Ora dovete mettere
+2|<FE 6B> Pietre Fortuna nella
+3|caldaia sottocoperta.<P>
+1|Poi tirate la leva
+1|gigante.<FB>
+
+### 1673
+Sembra che abbiate
+2|riempito la caldaia
+3|sottocoperta.<P>
+1|Ora tirate la leva.<FB>
+
+### 1674
+Dopo aver messo le
+2|Pietre Fortuna, tirate
+3|la leva.<FB>
+
+### 1675
+Riempire caldaia
+2|giù.
+3|Presto! Presto!<FB>
+
+### 1676
+Quando la nave si
+2|muove, dovete tenere
+3|fermo il timone.<P>
+1|Altrimenti non
+1|arriveremo mai alla
+1|prossima isola.<FB>
+
+### 1677
+Noi tutti insieme,
+2|amici.
+3|Amici!<FB>
+
+### 1678
+Tenetela ferma!<FB>
+
+### 1679
+Perché non uscite a
+2|rilassarvi finché non
+3|arriviamo all'isola?<FB>
+
+### 1680
+Sapete cosa dopo?
+2|Uuuuuuuu-Ahhhh!
+3|Cosa dopo? Cosa dopo??<FB>
+
+### 1681
+La nave sbanda senza
+2|controllo…<P>
+3|Quando la bussola
+1|punta dritto
+1|avanti,<P>
+1|è il momento di
+1|bloccare la rotta.<P>
+1|Prendete il timone!<FB>
+
+### 1682
+<FE 79>  Premi per bloccare.
+2|        <FE 6D 12><FE>{7E}<FA>
+
+### 1683
+L'isola con la
+2|prossima sfera dev'essere
+3|da questa parte.<FB>
+
+### 1684
+Rotta bloccata.<FB>
+
+### 1685
+Sembra che ci si
+2|arrivi a malapena.<FB>
+
+### 1686
+Tirate la leva!<FB>
+
+### 1687
+Fare insieme!
+2|Presto! Presto!<FB>
+
+### 1688
+<F5 01>ZKweh! Craaaaa!<P>
+2|TR<FC 1A> Non lascerò mai
+3|più le mie uova!<FB>
+
+### 1689
+…Questo è un uovo
+2|vero…<FA>
+
+### 1690
+<F5 01>ZKweh?! Craa?!<P>
+2|TR<FC 1A> Che succede?
+3|…Ci sono 4 uova?<FA>
+
+### 1691
+<F5 01>ZCraa? Kweh!!<P>
+2|TR<FC 1A> Cos'è questo?
+3|Questo non è mio!!<FA>
+
+### 1692
+<F5 01>ZCraa. Kweh!<P>
+2|TR<FC 1A> Wow, per poco
+3|non ci cascavo.<P>
+1|Mi riprendo il mio uovo!<FA>
+
+### 1693
+<F5 01>ZCraa. Kweh~.<P>
+2|TR<FC 1A> State lontani
+3|dalle mie uova.<FB>
+
+### 1694
+Torniamo subito
+2|alla nave.<FB>
+
+### 1695
+Cosa fate?
+2|Sbrigatevi a venire
+3|qui.<FB>
+
+### 1696
+Avete messo le Pietre
+2|nella caldaia?<P>
+3|Se ve ne servono altre,
+1|vi do le mie.<P>
+1|Vi serve una mano?
+1|    Sì, grazie.
+1|    Non mi servi!<FE 68><FA>
+
+### 1697
+Beh, va bene!
+2|Andate sottocoperta a
+3|preparare la partenza!<P>
+1|…Imbecilli.<FB>
+
+### 1698
+Avete <FE 6C> Pietre
+2|Fortuna, quindi ve
+3|ne servono altre <FE 6B>.<P>
+1|Eccole qua.<FA>
+
+### 1699
+…Polly vi ha dato <FE 6B>
+2|Pietre Fortuna!<FA>
+
+### 1700
+Siete dei porcellini
+2|pigri!<P>
+3|Sbrigatevi a scendere
+1|di sotto!<FA>
+
+### 1701
+Avete già riempito
+2|la caldaia?<P>
+3|Se no, sbrigatevi…
+1|<P>
+1|Non avete tempo
+1|da perdere, no?!<FB>
+
+### 1702
+<F5 00>X
+2|…Scherzavo.
+3|Io non vengo.<P>
+1|Vorrei tanto venire
+1|con voi…<P>
+1|Ma non posso lasciare
+1|solo mio padre.<P>
+1|Il mio viaggio finisce qui.<FA>
+
+### 1703
+Uuukii, uuukii-kii!<P>
+2|TR<FC 1A> Quella ragazza--
+3|Fa tanta paura…<FB>
+
+### 1704
+Cip cippù.<P>
+2|TR<FC 1A> Chissà se vuole
+3|ancora viaggiare
+1|con noi.<FB>
+
+### 1705
+…Ci sono due uova
+2|a pois.<P>
+3|Sembra che nel nido
+1|ci stia un altro
+1|uovo.<FB>
+
+### 1706
+Chissà se chi guidava
+2|questa nave lo faceva
+3|da solo?<FB>
+
+### 1707
+Sembra che ci voglia
+2|un sacco di forza per
+3|muoverla…<FB>
+
+### 1708
+Qui si sedeva il
+2|capitano, credo.<FB>
+
+### 1709
+Forse quei tipi che
+2|hanno rapito la
+3|maestra lo sanno?<FB>
+
+### 1710
+Bene, giriamo
+2|questo.<FA>
+
+### 1711
+Cip cippi!<P>
+2|TR<FC 1A> Siete fuori
+3|tempo!<P>
+1|Bloccatela quando
+1|cambia colore,
+1|zavorre~!<FA>
+
+### 1712
+Cip cippi.<P>
+2|TR<FC 1A> Bravi!
+3|Ora possiamo andare
+1|alla prossima isola!<FA>
+
+### 1713
+L'isola da cui vengo
+2|era una follia~!<P>
+3|C'era una siccità
+1|terribile.<P>
+1|Gente e campi erano
+1|secchi come la polvere.<P>
+1|Una volta era un
+1|posto così bello…<P>
+1|Oh, vi ho fatto una
+1|testa così,
+1|vero?<P>
+1|Ciao ciao~!<FA>
+
+### 1714
+Sento tanti miei
+2|amici là fuori…<FB>
+
+### 1715
+Arriva qualcosa…<FB>
+
+### 1716
+<F5 01>ZCraa! Craa!<P>
+2|TR<FC 1A> Arriva una
+3|tempesta! Al riparo!<FB>
+
+### 1717
+Guardate fuori!<P>
+2|Dovete bloccare il
+3|timone prima che
+1|veniamo travolti!<FB>
+
+### 1718
+Blocco rotto!
+2|Riparare! Riparare!<FB>
+
+### 1719
+Non è neanche inverno.<FB>
+
+### 1720
+Freddo! Freddo!<FB>
+
+### 1721
+Deve fare un po'
+2|freddo!<FB>
+
+### 1722
+Scusate…?<P>
+2|Volete presentarmi
+3|una ragazza "proprio
+1|il mio tipo"?!<P>
+1|
+1|
+1|Sono sposato, sapete!<FB>
+
+### 1723
+Fate qualcosa~!!<FB>
+
+### 1724
+Qualcosa blocca strada!<FB>
+
+### 1725
+Forse è questo che
+2|ci blocca la strada?<FB>
+
+### 1726
+Uuu uuu!<P>
+2|TR<FC 1A> Venite qui!
+3|Presto! Presto!<FB>
+
+### 1727
+Stiamo cercando su
+2|quest'isola dei
+3|ragazzi dispersi!<P>
+1|Sapete niente di
+1|loro?<P>
+1|Si chiamavano
+1|squadra <FE 6D 1A>.<P>
+1|E uno di loro aveva
+1|un cappello così…<P>
+1|…Ehi?…
+1|Voi non sarete…?<FB>
+
+### 1728
+Siamo tornati alla
+2|prima isola.<FB>
+
+### 1729
+<F5 00>Q…Chissà come sta
+2|Polly.<FB>
+
+### 1730
+…Sembra che Polly
+2|possa saltare fuori
+3|da un momento all'altro.<FB>
+
+### 1731
+Questo robot e tutta
+2|l'isola sono
+3|piuttosto strani.<P>
+1|Ho una strana
+1|sensazione.<P>
+1|E i ragazzi dispersi
+1|non li troviamo.<FB>
+
+### 1732
+Sembra che le cose
+2|siano andate a rotoli
+3|dopo che siamo partiti…<FB>
+
+### 1733
+…Nessuna risposta.
+2|…Dev'essere rotto.<FB>
+
+### 1734
+…Sembra che qualcuno
+2|coltivasse pomodori
+3|qui.<P>
+1|Chissà se c'entra
+1|qualcosa con questo
+1|caso.<FB>
+
+### 1735
+Di qui passa un
+2|sentiero.<P>
+3|Sembra portare
+1|dall'altra parte
+1|dell'isola…<P>
+1|Ma è una strada
+1|piuttosto vecchia…<FB>
+
+### 1736
+Il tubo è collegato
+2|al lago lassù
+3|…<P>
+1|Quando siamo arrivati,
+1|tutti i tubi erano
+1|collegati.<P>
+1|Ma così l'acqua del
+1|lago scorre giù
+1|fino al mare.<P>
+1|Perché qualcuno
+1|dovrebbe farlo?<FB>
+
+### 1737
+Capito? Allora non
+2|disturbate un uomo
+3|che lavora.<FB>
+
+### 1738
+Dev'essere tutta opera
+2|di Blue.<P>
+3|I suoi complici però
+1|tengono la bocca
+1|cucita.<FB>
+
+### 1739
+Quindi volete passare
+2|di qui?<P>
+3|Vi serve il permesso
+1|esplicito del
+1|colonnello.<FB>
+
+### 1740
+Presto, mettete
+2|<FE 6B> Pietre Fortuna nella
+3|caldaia di sotto!!<FB>
+
+### 1741
+Presto, salvate la
+2|maestra Gina!<FB>
+
+### 1742
+Spingete la leva!
+2|Dobbiamo salvare la
+3|maestra Gina!<FB>
+
+### 1743
+Ce la caviamo noi
+2|finché non arriviamo
+3|all'isola.<P>
+1|Perché non uscite a
+1|prendere un po' d'aria,
+1|squadra <FE 6D 1A>?<FB>
+
+### 1744
+Ce la caviamo noi fino
+2|alla prossima isola!<FB>
+
+### 1745
+Squadra <FE 6D 1A>!
+2|Tirate la leva!!<FB>
+
+### 1746
+Gioco di squadra!<FB>
+
+### 1747
+Pare che Pluck sia
+2|su questa nave, vero?
+3|<P>
+1|Ditegli che un giorno
+1|tornerò a trovarlo.
+1|        …A presto!<FA>
+
+### 1748
+Presto. Spingete la leva!<FB>
+
+### 1749
+Fugo. Fugo. Fugogo.<P>
+2|TR<FC 1A> Se avete
+3|qualcosa da dire,
+1|avvicinatevi.<P>
+1|Non mordo…<FB>

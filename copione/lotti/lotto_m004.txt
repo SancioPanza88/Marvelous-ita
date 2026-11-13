@@ -1,0 +1,573 @@
+### 0255
+Volete sapere il mio
+2|numero?<P>
+3|E' il numero delle
+1|zampe di un insetto.
+1|Facile, no?<P>
+1|Spero che conosciate
+1|gli insetti…<FB>
+
+### 0256
+Non mollate! Riprovate!
+2|Ci serve l'aiuto di
+3|quel pinguino!<FB>
+
+### 0257
+…Eh? Volete sapere
+2|il mio numero?<P>
+3|Il mio numero sono i
+1|giorni della settimana.<FB>
+
+### 0258
+Ehm, no, cioè, io, ehm,
+2|non… è davvero così
+3|impressionante?<P>
+1|Beh, accidenti.<FB>
+
+### 0259
+…Eh? Volete sapere
+2|il mio numero, eh?<P>
+3|Il mio numero resta
+1|uguale anche se lo
+1|capovolgi.<FB>
+
+### 0260
+…Eh? Volete sapere
+2|il mio numero?<P>
+3|Va bene…
+1|Allora…
+1|…<P>
+1|Se capovolgi il mio
+1|numero, diventa un
+1|numero più piccolo.<FB>
+
+### 0261
+…Che c'è? Volete
+2|sapere il mio numero?<P>
+3|E' quante dita ho
+1|in tutte e due le mani…<P>
+1|Che fame, ragazzi!<FB>
+
+### 0262
+Ohibò? Volete sapere
+2|il mio numero?<P>
+3|E' il numero di
+1|giocatori di una
+1|squadra di calcio.<FB>
+
+### 0263
+…Mmm? Volete sapere
+2|il mio numero?<P>
+3|E' il numero dei mesi
+1|di un anno intero…<P>
+1|Facile, no?<FB>
+
+### 0264
+Mm? Volete sapere il
+2|mio numero?<P>
+3|In America, di venerdì,
+1|porta una gran sfortuna!<FB>
+
+### 0265
+…Oh, volete entrare
+2|nell'archivio?<P>
+3|Mi spiace, non è
+1|compito mio…<P>
+1|Dovete parlarne con
+1|il soldato n.<FE 6B>
+1|per quello.<FB>
+
+### 0266
+Io sono nientemeno che
+2|il soldato n.<FE 6D 2A>.<P>
+3|Oh, volete entrare
+1|nell'archivio?<P>
+1|Dovete parlarne con
+1|il soldato <FE 6D 20><FE 6D 26>
+1|per quello.<P>
+1|Ahaha! Scherzavo.
+1|Oh, volete spegnere
+1|la corrente?<P>
+1|Va bene, potete
+1|entrare.<P>
+1|Non combinate
+1|troppi guai, eh?<FB>
+
+### 0267
+Ehi, che succede?…<P>
+2|Una Chiave Verde
+3|dovrebbe aprire un
+1|forziere verde…<P>
+1|Chissà cosa non va.<FA>
+
+### 0268
+Come promesso, potete
+2|entrare.<FA>
+
+### 0269
+<F2>Uffa! Ho perso…
+2|E va bene, prendetela!<FA>
+
+### 0270
+<F5 03>rUhohoo~!<P>
+2|TR<FC 1A> Grazie, tornate
+3|presto~!<P>
+1|Mi prendo
+1|<FE 6D 20> Pietra Fortuna~!<FA>
+
+### 0271
+Ci sono dei vasi
+2|là sotto…<P>
+3|Da questa buca si
+1|vedono solo 3 vasi.<P>
+1|1 è rosso, e 2
+1|sono blu.<FB>
+
+### 0272
+Ci sono dei vasi
+2|là sotto…<P>
+3|Da questa buca se ne
+1|vedono 4.<P>
+1|2 rossi e 2 blu.<FB>
+
+### 0273
+Questo vaso è proprio
+2|sotto la buca.<FB>
+
+### 0274
+Questo è un vaso rosso.<FB>
+
+### 0275
+Questo è un vaso blu.<FB>
+
+### 0276
+Avviciniamoci per
+2|guardare meglio.<FB>
+
+### 0277
+Pegi-pengi-pegu.<P>
+2|TR<FC 1A> Non è male fare
+3|l'animale di un umano!<FB>
+
+### 0278
+C'è qualcosa nel vaso
+2|sotto questa
+3|buca!<FB>
+
+### 0279
+Come sospettavo!
+2|Una goccia di miele è
+3|caduta in questo vaso!<FB>
+
+### 0280
+Volete sapere cosa
+2|ci faccio qui?<P>
+3|E' un segreto,
+1|ovviamente…<P>
+1|Ma sembrate bravi
+1|ragazzi, quindi ve
+1|lo dico. <P>
+1|Siete passati per la
+1|foresta, giusto?<P>
+1|Avete visto le api
+1|giganti là fuori?<P>
+1|Aspetto che facciano
+1|cadere un po' di miele.<P>
+1|Però ne fanno cadere
+1|pochissimo…<FB>
+
+### 0281
+<F2>Avete ricevuto un
+2|Registratore!<P>
+3|E' un apparecchio
+1|incredibile: registra
+1|e riproduce i suoni!<P>
+1|Prendiamolo in
+1|prestito per un po'.<FA>
+
+### 0282
+Ehi, non guardate il
+2|miele che altri si
+3|sono sudati!<P>
+1|…Beh, dare
+1|un'occhiata si può.<FB>
+
+### 0283
+Dite che gli avete
+2|fatto cadere il miele?…
+3|Davvero?…<P>
+1|Allora perché non
+1|venite qui?<FB>
+
+### 0284
+Sembra un mostruoso
+2|orologio a cucù!<FB>
+
+### 0285
+<F2>Il prof. Marlowe vi
+2|ha dato una Calamita!<P>
+3|Ma cosa ci
+1|dovreste fare?
+1|<FA>
+
+### 0286
+Pegi,pegi,pengi.<P>
+2|TR<FC 1A> Il mio istinto
+3|dice che seguirvi
+1|è pericoloso.<FB>
+
+### 0287
+Se è vero, saprete in
+2|quale vaso è caduto
+3|il miele.<P>
+1|Provate a indovinare.<FA>
+
+### 0288
+Sono un adulto, quindi
+2|vi concedo 2
+3|tentativi.<P>
+1|Usate <FE 6D 46> sul lato
+1|per scegliere un vaso.<FA>
+
+### 0289
+Sì, pronto, qui è
+2|l'ufficio di gestione.<P>
+3|Volete passare il
+1|cancello?<P>
+1|Vi chiedo di venire
+1|di persona
+1|all'ufficio.<FB>
+
+### 0290
+Il numero chiamato
+2|non è raggiungibile.<FB>
+
+### 0291
+Pronto. Chi parla?
+2|Squadra <FE 6D 1A>?<P>
+3|E chi sarebbe?
+1|E' uno scherzo?!<FB>
+
+### 0292
+Sei troppo basso per
+2|sbirciare.<FB>
+
+### 0293
+Sei abbastanza alto per
+2|sbirciare dentro.<FA>
+
+### 0294
+<F2>Il ragno vi ha dato
+2|la Vernice Blu!<P>
+3|Ha anche un comodo
+1|pennello per
+1|stenderla.<FA>
+
+### 0295
+Fugo. Fufofugo.<P>
+2|TR<FC 1A> Vi do anche
+3|tutte queste pietre
+1|gialle.<FA>
+
+### 0296
+Sembra una mappa di
+2|quest'isola.<P>
+3|In basso c'è il lago
+1|vicino al campo.<P>
+1|L'isola è più grande
+1|di quanto pensassi.<FB>
+
+### 0297
+Noi probabilmente siamo
+2|qui. La grande grotta
+3|in alto sembra…<P>
+1|Davvero lontana.<FB>
+
+### 0298
+Caspita, se fossi stato
+2|un po' più a destra,
+3|mi avrebbe colpito!<P>
+1|Che follia!<FB>
+
+### 0299
+2|Dove porterà?<FB>
+
+### 0300
+<F5 03>rAvete <FE 6D 22><FE 6D 1E>{EC}{ED}.
+2|E' un miracolo!<FA>
+
+### 0301
+Potrebbe cadere dentro
+2|se lo tiri da
+3|sopra.<FB>
+
+### 0302
+…Sembra assonnato.<FB>
+
+### 0303
+Perché c'è una barca
+2|in un posto simile…?<FB>
+
+### 0304
+A giudicare dall'aspetto,
+2|questa nave è piuttosto
+3|vecchia.<P>
+1|Come una nave pirata
+1|delle vecchie storie.
+1|Che forte!<FB>
+
+### 0305
+Peccato che da qui
+2|non si veda la
+3|prua!<FB>
+
+### 0306
+Chissà come
+2|funziona…?<FB>
+
+### 0307
+Ok, è stato oliato.<FB>
+
+### 0308
+E' proprio… enorme!<FB>
+
+### 0309
+Se mi date il tesoro,
+2|lei vive.<P>
+3|Che fate?<FE 6A>
+1|    Va bene, prendilo.
+1|    Neanche morto!<FE 68><FA>
+
+### 0310
+Mi prendo il
+2|pagamento in anticipo.<P>
+3|Scegliete le Pietre da
+1|<FE 6D 4A> e poi
+1|premete il tasto <FE 6D 02>.<FB>
+
+### 0311
+Bene, fanno <FE 6D 20>{EC}{ED}!
+2|Che scatola volete
+3|aprire?<FE 6A><FA>
+
+### 0312
+<FE 6A>    1 Forziere sinistro
+2|    2 Forziere centrale
+3|    3 Forziere destro<FE 6E><FA>
+
+### 0313
+Eheheh, siete sicuri?<FE 6A>
+2|    Sicuri.
+3|    Aspetta.<FE 68><FA>
+
+### 0314
+Ragazzo, che zuccone.
+2|Hai sbagliato in
+3|pieno!<P>
+1|Ci riprovi?<FA>
+
+### 0315
+…Contenti?
+2|Patetici. Prendetevi
+3|<FE 6D 20> Pietra Fortuna.<FA>
+
+### 0316
+<FE 6A>Ricevuto <FE 6D 20>{EC}{ED}.
+2|Visto che ne avete
+3|appena data una,<P>
+1|non è che siate
+1|tanto contenti.<FA>
+
+### 0317
+Eh, avete avuto fortuna.
+2|Un uomo non si rimangia
+3|la parola.<P>
+1|Ecco i vostri <FE 6B>{EC}{ED}.
+1|Ma non filatevela
+1|dopo aver vinto,<P>
+1|datemi la possibilità
+1|di rifarmi.<FA>
+
+### 0318
+Bau bau bau!<P>
+2|TR<FC 1A> Restituisci il
+3|doppio del dolore!<P>
+1|Così fanno i cani.
+1|Quindi ora vi
+1|mangio!<FB>
+
+### 0319
+Questi tronchi sono
+2|legati con la corda…<P>
+3|Non credo che si
+1|possano spostare.<FB>
+
+### 0320
+Come osate entrare
+2|così senza un
+3|appuntamento!<P>
+1|Sono un uomo molto
+1|occupato. Tornate dopo…<FB>
+
+### 0321
+Oh, volete addentrarvi
+2|nella
+3|giungla?<P>
+1|Beh, io non mi fido!
+1|Questo paese è pieno
+1|di delinquenti…<P>
+1|Poco fa un monello di
+1|nome John ha rubato
+1|la chiave!<P>
+1|Se ci tenete tanto
+1|ad aprire il cancello,<P>
+1|trovate John e
+1|fatevela ridare.<FB>
+
+### 0322
+Eh… Cos'è questo?<P>
+2|Oh… il cartello è
+3|rotto, non si legge
+1|il numero di telefono.<FB>
+
+### 0323
+Eh?… Cos'è questo?<P>
+2|"VIETATO L'INGRESSO!"
+3|Rivolgersi all'ufficio
+1|di gestione?<P>
+1|Ah, ecco come stanno
+1|le cose!<FB>
+
+### 0324
+<F5 02>{1A}Ooki! Ookii!<P>
+2|TR<FC 1A> Accidenti! Pensavate
+3|che scappassimo dopo
+1|aver perso?<P>
+1|
+1|Beh, avete ragione!
+1|<FA>
+
+### 0325
+Cosa diavolo c'è qui
+2|dentro?
+3|Pesa tantissimo.<FB>
+
+### 0326
+Se non c'è niente
+2|dietro, la macchina
+3|non funziona?!<FB>
+
+### 0327
+Deon è davvero un
+2|fifone? Guarda come
+3|gli batte il cuore!<FB>
+
+### 0328
+Si vedono persino
+2|ai raggi X…<P>
+3|Di cosa sono fatti
+1|gli occhiali di Jack!?<FB>
+
+### 0329
+Max è…
+2|    …Tutto stomaco!?<FB>
+
+### 0330
+<F5 01>qSembra umano!!
+2|Ma chi c'è là dentro!?<FB>
+
+### 0331
+Capisco, capisco. Voi
+2|ragazzi volete aiuto
+3|per una ricerca.<P>
+1|Va bene, fate strada!
+1|…Non sono un bravo
+1|tipo?<FA>
+
+### 0332
+Siete troppo veloci!
+2|Rispettate un po'
+3|i più grandi!<FB>
+
+### 0333
+<FE 6A>Sembra che stia
+2|facendo la guardia
+3|a questo posto.<FB>
+
+### 0334
+Sembra che qui ci
+2|fosse una buca…<FB>
+3|
+
+### 0335
+In questo villaggio
+2|vendiamo l'olio del
+3|baobab.<P>
+1|E' stato il signor
+1|Smith a scoprirlo.<P>
+1|Se volete saperne
+1|di più,<P>
+1|andate a est a casa
+1|sua e chiedetelo
+1|a lui.<FB>
+
+### 0336
+Il mio bimbo dorme,
+2|non azzardatevi a
+3|svegliarlo…<FB>
+
+### 0337
+Oh no, scusate!<P>
+2|Grazie al signor Smith,
+3|in paese si vive
+1|vendendo l'olio,<P>
+1|ma ultimamente sono
+1|arrivati dei ladri a
+1|rubarlo.<P>
+1|A proposito, io sono
+1|uno di loro.<FA>
+
+### 0338
+John è qui dentro,
+2|seguitemi!<FB>
+
+### 0339
+Eh!? Si vede attraverso
+2|la serratura!<FB>
+
+### 0340
+Polly<FC 1A> Ehi, piccoletto e
+2|spilungone!<P>
+3|    Cosa volete
+1|    costringere a fare
+1|    una signorina!?<P>
+1|    Vero, tesoro?<FB>
+
+### 0341
+Eheheh… Chi è John?
+2|Io no di certo.
+3|John è laggiù!<FB>
+
+### 0342
+<F5 03>ZLavate la vergogna
+2|e riprovate!<FA>
+
+### 0343
+Scherzavo~!
+2|John sono IO!
+3|Accidenti, mi avete
+1|trovato. Va bene, ve
+1|la ridò. Giochiamo
+1|ancora qualche volta!<FA>
+
+### 0344
+<F2>John vi ha dato la
+2|Chiave del Cancello!<P>
+3|…Ma ne avete così
+1|tante, di chiavi, che
+1|non fa più effetto.<FA>
+
+### 0345
+Però, sinceramente…
+2|vorrei provare un
+3|gioco da grandi.<FB>

@@ -1,0 +1,400 @@
+### 2800
+Cippi cip!<P>
+2|TR<FC 1A> Va piuttosto veloce,
+3|quindi tenetevi a
+1|qualcosa!<FB>
+
+### 2801
+Uuu-kii-kii!<P>
+2|TR<FC 1A> Voi siete
+3|ragazzi speciali.<P>
+1|Sicuro voi salvate
+1|maestra presto.<FB>
+
+### 2802
+Cippi cip.<P>
+2|TR<FC 1A> Finalmente siamo
+3|all'isola!<FB>
+
+### 2803
+Uuu-kii-kii!<P>
+2|TR<FC 1A> Io vedo isola!
+3|Tira leva!<FB>
+
+### 2804
+<F5 01>ZCra crah!<P>
+2|TR<FC 1A> Wow, ho visto una
+3|nave sfrecciare da
+1|questa parte…<P>
+1|Ma guarda un po',
+1|è la squadra <FE 6D 1A>!<P>
+1|Ho sentito parlare
+1|del vostro viaggio.<P>
+1|Siete davvero
+1|notevoli!<FB>
+
+### 2805
+Cippi cip~!<P>
+2|TR<FC 1A> Se non spingete
+3|la leva laggiù,
+1|la nave non si muove!<FB>
+
+### 2806
+Fugo! Fugogo?<P>
+2|TR<FC 1A> Che volete,
+3|ragazzini?<FB>
+
+### 2807
+Abbiamo persino
+2|chiamato la polizia
+3|per cercarvi!<P>
+1|Dov'eravate?
+1|Abbiamo setacciato
+1|tutta l'isola.<FB>
+
+### 2808
+Sono contento che
+2|stiate bene.<P>
+3|Hanno chiamato i
+1|marines per
+1|cercarvi.<P>
+1|Avete già incontrato
+1|il Colonnello?<FB>
+
+### 2809
+Chi siete voi?
+2|…Cosa? Squadra <FE 6D 1A>?<P>
+3|Siete voi i bambini
+1|scomparsi?<FB>
+
+### 2810
+Sono contento che
+2|stiate bene.<P>
+3|Hanno chiamato i
+1|marines per
+1|cercarvi.<P>
+1|Avete già incontrato
+1|il Colonnello?<FB>
+
+### 2811
+Ho avuto qualcosa
+2|di speciale dal
+3|Colonnello.<FB>
+
+### 2812
+Ecco, guardate bene
+2|questo.<FB>
+
+### 2813
+Di cosa parlavate
+2|col signor Arnold?<P>
+3|…Non avete fatto
+1|la spia su di me,
+1|vero?<FB>
+
+### 2814
+Dopo un po' che non
+2|vi vedevo, l'ho
+3|notato subito…<P>
+1|Voi tre ora siete
+1|degli "uomini".<FB>
+
+### 2815
+…C'è un interruttore.<FB>
+
+### 2816
+…Non si muove
+2|più.<FB>
+
+### 2817
+C'è un soldato
+2|qui!<FB>
+
+### 2818
+Trovato un pomodoro!<FB>
+
+### 2819
+…È un libro.<FB>
+
+### 2820
+…È una lavagna.<FB>
+
+### 2821
+Ehi, l'avete detto
+2|al nonno, vero?
+3|Grazie.<FB>
+
+### 2822
+Non c'è tempo!<P>
+2|Mettete Max a
+3|sinistra e Jack e
+1|Deon a destra!<P>
+1|È l'unico modo!<FB>
+
+### 2823
+<F5 02>EChe peccato, il
+2|forziere era vuoto.
+3|"Perché a me~~?"<FA>
+
+### 2824
+…Lumaconi. Fuori.
+2|Im-me-dia-ta-men-te.<FB>
+
+### 2825
+<F2>Avete le Scarpe
+2|Scatto!<P>
+3|Tieni <FE 6D 04> per caricare
+1|e premi <FE 6D 08> per scattare!<FA>
+
+### 2826
+<F2>Avete le Scarpe Salto!<P>
+2|Premi il tasto <FE 6D 04>
+3|per saltare.<FA>
+
+### 2827
+<F5 02>bOra di campeggio! Se
+2|trovate qualcosa, ditemelo.<FB>
+
+### 2828
+<F2>Avete Guanto e
+2|Palla!<P>
+3|Colpisci gli ostacoli
+1|col tasto <FE 6D 04>.<FA>
+
+### 2829
+<F2>Avete una misteriosa
+2|Corda Vecchia!<FB>
+
+### 2830
+…Missione fallita…<FB>
+
+### 2831
+<F2>Avete un
+2|complicato
+3|Telecomando!<P>
+1|Chissà cosa si può
+1|comandare con questo.<FA>
+
+### 2832
+<F2>Avete un Martello!<P>
+2|Pianta i pali con <FE 6D 04>.<FA>
+
+### 2833
+<F5 02>ESchiappe! Un tiro
+2|moscio, neanche vicino<FB>
+
+### 2834
+<F2>Avete una Chiavetta!<P>
+2|Non sai perché, ma
+3|ti emoziona un
+1|pochino.<FA>
+
+### 2835
+<F2>Chiave della Cella!<P>
+2|Ora salviamo Indio.<FA>
+
+### 2836
+Uff, abbiamo finito
+2|di pulire.<FB>
+
+### 2837
+Bene, ora il buco è
+2|tappato!<FB>
+
+### 2838
+<F5 01>qChe sensazione strana!<FB>
+
+### 2839
+..!…Squadra <FE 6D 1A>…?
+2|Siete voi!!<FB>
+
+### 2840
+<F5 01>jAutodistruzione tra
+2|<FE 6D 2A><FE 6D 1E> secondi.<FB>
+
+### 2841
+Trema troppo per
+2|usare gli oggetti~!<FB>
+
+### 2844
+<F2>Avete la seconda
+2|Sfera di Cristallo!<FA>
+
+### 2846
+<F5 01>3La pianta…
+2|È diventata voi!!<FB>
+
+### 2847
+<F5 01>cCapacità…Superata…
+2|Max<FC 1A> <FE 6D 24> persone.<FB>
+
+### 2848
+<F5 02>EUu! Uu! TR<FC 1A> Che bella!
+2|Arrivo, tesoro!<FB>
+
+### 2849
+<F5 02>ECara! Che succede?!<FB>
+
+### 2850
+<F2>Una Bambola! Deve
+2|averla persa lui.<FB>
+
+### 2851
+<F2>Avete la Chiave
+2|della Grotta!<P>
+3|Ora si può scendere
+1|più a fondo.<FA>
+
+### 2852
+<F2>Avete lo Spray
+2|Salino!<P>
+3|Spruzziamolo su
+1|qualche pianta!<FA>
+
+### 2853
+<F5 02>EIiih! Un topo! C'è un
+2|topo! Salvatemi!!<FB>
+
+### 2854
+<F5 00>0Re Gingham III, presi
+2|3 malfattori!<FB>
+
+### 2855
+<F5 02>EMolto bene!
+2|Seguitemi di sotto.<FB>
+
+### 2856
+<F5 02>EI prigionieri! Come
+2|osate tentare
+3|la fuga!<P>
+1|Tornate subito in
+1|cella!<FA>
+
+### 2858
+<F5 02>EQuando siete
+2|evasi?! Che strano…<FB>
+
+### 2859
+Vado a cercare il
+2|signor Arnold.<P>
+3|Voi due andatevene
+1|subito di qui.<FA>
+
+### 2860
+<F5 00>NEri TU il falso!!<FB>
+
+### 2861
+<F5 02>EGli altri muoiono, ma
+2|con la Sfera…<FA>
+
+### 2862
+Possiamo assorbire
+2|nutrienti e vivere per sempre…<FA>
+
+### 2863
+<F5 00>{D3} Perché siamo piante.<FB>
+
+### 2867
+<F5 02>E     Waaaaaahh!!<FB>
+
+### 2868
+<F2>Avete la terza
+2|Sfera di Cristallo!!<FA>
+
+### 2869
+<F5 00>{D3}<F5 01>{1D} Grrr bau! bau!<FB>
+
+### 2870
+<F2>Abbiamo un Ponte di
+2|Topi! Attraversiamo!<FB>
+
+### 2871
+<F2>Avete il Filo d'Argento
+2|del ragno!<FB>
+
+### 2875
+<F2>Ah! Il miele è
+2|caduto nel buco!<FB>
+
+### 2876
+<F2>Avete il miele
+2|dell'ape fifona!<P>
+3|…Dev'essere la
+1|"Goccia d'Oro".<FA>
+
+### 2877
+<F5 02>EGyaah! Cos'è
+2|questo!?!?<FB>
+
+### 2878
+<F5 02>EPotenza al massimo!
+2|Ammazzaformiche, via!!!<FB>
+
+### 2879
+<F2>Avete il "Soldato Blu"!<P>
+2|È solo per soldati?<FB>
+
+### 2880
+<F5 02>EAhah, ne abbiamo uno!
+2|Trappola perfetta!!<FB>
+
+### 2881
+<F2>Avete una misteriosa
+2|Sfera di Cristallo!<P>
+3|Sembra un tesoro
+1|prezioso.<P>
+1|Portiamola al campo
+1|per mostrarla a
+1|Gina.<FA>
+
+### 2882
+<F5 02>BBella mossa!
+2|Questo lo prendo io.<FB>
+
+### 2883
+<F5 02>ECapo, abbiamo preso
+2|quei mocciosi!<FB>
+
+### 2884
+<F5 01>3Oh, Oh cielo!
+2|M,mi sento straaano~!
+3|N,non mi muoooovo~!<FB>
+
+### 2888
+<F2>Cos'era quella luce?
+2|Salviamo Gina!<FA>
+
+### 2891
+<F5 02>EFugofugo TR<FC 1A> Schiappe!
+2|Riprovate?<FB>
+
+### 2892
+<F5 02>EEnergia.. Esaurita..!!<FB>
+
+### 2893
+<F2>Io… Non… Rimpiango…
+2|NIENTE!<FB>
+
+### 2894
+<F2>Ce l'avete fatta! L'uscita!
+2|Fatevi sotto!!<FB>
+
+### 2895
+<FE 6A><F5 01>pTrovata la legna!
+2|Fanno <FE 6B> in tutto!<FB>
+
+### 2896
+Portateci con voi!…
+2|Vi prego~!<FB>
+
+### 2897
+<F5 02>ESu su, non lasciate
+2|indietro gli altri.<FB>
+
+### 2898
+Ci sono cadute addosso!
+2|<FE 6D 02> per più spinta!<FB>
+
+### 2899
+<F2>Avete la macchina
+2|scavatrice "Mr. Diggy".<FB>

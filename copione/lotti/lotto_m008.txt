@@ -1,0 +1,628 @@
+### 0583
+Comincia col Verde
+2|e poi mescola il Rosso,
+3|e otterrai il Nero!<P>
+1|Se cominci col Rosso
+1|o un altro colore,
+1|il Nero non viene.<FB>
+
+### 0584
+Il primo colore che
+2|stendi decide il
+3|motivo.<P>
+1|Rosso fa "a pois",
+1|Blu fa "a righe" e
+1|Verde fa "a quadri".<P>
+1|Il perché… è un
+1|mistero anche per me.
+1|<FB>
+
+### 0585
+Iiiik!<P>
+2|TR<FC 1A> Scusa, capo!
+3|Non prendermi a calci!<FB>
+
+### 0586
+Uuu! Iiiik!<P>
+2|TR<FC 1A> Oh, ti prego,
+3|prendimi a calci con le
+1|tue gambe, mia Regina~!<FB>
+
+### 0587
+…Accidenti, non ci
+2|sente.<FA>
+
+### 0588
+La porta è chiusa e
+2|non si apre.<FB>
+
+### 0589
+Non ne ho più!
+2|Il mio portafoglio è
+3|vuoto.<P>
+1|Mi conveniva tenermi
+1|il topo!
+1|<FB>
+
+### 0590
+2|   Tornate a casa!!
+3|<P>
+1|Il baobab e la Sfera
+1|di Cristallo sono
+1|miei!<P>
+1|Ora andatevene, prima
+1|di farvi male!
+1|<FA>
+
+### 0591
+State indietro quando
+2|si muove!<FB>
+
+### 0592
+Il primo round va
+2|alla pianta! Non ha
+3|un punto debole?<FB>
+
+### 0593
+<F5 00>{D3}Grande! Ora la porta
+2|è aperta!<FA>
+
+### 0594
+C'è scritto<FC 1A>
+2|"Casa di Socks".<FB>
+
+### 0595
+E' un lucchetto a
+2|combinazione, non
+3|si apre.<FB>
+
+### 0596
+Questo non sembra
+2|opera di un umano!<FB>
+
+### 0597
+In giornate così è
+2|meglio stare
+3|in casa!<FB>
+
+### 0598
+Eccone una dal
+2|cuore…
+3|<P>
+1|Smette la pioggia,
+1|arriva la primavera,
+1|anche nel mio cuore.<P>
+1|            del Cactus<FB>
+
+### 0599
+Se volete il miele,
+2|avvicinatevi.<FB>
+
+### 0600
+Smettila di perdere
+2|tempo e sali sul ring!<FB>
+
+### 0601
+Ho una cosa da
+2|dirvi, quindi venite
+3|qui!<FB>
+
+### 0602
+<FE 6A>L'arbitro era…
+2|<F5 01>3Una donna!
+3|<FE 6A><P>
+1|Ho perso…
+1|Potete tenervi i
+1|guantoni.<FA>
+
+### 0603
+<F2>Guantoni da Boxe!<P>
+2|Premi <FE 6D 04> e prendi a
+3|pugni i tuoi problemi!<FA>
+
+### 0604
+Ho una cosa per
+2|voi, venite qui!<FB>
+
+### 0605
+Scusate per quello
+2|che ho detto prima.<P>
+3|E' solo un avanzo
+1|del pranzo, ma
+1|prendete questo!<FA>
+
+### 0606
+Se non avete la
+2|chiave, rinunciate.<FB>
+
+### 0607
+Va su fino in
+2|cima.<FB>
+
+### 0608
+Eeeehiii~~!
+2|C'è qualcu~~uno~~?!<P>
+3|Se vi aggrappate alla
+1|cooorda~, vi
+1|tiriamo su~~~!<P>
+1|Vi serve aiu~uto~?
+1|    Sì, grazieee~!
+1|    Nooo~, grazie~~!<FE 68><FA>
+
+### 0609
+Abbiamo spruzzato
+2|l'Antiformiche sulla
+3|corda e attorno al buco,<P>
+1|ma non mi sento
+1|ancora molto sicuro.<FB>
+
+### 0610
+La principessa sta
+2|bene? Non può essere
+3|già…<FB>
+
+### 0611
+Anche se sono scesi
+2|tutti quei soldati,<P>
+3|solo uno è tornato
+1|vivo.<P>
+1|L'Antiformiche da
+1|solo non basta per
+1|vincere.<FB>
+
+### 0612
+Non si vede più.
+2|E' caduto fino
+3|al fondo.<FB>
+
+### 0613
+Abbiamo finito la
+2|veste del re.<P>
+3|Forse il papà di Polly
+1|cambierà idea
+1|su di noi.<FB>
+
+### 0614
+Va suuu fino in
+2|cima.<FA>
+
+### 0615
+Il compleanno del re
+2|è fra soli 3
+3|giorni!<P>
+1|Devo finire il suo
+1|ritratto in tempo
+1|per il compleanno!<P>
+1|Ma, povero me, ero
+1|a passeggio quando
+1|all'improvviso,<P>
+1|una banda di ragni
+1|della foresta mi ha
+1|rubato i colori!<P>
+1|Oh, cosa farò
+1|adesso~?<FB>
+
+### 0616
+Cosa fate?
+2|Se fate qualcosa di
+3|sospetto,<P>
+1|i soldati vi
+1|arresteranno di nuovo.<FB>
+
+### 0617
+La veste non è
+2|ancora finita.<FB>
+
+### 0618
+Caspita! Sono i
+2|colori che Caesar ha
+3|perso nella foresta!<P>
+1|Portateli subito
+1|a Caesar.<FB>
+
+### 0619
+Sono i colori che ho
+2|perso nella foresta…<P>
+3|Grazie di averli
+1|ritrovati…
+1|<P>
+1|Ma, sapete, potete
+1|tenerveli
+1|voi.<P>
+1|Secondo i miei
+1|calcoli,<P>
+1|sovrapponendo due di
+1|quei colori si finisce
+1|il quadro.<P>
+1|Il problema è
+1|l'ordine in cui
+1|usarli.<P>
+1|I miei segreti di
+1|pittura sono in un
+1|libro dell'archivio.<P>
+1|Se vi ricordate com'è
+1|fatta la veste
+1|del re,<P>
+1|potreste leggere il<P>
+1|libro e capire come
+1|riprodurla…<FB>
+
+### 0620
+Non si dipinge
+2|così.<P>
+3|Concentratevi e usate
+1|tutti e 3 insieme.<FB>
+
+### 0621
+Senza tutti e 3 i
+2|colori, non possiamo
+3|finire il quadro.<FB>
+
+### 0622
+<F5 00>{D3}Chi dipinge adesso?<P>
+2|Pensate alla veste
+3|del re e scegliete il
+1|primo colore.<P>
+1|    Deon - Rosso
+1|    Jack - Blu
+1|    Max  - Verde<FE 6E><FA>
+
+### 0623
+Chi tocca adesso?
+2|    Deon - Rosso
+3|    Jack - Blu<FE 68><FA>
+
+### 0624
+E poi chi?
+2|    Deon - Rosso
+3|    Max  - Verde<FE 68><FA>
+
+### 0625
+Chi tocca adesso?
+2|    Jack - Blu
+3|    Max  - Verde<FE 68><FA>
+
+### 0626
+Quasi, ma il motivo
+2|è sbagliato.<P>
+3|Schiaritevi le idee e
+1|riprovate più tardi.
+1|<FA>
+
+### 0627
+E'… nero pesto!!
+2|Non avete letto il
+3|mio libro?<P>
+1|Prendete una pausa e
+1|riprovate più tardi.
+1|<FA>
+
+### 0628
+Non scordate di dare
+2|due mani di colore.<FB>
+
+### 0629
+Fermi lì!<P>
+2|Anche se ci dipingete
+3|sopra, non c'è
+1|modo di rimediare!<P>
+1|Andate e tornate
+1|più tardi.
+1|<FB>
+
+### 0630
+<F2>E' bellissimo~!
+2|Stupendo! Marvelous!<P>
+3|E' proprio la veste
+1|del re che ricordo!<FA>
+
+### 0631
+Bel lavoro. Vado ad
+2|avvisare il re,
+3|venite anche voi dopo.<P>
+1|Sono sicuro che il re
+1|ne sarà felicissimo.<FA>
+
+### 0632
+Forse siete perfino
+2|più bravi di me…<P>
+3|Ma non vi mettete
+1|strane idee in testa.<P>
+1|Non lasciate la
+1|scuola per fare
+1|i pittori.<P>
+1|Non ci sono soldi
+1|in questo mestiere.
+1|<FB>
+
+### 0633
+Voglio parlare con quel
+2|ragazzone vestito
+3|di verde…<FB>
+
+### 0634
+Bzzz, bzzzz, bzzzt.<P>
+2|TR<FC 1A> Una di noi è
+3|un'ape fifona.
+1|Chi sarà mai?<FB>
+
+### 0635
+Gomme o caramelle…
+2|Questo odora di…
+3|…Polvere da sparo?!<P>
+1|E' la mia preferita,
+1|la Bomber Ball!<FB>
+
+### 0636
+Bzz, bzzt, bzzz!<P>
+2|TR<FC 1A> Per poco non mi
+3|cadeva il vaso di miele!
+1|<P>
+1|Non spaventatemi
+1|così!<FB>
+
+### 0637
+Un cavo elettrico è
+2|caduto nel lago e
+3|l'acqua è elettrica.<P>
+1|Bisogna staccare la
+1|corrente alla fonte
+1|per eliminare il rischio.<FB>
+
+### 0638
+<FE 6A>Vi prego…
+2|Vi supplico… <P>
+3|Scendete e riaccendete
+1|i ventilatori…<P>
+1|Se no, moriremo
+1|tutti…<P>
+1|Ingloriosamente…
+1|
+1|<FB>
+
+### 0639
+<FE 6A>Il…
+2|…Re sta bene…?<P>
+3|Se ha addosso quella
+1|veste pesante…<P>
+1|Potrebbe essere già…
+1|<FB>
+
+### 0640
+<FE 6A>N… non riesco a
+2|muovermi con questo caldo…<P>
+3|Fuori fa più fresco
+1|che dentro, credo…
+1|<FB>
+
+### 0641
+<FE 6A>Voi ragazzi siete
+2|pieni di energia
+3|anche con questo caldo…<FB>
+
+### 0642
+<FE 6A>
+2|  A… Ac… Acqua…<FB>
+
+### 0643
+<FE 6A>Mi è sembrato di
+2|sentire qualcuno che
+3|canticchiava in doccia…<P>
+1|Il caldo mi avrà
+1|fatto impazzire…
+1|<FB>
+
+### 0644
+<FE 6A>Chi è stato… l'idiota
+2|che ha spento…
+3|I ventilatori…<FB>
+
+### 0645
+Mino, mino? Minono.<P>
+2|TR<FC 1A> Volete la mia
+3|bella pelliccia,
+1|vero?<P>
+1|Beh, peggio per
+1|voi!!
+1|<P>
+1|Non ve la farei
+1|toccare con quelle
+1|manacce sporche.<FB>
+
+### 0646
+Mino, minono! Mino… <P>
+2|TR<FC 1A> Ma se la pelliccia
+3|si sporca, scoppio
+1|a piangere!<P>
+1|Sono una ragazza
+1|delicata, sapete…<FB>
+
+### 0647
+Minono! Miiinnnooo!<P>
+2|TR<FC 1A> Conoscerete il
+3|vero terrore dell'ira
+1|di una donna!!<FB>
+
+### 0648
+Mino, mino! Minono!<P>
+2|TR<FC 1A> Portatemela
+3|via!
+1|<P>
+1|Non voglio più
+1|vederla!
+1|<FA>
+
+### 0649
+<F2>Abbiamo la
+2|"Pelliccia Silvana"!<P>
+3|Non capiamo il senso
+1|della moda di quel
+1|bruco…<FA>
+
+### 0650
+Mino, mino. Miiino.<P>
+2|TR<FC 1A> Va bene tutto,
+3|nessuno mi regala
+1|una pelliccia nuova?<FB>
+
+### 0651
+Mino, mino. Miino.
+2|TR<FC 1A> Vi piace la mia
+3|pelliccia nuova?
+1|<P>
+1|E' tutta corteccia
+1|naturale.
+1|<FB>
+
+### 0652
+Fatevi da parte, deboli.
+2|Non passerete.
+3|Da parte.<FB>
+
+### 0653
+Questa è la casa del
+2|pittore reale,
+3|Caesar.<P>
+3|Solomon è dentro e
+1|sembra che stiano
+1|litigando.<FB>
+
+### 0654
+Non potrei guardare in
+2|faccia la defunta
+3|Regina se le succede<P>
+1|qualcosa. Presto,
+1|salvate i soldati e
+1|la principessa Polly!<FB>
+
+### 0655
+Anche con
+2|l'Antiformiche, ci
+3|sono piombate addosso…<P>
+1|Non abbiamo mai avuto
+1|la minima
+1|possibilità.<FB>
+
+### 0656
+Odio ammetterlo, ma
+2|le forze rimaste
+3|non bastano…<P>
+1|Tentare di salvare
+1|la principessa Polly
+1|sarebbe un disastro.<FB>
+
+### 0657
+Ops, ho scordato di
+2|dire al nonno cosa
+3|c'era per pranzo!<P>
+1|Ci sono i pomodori.
+1|Potete dirglielo
+1|voi?<FB>
+
+### 0658
+Se succedesse qualcosa
+2|alla principessa Polly,
+3|non potrei più vivere.<P>
+1|Vi prego, dovete
+1|salvarla!<FB>
+
+### 0659
+Caro Solomon,<P>
+2|sono andata con Hassan
+3|a sconfiggere le Cose
+1|Blu.<P>
+1|L'ho costretto a non
+1|dirti niente.
+1|
+1|Altrimenti saresti
+1|voluto venire, qualsiasi
+1|cosa dicessi.<P>
+1|Se ci succede qualcosa,
+1|ti prego, prenditi cura
+1|di mio padre.<P>
+1|Da solo è un disastro
+1|perché si sente
+1|solo facilmente.<P>
+1|Fai anche in modo che
+1|quei tre ragazzi
+1|lascino il regno sani.<P>
+1|Ci penserò io alle
+1|Cose Blu per riportare
+1|la pace nel regno.<P>
+1|
+1|   Non preoccuparti,
+1|   -Polly<FB>
+
+### 0660
+Eh? Questa faccia….
+2|E' Max! Sembra
+3|proprio Max!!<FB>
+
+### 0661
+Volete comprare una
+2|caramella?<P>
+3|Però l'omaggio è
+1|finito.<FB>
+
+### 0662
+Cosa? Non conoscete
+2|il Great Mecha?
+3|Siete proprio sfigati.<P>
+1|Lui è il n.3, ma ci
+1|sono anche il n.1 e 2.
+1|<P>
+1|Li avevo anche io, ma
+1|qualcuno me li
+1|ha rubati.<P>
+1|Ma ora che ho il n.3,
+1|non mi importa
+1|più di tanto!<P>
+1|Piu piu!
+1|Bang! Pow! Bang!!
+1|Cha-chaaang! Piu!!<FB>
+
+### 0663
+E' un robot giocattolo.
+2|Si carica da dietro.<FB>
+
+### 0664
+Guarda cos'hai fatto!
+2|L'hai rovinato!<P>
+3|Adesso me lo devi
+1|ripagare, sai!!<P>
+1|Scherzo, quel pezzo
+1|si stacca sempre.
+1|<P>
+1|Si aggiusta subito.<FA>
+
+### 0665
+Non c'è nessuno al
+2|mio livello!?<FB>
+
+### 0666
+Non ditelo a
+2|Jim…
+3|Venite qui.<FB>
+
+### 0667
+Facevamo i rigori, ma
+2|la maestra l'ha
+3|messo in imbarazzo.<P>
+1|Si è arrabbiato da
+1|morire. Chissà cosa
+1|ci farà.<FB>
+
+### 0668
+Guardate bene come si
+2|muove Jim e premete <FE 6D 04>
+3|per segnare!<P>
+1|Prima però mettete
+1|le Scarpe da Calcio!<FA>
+
+### 0669
+Accetti la sfida di
+2|un uomo e poi
+3|scappi, eh?<P>
+1|La squadra <FE 6D 1A> è
+1|un branco di fifoni.
+1|Che vergogna. <FB>

@@ -1,0 +1,586 @@
+### 2500
+C'è qualcosa di scritto
+2|sulla lavagna…?<FB>
+
+### 2501
+…?!…Un topo!<FB>
+
+### 2502
+Qui la tenda è un
+2|po' aperta.<P>
+3|Il topo sarà
+1|entrato da qui.<P>
+1|Il che significa…<FB>
+
+### 2503
+Kyaaaa!! Aiuto!
+2|Un topo! Odio i topi!!
+3|Aaaaah!<FB>
+
+### 2504
+…!…Il topo!?
+2|Se n'è già andato?…
+3|…Uff.<P>
+1|…Sapete… Odio i
+1|topi. Come avrà fatto
+1|a entrare?<P>
+1|Fa paura sapere che
+1|un topo può spuntare
+1|da un momento all'altro…<P>
+1|La maestra è in ansia.<FB>
+
+### 2505
+Qui la tenda è un
+2|po' aperta.<P>
+3|Il topo sarà
+1|entrato da qui.
+1|Il che significa…<FB>
+
+### 2506
+…Eh?
+2|Non vedo topi da
+3|nessuna parte.<FB>
+
+### 2507
+…?…Il topo è uscito.
+2|Indaghiamo
+3|per bene!<FB>
+
+### 2508
+…!…Dov'è il
+2|topo?<P>
+3|Oh, è scappato?
+1|Meno male.<P>
+1|Lasciate che vi
+1|ringrazi.
+1|Avvicinatevi.<FB>
+
+### 2509
+Grazie. Pare che il
+2|topo non mi darà più
+3|fastidio.<P>
+1|Sono molto colpita da
+1|voi ragazzi.<P>
+1|Come ringraziamento,
+1|vi do la mia sciarpa
+1|di scorta.<P>
+1|Non ditelo alle
+1|altre squadre, ok?<P>
+1|Quando vi sentite
+1|giù, guardatela e
+1|ricordatevi di me.<FA>
+
+### 2510
+C'è una cassa di legno
+2|col coperchio aperto.
+3|A cosa serve?<FB>
+
+### 2511
+Quella cassa l'ho
+2|inventata io. È la
+3|"Cassa Sparisci-Oggetti".<P>
+1|Volete provarla?<P>
+1|Prima, premete <FE 6D 02> su <FE 6D 4A>
+1|e scegliete l'oggetto
+1|da metterci dentro.<P>
+1|Quello che succede poi
+1|è una sorpresa!<FB>
+
+### 2512
+Avete trovato una
+2|Pietra Fortuna!<FB>
+
+### 2513
+Ah! La Pietra Fortuna
+2|galleggia via.<FB>
+
+### 2514
+La Pietra Fortuna è
+2|affondata.<FB>
+
+### 2515
+Venite, venite tutti!
+2|Il gioco di papà Jim
+3|"Non Porta Sfiga"!<P>
+1|Vincono tutti~.<FB>
+
+### 2516
+Come la lucciola che
+2|brillava un tempo~.<P>
+3|Come la neve sul
+1|davanzale~.<P>
+1|Grazie per essermi
+1|stati clienti
+1|fedeli~.<FB>
+
+### 2517
+Venite a vedere!
+2|Il gioco di papà Jim
+3|"Non Porta Sfiga"~!<P>
+1|Chi ha fortuna presto
+1|sarà ricco~!<FB>
+
+### 2518
+Tramonto~… Rossa~…
+2|Libellula~.<P>
+3|Grazie mille.
+1|Grazie mille.<FB>
+
+### 2519
+C'è scritto qualcosa
+2|sulla lavagna…
+3|È troppo lontano.<FB>
+
+### 2520
+…Cip! Cip-cip!<P>
+2|TR<FC 1A> Oh no, mi avete
+3|trovato! Ehm… Ecco…
+1|Io non so niente!<P>
+1|Tipo che c'è una
+1|Pietra Fortuna in un
+1|albero vicino alle scale…<P>
+1|Nossignore, non ne
+1|so niente.<P>
+1|Se correte contro
+1|l'albero a sinistra,
+1|magari cade…<P>
+1|Ma io non ne so
+1|niente!<FB>
+
+### 2521
+Pare che in questo
+2|albero ci sia una
+3|Pietra Fortuna.<FB>
+
+### 2522
+…Cip! Cippi-cii.<P>
+2|TR<FC 1A> Oh no, mi avete
+3|trovato! Ehm…
+1|Io non so niente!<P>
+1|Tipo che se spostate
+1|il masso in cima
+1|alla scala,<P>
+1|si apre una
+1|scorciatoia…<P>
+1|Ma no, non ne ho
+1|la minima idea!<FB>
+
+### 2523
+Oh! Galleggia una
+2|Pietra Fortuna!<FB>
+
+### 2524
+Eh!? Qui galleggia
+2|un pomodoro.<FB>
+
+### 2525
+C'è un buco nel
+2|fianco di questa tenda!<FB>
+
+### 2526
+Qui ci sono tanti
+2|tronchi. A cosa
+3|servivano?<FB>
+
+### 2527
+Eh!?
+2|Pare che questo
+3|tronco si sposti!<FB>
+
+### 2528
+Eh? C'è qualcosa
+2|di nascosto!<FB>
+
+### 2529
+Bel tiro, amico!
+2|…Riguardo a quello
+3|che vi ho promesso.<P>
+1|Potete averlo da
+1|Jim…<P>
+1|Ma… Non ditegli che
+1|vi ho promesso
+1|qualcosa!<P>
+1|Chissà cosa mi
+1|farebbe dopo.<FB>
+
+### 2530
+Shaka, shakaka, shaka.<P>
+2|TR<FC 1A> Le truppe alate vi
+3|fermeranno a ogni
+1|costo!<FB>
+
+### 2531
+Oddio!
+2|Hassan è diventato
+3|una frittella!<FB>
+
+### 2532
+…Trasmissione
+2|messaggio…<FB>
+
+### 2533
+Ottimo lavoro, Winky!<P>
+2|Gli umani che hai
+3|scelto sembrano molto
+1|intelligenti.<P>
+1|Il nostro compito è
+1|finalmente concluso.<FA>
+
+### 2534
+Oh, arrivate a
+2|proposito, ragazzi…<P>
+3|Mi serve aiuto per
+1|pulire questa stanza.<P>
+1|Alla mia età
+1|è così difficile
+1|muoversi…<P>
+1|Ho una lista delle
+1|faccende da
+1|sbrigare…<P>
+1|Grazie!<FA>
+
+### 2535
+Ecco la lista.
+2|Buona fortuna!<FB>
+
+### 2536
+Dove sono finiti
+2|gli altri ragazzi?<FB>
+
+### 2537
+Venite qui.<FB>
+
+### 2538
+Grazie!
+2|Mi avete aiutata tanto.<P>
+3|Allora, ragazzi, volete
+1|entrare nella villa
+1|qui accanto?<FA>
+
+### 2539
+È un grosso tavolo
+2|vecchio…<FB>
+
+### 2540
+Qui mancano delle
+2|assi.
+3|Che pericolo~!<FB>
+
+### 2541
+Da questa asse
+2|sporgono 3 pioli!<P>
+3|È troppo grande per
+1|sollevarla da soli…<FB>
+
+### 2542
+Cos'è questo?!<FB>
+
+### 2543
+C'è così tanta polvere
+2|che è difficile dirlo,<P>
+3|ma dev'essere una
+1|finestra!<FB>
+
+### 2544
+Ora possiamo salire
+2|sopra senza rischi!<FB>
+
+### 2545
+Le finestre pulite
+2|mettono allegria~.<FB>
+
+### 2546
+È un posto
+2|carino.<FB>
+
+### 2547
+Alt! Non oltre!
+2|Più avanti è
+3|pericoloso.<FB>
+
+### 2548
+Sul foglio ci sono
+2|scritte le
+3|istruzioni.<FB>
+
+### 2549
+Wow! Avete già usato
+2|la moneta?<FB>
+
+### 2550
+Sembra che ci sia
+2|scritto qualcosa, ma
+3|è troppo lontano.<FB>
+
+### 2551
+C'è scritto qualcosa
+2|qui…<FB>
+
+### 2552
+Cos'è questo…?
+2|È troppo lontano.<FB>
+
+### 2553
+Qui sono scritti
+2|dei numeri.<FB>
+
+### 2554
+La saracinesca è
+2|chiusa…
+3|Come si aprirà?<FB>
+
+### 2555
+<FE 6A>Quell'uccello è veloce!
+2|Potreste farvi male
+3|se non state attenti…<FB>
+
+### 2556
+La chiave è sotto il
+2|modellino di nave.
+3|Prendetela pure.<FA>
+
+### 2557
+L'ingranaggio è fuori
+2|posto…<FB>
+
+### 2558
+Non ci sta prendendo
+2|di mira da un po'?<FB>
+
+### 2559
+Un masso enorme!<FB>
+
+### 2560
+Trovato un pomodoro!<FB>
+
+### 2561
+Quei tizi hanno
+2|buttato la chiave nel
+3|lago e sono scappati!<P>
+1|Sbrigatevi a trovarla!<P>
+1|Se non la trovate
+1|presto, se la mangerà
+1|qualche pesce~!<FB>
+
+### 2562
+…Questo qui…
+2|Sembra ancora che
+3|voglia combattere…<P>
+1|Ehi!… Ha qualcosa
+1|in
+1|bocca!!<FB>
+
+### 2563
+2| Cos'è questo disegno?<FB>
+
+### 2564
+Non ci posso credere!
+2|Quei mocciosi mi
+3|hanno preso in giro!<P>
+1|Gli ruberò la nave
+1|e la venderò come
+1|rottame!<P>
+1|Anche se dubito che
+1|valga granché!<FA>
+
+### 2565
+Uno scorpione…
+2|Non fatevi pungere o
+3|ve ne pentirete!<FB>
+
+### 2566
+…C'è qualcosa
+2|di scritto sull'asse.<FB>
+
+### 2567
+Wow, che sorpresa che
+2|il colonnello vi abbia
+3|dato il permesso.<P>
+1|Chissà perché?<FB>
+
+### 2568
+Accidenti, che bel
+2|pasticcio…?<FB>
+
+### 2569
+Cosa?
+2|Portate qui gli altri!<P>
+3|Avete scordato che
+1|Gina ha detto che la
+1|squadra è di 3 persone?<FB>
+
+### 2570
+2|  Usi <FE 6D 4A>?<FB>
+
+### 2571
+2|   Usi <FE 6D 46>?<FB>
+
+### 2572
+Wow!
+2|Un pesce appena pescato!<FB>
+
+### 2573
+Accidenti, siamo nei
+2|guai…<FB>
+
+### 2574
+Fugo! Fugogo!<P>
+2|TR<FC 1A> Che state
+3|facendo!?<P>
+1|Mentre perdete
+1|tempo, finirà
+1|il tempo.<FB>
+
+### 2575
+Oh, a quanto pare
+2|avete battuto Jim.<FB>
+
+### 2576
+Vuol dire che…<FB>
+
+### 2577
+Wow! Avete ripreso da
+2|Jim il nostro Amo da
+3|Pesca!<FB>
+
+### 2578
+Mi sembrate tutti
+2|emozionati.
+3|Oh, ho capito!<P>
+1|Scommetto che avete
+1|trovato qualcosa di
+1|speciale, vero?<P>
+1|È quasi ora di
+1|pranzo, perché non
+1|aspettate nella mia tenda?<P>
+1|Vado a cercare Jim
+1|e torno lì
+1|subito.<P>
+1|Me lo mostrerete allora.
+1|Ricordate, la mia tenda
+1|è la n.2.<P>
+1|Non vedo l'ora di
+1|vedere cosa avete
+1|trovato!<FA>
+
+### 2579
+Questo non basta
+2|proprio!!<P>
+3|Sbrigatevi a trovarne
+1|altra!<P>
+1|Sennò, a pranzo
+1|avrete solo
+1|acqua!<FA>
+
+### 2580
+Avete solo <FE 6C> ceppi!
+2|Ne servono altri <FE 6B>!<P>
+3|Sennò, a pranzo
+1|avrete acqua!<FA>
+
+### 2581
+Siete lentissimi!!<P>
+2|Avete finalmente
+3|abbastanza legna?<P>
+1|Fatemi controllare.<FA>
+
+### 2582
+Mmm…
+2|Quella mi sta proprio
+3|antipatica.<FA>
+
+### 2583
+Ehi, fammi vedere.<FA>
+
+### 2584
+Bene, contando la mia
+2|ne abbiamo <FE 6D 2A>.<P>
+3|Allora non siete
+1|del tutto
+1|inutili.<P>
+1|Su, continuate a
+1|poltrire finché non
+1|finisco il mio pranzo.<P>
+1|Ah~, che da fare!<FA>
+
+### 2585
+Avete abbastanza
+2|legna?<FB>
+
+### 2586
+Siete lentissimi,
+2|squadra <FE 6D 1A>!<P>
+3|Cosa avete
+1|combinato?<FB>
+
+### 2587
+Quanto ci avete messo,
+2|squadra <FE 6D 1A>!<P>
+3|Mancate solo voi
+1|e Jim, siete gli
+1|ultimi.<FB>
+
+### 2588
+Squadra <FE 6D 1A>.
+2|Vedo che finalmente
+3|siete arrivati.<FB>
+
+### 2589
+Volete davvero
+2|salvare Gina?<P>
+3|Pensateci bene,
+1|fratello.<FB>
+
+### 2590
+Il fuoco è rimasto
+2|acceso… Pericoloso!<FB>
+
+### 2591
+Su questa asse ci
+2|sono delle impronte…
+3|Cosa vorranno dire…?<FB>
+
+### 2592
+Cip cippi!<P>
+2|TR<FC 1A> Nei guai?
+3|Volete un aiuto per <FE 6B>
+1|Pietra Fortuna?<FB>
+
+### 2593
+<F5 00>{D3}
+2|C'è una lettera.<FB>
+
+### 2594
+Cosa, cosa?
+2|"Siamo coppie focose,
+3|quindi silenzio!"<P>
+1|…C'è scritto qui.<FB>
+
+### 2595
+Presto!
+2|Se non prendiamo
+3|i cattivi,<P>
+1|chissà cosa
+1|succederà!<FB>
+
+### 2596
+Passando dalla
+2|grotta qui sotto,<P>
+3|dovremmo arrivare
+1|alle radici del
+1|baobab, però…<FB>
+
+### 2597
+La porta è sbarrata
+2|con assi, non si può
+3|entrare in questa stanza…<FB>
+
+### 2598
+"Dopo aver letto il
+2|cartello, mettete 2
+3|Pietre Fortuna dentro."<P>
+1|…C'è scritto qui.<FB>
+
+### 2599
+Che contenitore
+2|grande…<FB>

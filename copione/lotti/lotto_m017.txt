@@ -1,0 +1,545 @@
+### 1390
+…Ci provate?<FB>
+
+### 1391
+Avviciniamoci a
+2|dare un'occhiata.<FB>
+
+### 1392
+Mentre giocate non si
+2|possono mettere altre
+3|Pietre Fortuna!<FB>
+
+### 1393
+E' troppo piccolo da
+2|leggere. Forse se ci
+3|avviciniamo…<FB>
+
+### 1394
+Scossa! L'uomo-bestia
+2|elettrico!<P>
+3|"Colpite l'uomo
+1|elettrico tre volte
+1|sul petto,<P>
+1|e spunta una roulette.<P>
+1|Colpitela ancora una
+1|volta e vincerete una
+1|Pietra Fortuna!<P>
+1|Ogni partita costa 2
+1|Pietre Fortuna." <P>
+1|Wow…
+1|Che gioco antico.<FB>
+
+### 1395
+Venite qui un
+2|attimo.<FB>
+
+### 1396
+Costa <FE 6B>{EC}{ED}.<FE 6A>
+2|    Ok
+3|    Fai uno sconto?<FE 68><FA>
+
+### 1397
+E va bene, <FE 6B>{EC}{ED}!<FE 6A>
+2|    Ok
+3|    Fai uno sconto?<FE 68><FA>
+
+### 1398
+Ultima offerta! <FE 6B>{EC}{ED}!<FE 6A>
+2|    Ok
+3|    Fai uno sconto?<FE 68><FA>
+
+### 1399
+Ladri! Allora <FE 6B>{EC}{ED}!<FE 6A>
+2|    Ok
+3|    Fai uno sconto?<FE 68><FA>
+
+### 1400
+Se fate così,
+2|allora voglio
+3|<FE 6B>{EC}{ED}!<P>
+1|E non accetto una
+1|Pietra di meno!<FA>
+
+### 1401
+Va bene, <FE 6B>{EC}{ED}!<FE 6A>
+2|    Ok
+3|    Fai uno sconto?<FE 68><FA>
+
+### 1402
+Beh, chi ha bisogno
+2|di voi!<FA>
+
+### 1403
+Pronti a pagare?<FE 6A>
+2|    Ok
+3|    Mai!<FE 68><FA>
+
+### 1404
+Eheh! Grazie, amico.<P>
+2|E' laggiù, usatelo
+3|quando volete.
+1|<FA>
+
+### 1405
+Voi ragazzi siete
+2|clienti tosti, non mi
+3|fate guadagnare niente.<FA>
+
+### 1406
+L'avrei data anche per
+2|<FE 6B>{EC}{ED}…
+3|Che bel guadagno!<FA>
+
+### 1407
+Scambio per <FE 6B>{EC}{ED}?<FE 6A>
+2|    Ok
+3|    Fai uno sconto?<FE 68><FA>
+
+### 1408
+Ma cosa ci farete?
+2|<FB>
+
+### 1409
+A proposito…
+2|Quante Pietre Fortuna
+3|avete, ragazzi?<P>
+1|Cosa?!
+1|Solo <FE 6B>?!<P>
+1|Va bene, vi faccio un
+1|affare.<P>
+1|Se rispondete alle
+1|mie domande,<P>
+1|ve la vendo per
+1|<FE 6B> Pietre Fortuna.<FA>
+
+### 1410
+Tanto tempo fa, al
+2|"Lago della Morte"
+3|c'erano dei pinguini.<P>
+1|Quanti pinguini?<FE 6A>
+1|<P>
+1|    15 pinguini
+1|    17 pinguini
+1|    19 pinguini<FE 6E><FA>
+
+### 1411
+Tanto tempo fa, al
+2|"Lago della Morte"
+3|c'erano dei pinguini.<P>
+1|Quante erano femmine?<FE 6A>
+1|<P>
+1|    6 femmine
+1|    8 femmine
+1|    9 femmine<FE 6E><FA>
+
+### 1412
+Tanto tempo fa, Indio
+2|portava una fascia.<P>
+3|Di che colore era?<FE 6A>
+1|<P>
+1|    Rossa
+1|    Blu
+1|    Verde<FE 6E><FA>
+
+### 1413
+Wow, ragazzi, siete
+2|preparati…<P>
+3|Ecco, un premio di
+1|<FE 6B> Pietre Fortuna.<FA>
+
+### 1414
+E' laggiù.
+2|Usatelo quando
+3|volete.<P>
+1|Siete clienti
+1|tosti~.
+1|Non mi avete fatto
+1|guadagnare niente!<FA>
+
+### 1415
+Peccato, ritentate
+2|più tardi!<FA>
+
+### 1416
+A proposito…
+2|Avete Pietre
+3|Fortuna, ragazzi?<P>
+1|
+1|Cosa?
+1|Neanche una?!<P>
+1|Va bene, se rispondete
+1|alle mie domande,<P>
+1|ve la lascio
+1|gratis.<P>
+1|Solo non aspettatevi
+1|che vi aiuti a
+1|portarla…<FA>
+
+### 1417
+Wow, ragazzi, siete
+2|preparati…<P>
+3|Va bene, potete
+1|averla gratis.<FA>
+
+### 1418
+Oh, squadra <FE 6D 1A>!
+2|State bene!
+3|Che succede?<P>
+1|Sono il prof. di
+1|ginnastica, Arnold.
+1|Non vi ricordate?<FA>
+
+### 1419
+…Non si può usare.<FB>
+
+### 1420
+Probabilmente arriva<P>
+2|da dietro.<FB>
+
+### 1421
+Mancano le palle!<P>
+2|Non avete qualcos'altro
+3|da usare…?<FB>
+
+### 1422
+Queste sono abbastanza
+2|dure da usare.<P>
+3|Ne abbiamo solo <FE 6B>,
+1|quindi attenzione…
+1|<FA>
+
+### 1423
+<FE 79><FE 6D 08> per mirare! <FE 6D 04> esce.
+2| <FE 6D 42>  <FE 6D 12>
+3|           <FE 6D 54><FE 6B> pz.<FE>{7E}<FA>
+
+### 1424
+Grande!
+2|La porta si è aperta!<FA>
+
+### 1425
+Questa è per
+2|prima!<FB>
+
+### 1426
+Sembra che da lì si
+2|possa sbirciare
+3|dentro…<FB>
+
+### 1427
+Eccolo!<FB>
+
+### 1428
+<FE 6A>    Riproduci
+2|    Registra
+3|    Niente<FE 6E><FA>
+
+### 1429
+<FE 6A><F5 03>N
+2|       Riproduco!<FA>
+
+### 1430
+<FE 6A><F5 02>N
+2|…Accidenti, non
+3|c'è niente!<FB>
+
+### 1431
+<FE 6A>Uuuah! Uuuuh!<P>
+2|TR<FC 1A> Di chi è questa
+3|voce selvaggia?<FA>
+
+### 1432
+Lotta, lotta,
+2|lottiamo!<FB>
+
+### 1433
+Sasso, carta, forbici!<FE 6A><P>
+2|    Sasso
+3|    Forbici
+1|    Carta<FE 6E><FA>
+
+### 1434
+2|       <F5 01>LVia!<FA>
+
+### 1435
+<F5 03>ZAhah! Peccato, polli!
+2|Riprovate un altro giorno!<FA>
+
+### 1436
+Pari…
+2|  Ancora una volta!<FE 6A><P>
+3|    Sasso
+1|    Forbici
+1|    Carta<FE 6E><FA>
+
+### 1437
+<F2>Uffa, ho perso!
+2|E va bene, mi sposto…<FA>
+
+### 1438
+In che mano c'è la
+2|Pietra Fortuna?!<FE 6A>
+3|<P>
+1|    Sinistra
+1|    Destra
+1|    Nessuna!<FE 6E><FA>
+
+### 1439
+Se giocate al tiro alla
+2|fune, sbrigatevi a
+3|prendere la corda!<FB>
+
+### 1440
+Giochiamo al tiro alla
+2|fune~!<FB>
+
+### 1441
+Sembra perfetto da
+2|tenere in mano.<FB>
+
+### 1442
+Oh, pronti alla
+2|sfida?!<P>
+3|Scegliete una direzione
+1|con <FE 6D 08>.<P>
+1|Premete <FE 6D 02> a raffica
+1|per tirare più forte!<FA>
+
+### 1443
+<F5 03>ZUuu, uuu!<P>
+2|TR<FC 1A> Abbiamo vinto!
+3|Fuori di qui,
+1|perdenti!<FA>
+
+### 1444
+Il cavo porta alla
+2|grotta accanto,
+3|ma…<FB>
+
+### 1445
+2| Ma cos'è?<FB>
+
+### 1446
+Sembra che il cavo
+2|elettrico sia collegato
+3|a questo.<FB>
+
+### 1447
+<FE 79>  Premi una direzione.
+2|        <FE 6D 42><FE>{7E}<FA>
+
+### 1448
+Guardiamo più da
+2|vicino.<FB>
+
+### 1449
+Vediamo cosa
+2|dice…
+3|<P>
+1|Qualcosa sulle
+1|piante…<P>
+1|Bla, bla…
+1|Bla… Piante…<P>
+1|<P>
+1|Niente.
+1|Non ci si capisce
+1|un accidente.<P>
+1|Senza un esperto,
+1|è
+1|incomprensibile!<FB>
+
+### 1450
+Bene, io resto qui
+2|a studiare questi
+3|appunti.<FA>
+
+### 1451
+0 mese, 0 giorno
+2|Ho trovato una
+3|Sfera misteriosa.<P>
+1|Sembra una specie
+1|di cristallo.<P>
+1|L'abbiamo portata con
+1|noi nel cuore
+1|dell'isola…<P>
+1|Più tardi è entrata
+1|in contatto con un
+1|enorme baobab.<P>
+1|L'antico baobab da
+1|tempo fornisce
+1|nutrimento a<P>
+1|piante e animali
+1|della zona
+1|circostante.<P>
+1|Dal contatto con la
+1|Sfera di Cristallo,<P>
+1|il baobab sembra
+1|produrre olio in
+1|eccesso.<P>
+1|Spero che la Sfera
+1|non venga sfruttata
+1|in questo modo…<P>
+1|<F5 01>3Ultimamente su
+1|quest'isola succedono
+1|cose strane.<P>
+1|Sono preoccupato per
+1|il mio cane, Socks.<P>
+1|Si comporta in modo
+1|strano da quando è
+1|andato nella giungla…<FB>
+
+### 1452
+Siete andati più
+2|avanti nell'isola?<P>
+3|Pare che più in là
+1|ricavino l'olio
+1|dal baobab.<FB>
+
+### 1453
+Studiava la reazione
+2|del parassita a un
+3|certo liquido.<P>
+1|La cosa strana è che
+1|quel liquido è
+1|semplice acqua salata!<P>
+1|Non so perché reagisca
+1|all'acqua salata, ma
+1|ho fatto questo per voi.<FA>
+
+### 1454
+<F2>Avete lo Spray
+2|Salino del prof.
+3|Marlowe!<P>
+1|Che salato!<FA>
+
+### 1455
+Credo che lo darò
+2|a…<P>
+3|Uno spilungone
+1|sveglio come me…<P>
+1|Jack!<FB>
+
+### 1456
+Lo do a quello
+2|spilungone, Jack.
+3|Vieni a prenderlo.<FB>
+
+### 1457
+Forse riuscirai a
+2|risolvere l'enigma.<P>
+3|Te lo do.
+1|Usalo bene!<FA>
+
+### 1458
+Che tipo di acqua
+2|è?<FB>
+
+### 1459
+Acqua salata… Viene
+2|dal mare?<FB>
+
+### 1460
+Oh, è venuta una foto
+2|stupenda!
+3|Bravi, ragazzi.<FA>
+
+### 1461
+Le Pietre Fortuna
+2|sono sparite!!<FA>
+
+### 1462
+2|    Ehi, aprite~!<FB>
+
+### 1463
+Se alzano la leva,
+2|la porta si
+3|chiude…<FB>
+
+### 1464
+Ehi~, quando la barca
+2|si dondola, non
+3|bussate!<FB>
+
+### 1465
+<F2>Avete messo l'acqua
+2|salata nella borraccia!<FA>
+
+### 1466
+2|  Eh? Cos'è…?
+3|<P>
+1|Una chiave!!…
+1|Come la prendiamo…?
+1|<P>
+1|Mmm…
+1|Usiamo un oggetto?<FB>
+
+### 1467
+<F5 00>{D3}Bene, ora possiamo
+2|tirare fuori la chiave
+3|dalla sua bocca…<P>
+1|Forse…?<FA>
+
+### 1468
+<FE 79>  Mira e tira!
+2|   <FE 6D 42>       <FE 6D 12><FE>{7E}<FA>
+
+### 1469
+<F2>Avete la… burp
+2|Chiave della Grotta.<P>
+3|E' un po' acida.<FA>
+
+### 1470
+E' la chiave della
+2|grotta?<FB>
+
+### 1471
+Prendete questo.
+2|Usatelo bene!<FA>
+
+### 1472
+La pianta avrà preso
+2|forma umana!
+3|Dovete trovarla!<P>
+1|Mi aiuterete?<FE 6A>
+1|    Ok
+1|    Nooo<FE 68><FA>
+
+### 1473
+Ooh, che bella musica!<P>
+2|Adoro bere ascoltando
+3|questa
+1|canzone.<P>
+1|Che ne dite, ragazzi,
+1|bevete anche
+1|voi?<P>
+1|Questa bevanda forte
+1|vi farà crescere i
+1|peli sul petto!<FA>
+
+### 1474
+Se non vi sbrigate,
+2|si fa buio~.<FB>
+
+### 1475
+<F2>Accidenti! Ho perso…
+2|Prendete questa
+3|Pietra Fortuna!<FA>
+
+### 1476
+Devo proprio ballare!<FB>
+
+### 1477
+Kii, kii! Kii!<P>
+2|TR<FC 1A> Fuori!
+3|Fuori da casa nostra!<FB>
+
+### 1478
+Kii, kii! Kii!<P>
+2|TR<FC 1A> Fuori!
+3|Fuori da casa nostra!<FB>
+
+### 1479
+Davvero?
+2|Sembri piuttosto sveglio!
+3|Usalo bene!<FA>

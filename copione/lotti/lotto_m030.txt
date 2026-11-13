@@ -1,0 +1,503 @@
+### 2600
+Che vecchio cartello…<FB>
+
+### 2601
+Cos'è?<FB>
+
+### 2602
+Cosa, volete quel
+2|mucchio di ferraglia?<FA>
+
+### 2603
+Se è solo questo,
+2|prendetelo!<P>
+3|…Vorrei dire, ma
+1|anch'io devo
+1|guadagnarmi da vivere…<FB>
+
+### 2604
+<FE 6B> {EC}{ED}!
+2|Non posso farvi
+3|prezzo migliore!<FB>
+
+### 2605
+Volete proprio quella
+2|robaccia, eh?<P>
+3|Stavolta niente
+1|trattative…
+1|Che ne dite di…<FB>
+
+### 2606
+È vostro.
+2|Prendetelo pure.<FB>
+
+### 2607
+Povero me!
+2|Devo lavorare
+3|troppo…<FB>
+
+### 2608
+Volete quella
+2|robaccia, vero?<FB>
+
+### 2609
+Funziona ancora?<FB>
+
+### 2610
+Questo cannone sembra
+2|ancora funzionante…<FB>
+
+### 2611
+Vi do atto di essere
+2|arrivati fin qui,
+3|mocciosi!<FB>
+
+### 2612
+Sono i Mammut!<FB>
+
+### 2613
+Eh?!<FB>
+
+### 2614
+<F5 02>{1A}Uuu-kii, uuu-kii!<P>
+2|TR<FC 1A> Forestiero!
+3|Straniero! Intruso!!<FB>
+
+### 2615
+<F5 02>{1A}Uuu, uuu!<P>
+2|TR<FC 1A> Ehi, forestiero!
+3|Se riesci a battermi,
+1|ti lascio passare.<FB>
+
+### 2616
+<F5 02>{1A}Uuu-kii, uuu-kii!<P>
+2|TR<FC 1A> Ehi, ragazzino.
+3|Ti… Va una sfida
+1|al tiro alla fune?<FB>
+
+### 2617
+<F5 02>{1A}Uuu-kii uuu-kii!<P>
+2|TR<FC 1A> Ehi, ehi, facciamo
+3|una sfida a tiro
+1|alla fune~.<FB>
+
+### 2618
+È una corda bella
+2|spessa…<FB>
+
+### 2619
+Sono Re Gingham III.
+2|E voi…?<P>
+3|Vi siete finti
+1|giganti e avete rapito
+1|la principessa Polly!<FB>
+
+### 2620
+Cos'è questo?<FB>
+
+### 2621
+Questo coso sembra un
+2|tapis roulant… Mmm…<FB>
+
+### 2622
+C'è un piccolo
+2|interruttore.<FB>
+
+### 2623
+Che pianta rara!<P>
+2|Devo catturare la sua
+3|bellezza misteriosa!<P>
+1|Non vi sembra che
+1|questo sia un paradiso
+1|delle piante?<FB>
+
+### 2624
+Ancora~!<P>
+2|Il professor Marlowe
+3|ha avuto la foto?<FB>
+
+### 2625
+Avete trovato una
+2|pianta rara?<FB>
+
+### 2626
+Documenti sparsi
+2|alla rinfusa.<P>
+3|È entrato un
+1|ladro…?<FB>
+
+### 2627
+Ma guarda un po'
+2|cosa c'è qui!<P>
+3|È una ricerca su
+1|quella strana pianta…<P>
+1|Pare che viva
+1|succhiando nutrienti
+1|da altre cose…<P>
+1|Ci sono un sacco di
+1|scartoffie,<P>
+1|quindi mi ci vorrà
+1|un po' per leggerle
+1|tutte.<FB>
+
+### 2628
+Avete trovato
+2|qualcosa?<P>
+3|Credo di aver quasi
+1|finito di studiare
+1|questa ricerca!<FB>
+
+### 2629
+Scusate se vi ho
+2|fatto aspettare!<P>
+3|Ora ho capito
+1|questi documenti.<FB>
+
+### 2630
+Non so perché il
+2|parassita reagisca
+3|all'acqua salata,<P>
+1|ma ho fatto questo<P>
+1|prototipo da farvi
+1|provare.<FB>
+
+### 2631
+Vi piace il mio
+2|spray?<FB>
+
+### 2632
+Se quello che ha detto
+2|è vero,<P>
+3|abbiamo a che fare
+1|con una pianta
+1|cattivissima.<FB>
+
+### 2633
+Come?
+2|Il fantasma era Benson?
+3|Ahahahahah…<FB>
+
+### 2634
+Da qui scorre
+2|dell'acqua.<FB>
+
+### 2635
+Eh?
+2|È un po' salata!<FB>
+
+### 2636
+Che bella foto!
+2|Se mai mi sentirò
+3|giù,<P>
+1|mi basterà guardare
+1|questa foto per
+1|sorridere!<FA>
+
+### 2637
+La porta si è chiusa…<FB>
+
+### 2638
+Sembra l'interruttore
+2|della porta.<FB>
+
+### 2639
+Una… Bomba?!<FB>
+
+### 2640
+Sembra un'uscita.
+2|Ma… È chiusa.<FB>
+
+### 2641
+<F5 02>{1A}Uff sbuff!<P>
+2|TR<FC 1A> Ho perso…<FB>
+
+### 2642
+Non potete guardare
+2|la vostra stessa
+3|radiografia!<P>
+1|Fate mettere qualcuno
+1|davanti a voi.<FB>
+
+### 2643
+Bleah, un pipistrello.<FB>
+
+### 2644
+Bleah, il pipistrello
+2|mi copre la visuale!<FB>
+
+### 2645
+Quello di voi a cui
+2|piace costruire le
+3|cose è…<FB>
+
+### 2646
+Sembri pronto a tutto!<P>
+2|Ora tocca a Max, il
+3|ragazzo robusto!
+1|<FA>
+
+### 2647
+Un adulto vestito
+2|da pirata~!<FB>
+
+### 2648
+Oh, bentornato,
+2|caro.
+3|Perché tanta fretta?!<FB>
+
+### 2649
+Signor Benson!
+2|Dica loro di diventare
+3|pirati!<FB>
+
+### 2650
+Questa pianta è
+2|d'intralcio.<FB>
+
+### 2651
+È una pianta, ma si
+2|muove…<P>
+3|Guardate bene la
+1|radice lì!<P>
+1|AVETE GUARDATO BENE?!<FB>
+
+### 2652
+Oh, un sacco di sabbia!<FB>
+
+### 2653
+Oh, che sorpresa!<P>
+2|E per finire, Jack, lo
+3|spilungone!
+1|<FA>
+
+### 2654
+Ehi, squadra <FE 6D 1A>.<P>
+2|Avete mai guardato
+3|sott'acqua?
+1|È fantastico!<P>
+1|Visto che siamo
+1|venuti fin qui al campo,
+1|dobbiamo divertirci~!!<FB>
+
+### 2655
+Sono un uomo, quindi
+2|non piangerò.<P>
+3|Se li ritrovo, ve
+1|li presterò.
+1|Ahahah!<FB>
+
+### 2656
+Qui l'acqua è
+2|profonda, quindi
+3|attenzione!<FB>
+
+### 2657
+Ho un cuore grande
+2|come il mare! Presto
+3|i miei occhialini a Max.<P>
+1|Ahahahah!<FB>
+
+### 2658
+Ci avete proprio salvati,
+2|squadra <FE 6D 1A>.<FB>
+
+### 2659
+Ho fame~. Dateci cibo~.
+2|Cantate con me!<FB>
+
+### 2660
+Ahh, sono distrutto.<FB>
+
+### 2661
+Il pranzo non è pronto~?<FB>
+
+### 2662
+2|Ho fame~ . Datemi cibo~.<FB>
+
+### 2663
+Eheh, prima Dorothy si
+2|è arrabbiata con me!<FB>
+
+### 2664
+Dorothy si è arrabbiata!
+2|Ma in realtà…<FB>
+
+### 2665
+Le usate quelle
+2|Scarpe da Calcio?<FB>
+
+### 2666
+Prima ho preso un
+2|pesce a mani nude,
+3|e ora mi puzzano.<FB>
+
+### 2667
+Siete d'intralcio alla
+2|preparazione del mio
+3|pranzo speciale!<FB>
+
+### 2668
+Vi prego, provate
+2|l'innocenza di Indio!<FB>
+
+### 2669
+Nessuno vive in
+2|questa casa da anni.<P>
+3|È una casa
+1|misteriosa.
+1|A proposito…<FB>
+
+### 2670
+Dove eravate?!<P>
+2|Gina vi stava
+3|cercando!<P>
+1|L'avete incontrata?<FB>
+
+### 2671
+Siete in ritardo,
+2|squadra <FE 6D 1A>!<P>
+3|Eravate a fare
+1|strane cose da
+1|maschi, vero?<FB>
+
+### 2672
+Ciao, amico mio.
+2|…Che fine ha fatto
+3|il resto della squadra?<FB>
+
+### 2673
+Per ora c,c,calma
+2|e sangue freddo…
+3|O forse no.<FB>
+
+### 2674
+Volete davvero
+2|salvare Gina?<FB>
+
+### 2675
+Ehi, una scimmia!
+2|Sembra arrabbiata
+3|per qualcosa…<FB>
+
+### 2676
+Shaka, shaka, shakaka.<P>
+2|TR<FC 1A> Siamo formiche
+3|soldato. Non cadremo
+1|senza combattere.<FB>
+
+### 2677
+Cosa sarà mai~…
+2|Cosa sarà mai~…<FB>
+
+### 2678
+Hai qualcosa da
+2|dirmi?<FB>
+
+### 2679
+Evviva! Il robot si
+2|è fermato!<FB>
+
+### 2680
+Oh, si è aperto un
+2|grosso buco!<FB>
+
+### 2681
+Questa cosa piatta…
+2|    …Dev'essere Hassan.<FB>
+
+### 2682
+Che avete da
+2|guardare?!<P>
+3|Avvicinatevi se
+1|volete parlare.<FB>
+
+### 2683
+Che avete da
+2|fissare?<P>
+3|Volete provare il gioco
+1|di papà Jam
+1|"Calcia e Spacca!"~?<P>
+1|1 partita, 1 Pietra.
+1|Ci state?<FB>
+
+### 2684
+Sbrigatevi a calciare
+2|la palla!<FB>
+
+### 2685
+Che macchina è questa?
+2|L'ha costruita il
+3|sosia di Jim?<FB>
+
+### 2686
+Che macchina è questa?
+2|…Sembra una
+3|porta da calcio.<FB>
+
+### 2687
+2|…Non ancora.<FB>
+
+### 2688
+Un pallone.<FB>
+
+### 2689
+Avete finito le Pietre
+2|Fortuna. Ve ne
+3|restituisco una.<FB>
+
+### 2690
+Presto! Scappate!<P>
+2|Non potete battere
+3|questa "Regina" con
+1|quegli oggetti!<FB>
+
+### 2691
+Non preoccupatevi per
+2|me, guardate bene la
+3|"Regina"!<P>
+1|Gli occhi sono il suo
+1|punto debole!<FB>
+
+### 2692
+Ch,Che formica enorme!
+2|I nostri oggetti non
+3|la scalfiranno.<FB>
+
+### 2693
+Grazie per averci
+2|salvati.<FB>
+
+### 2694
+Incredibile.
+2|Non ho mai visto una
+3|battaglia così gloriosa.<P>
+1|Sono colpito…<FB>
+
+### 2695
+Vale la pena tentare
+2|tutto, credo.<P>
+3|Che ci fosse un'altra
+1|strada…<P>
+1|Incredibile che ci
+1|abbiate pensato voi.<FB>
+
+### 2696
+Evviva!
+2|Non pensavo che
+3|andasse così bene.<FB>
+
+### 2697
+Questo giardino sarà
+2|così solo…<FB>
+
+### 2698
+Quella Sfera dava vita
+2|a questo giardino…<P>
+3|Ahimè, non c'è nulla
+1|che possa sostituirla.<FB>
+
+### 2699
+…Ve ne andate già
+2|così presto?<P>
+3|Polly ci rimarrà
+1|male…<FB>

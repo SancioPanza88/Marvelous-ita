@@ -1,0 +1,611 @@
+### 1570
+Avevo paura della
+2|Regina…<P>
+3|Ma credevo anche che
+1|sareste venuti a
+1|salvarmi…<P>
+1|<F5 00>{1D}Sì, come no!
+1|Come se avessi
+1|bisogno di voi!<P>
+1|Io ora torno al
+1|castello.<FA>
+
+### 1571
+Da generazioni, le
+2|scimmie di quest'isola
+3|custodiscono un segreto.<P>
+1|Oggi, questa grande
+1|responsabilità passa
+1|a te.<FA>
+
+### 1572
+<F2>Winky ha ricevuto le
+2|"Tre Chiavi" dall'
+3|Anziano!<FA>
+
+### 1573
+Hai visto l'antica
+2|nave su
+3|quest'isola?<P>
+1|Quella nave e queste
+1|chiavi sono legate
+1|da un forte legame…<FA>
+
+### 1574
+Queste chiavi svelano
+2|il segreto dell'isola.
+3|Ma non solo--<P>
+1|Hanno il potere di
+1|cambiare la vita di
+1|chi le possiede.<P>
+1|Winky, devi trovare
+1|degli umani degni
+1|delle chiavi.<FA>
+
+### 1575
+Ah sì, {AF}{C5}{CE}{BC}{C4}?
+2|Ci sei, Pluck?<FA>
+
+### 1576
+Pluck ti aiuterà nel
+2|tuo compito.<P>
+3|Voi due dovete
+1|lavorare insieme per
+1|proteggere le chiavi.<FA>
+
+### 1577
+Uuukii! Uuukii!<P>
+2|TR<FC 1A> Brutte notizie,
+3|Anziano! Gli umani
+1|vengono a prenderci!<FA>
+
+### 1578
+Deve scappare,
+2|Anziano!<FA>
+
+### 1579
+Uuukii! Uuukikikikii!!<P>
+2|TR<FC 1A> Sono venuti per
+3|le chiavi!<P>
+1|Winky, Pluck, conto
+1|su di voi!
+1|<FA>
+
+### 1580
+Piropii. Pirororoo!<P>
+2|TR<FC 1A> Che stai
+3|facendo?<P>
+1|Presto, devi
+1|scappare anche
+1|tu!<P>
+1|Accidenti, che tonto.<FA>
+
+### 1581
+Il paese è davvero
+2|tornato alle sue
+3|dimensioni?<P>
+1|E' difficile da
+1|credere…<FB>
+
+### 1582
+Il paese è tornato
+2|grande come prima, no?<P>
+3|Vado a dare
+1|un'occhiata.<FA>
+
+### 1583
+…Venite qui, ho
+2|una cosa da
+3|dirvi.<FB>
+
+### 1584
+Grazie a voi ho visto
+2|una cosa fantastica!
+3|Ecco un premio segreto.<FA>
+
+### 1585
+<F2>Il re vi ha dato
+2|delle Pietre Fortuna!<P>
+3|Ve ne ha date <FE 6D 28><FE 6D 1E>
+1|!! Wow!<FA>
+
+### 1586
+Andate a trovare Polly
+2|prima di partire?<P>
+3|Fa la dura, ma
+1|dentro si sente un
+1|po' sola.<FB>
+
+### 1587
+Polly non somiglia
+2|molto a sua madre…<P>
+3|Forse è questo
+1|diventare grandi?<P>
+1|Già… Si vede che
+1|si cresce.<FB>
+
+### 1588
+Il re mi ha detto
+2|che ora devo ritrarre
+3|Polly.<P>
+1|Ma senza una modella,
+1|non ci riesco.<FB>
+
+### 1589
+<F2>Perfetto!<P>
+2|Avete imparato la
+3|mia tecnica!<FB>
+
+### 1590
+I clienti non vengono
+2|più per colpa delle
+3|"Cose Blu".<P>
+1|Per via delle
+1|formiche mostro, gli
+1|affari vanno a picco.<FB>
+
+### 1591
+Ah, se dormite in
+2|una locanda--<P>
+3|Quando iniziate la
+1|partita, scegliete
+1|"dalla locanda".<P>
+1|Non si può dormire
+1|in locanda mentre
+1|giocate.<FB>
+
+### 1592
+Ho una cosa da
+2|dirvi, avvicinatevi!
+3|<FB>
+
+### 1593
+Grazie mille!!<P>
+2|Ora il regno può
+3|tornare un posto
+1|felice.<P>
+1|…Oh, partite
+1|già?
+1|Avete parlato con Polly?<P>
+1|Ultimamente non
+1|l'ho vista…<P>
+1|Tornate pure quando
+1|volete.
+1|<FB>
+
+### 1594
+Sembra un insetto
+2|che porta una cosa
+3|rotonda…<P>
+1|Quella cosa rotonda
+1|è un uovo d'aquila?<FB>
+
+### 1595
+Due piccoli insetti
+2|fanno rotolare un uovo.<FB>
+
+### 1596
+Shaka. Shaka. Shakaka.<P>
+2|TR<FC 1A> Appena ci siamo
+3|liberati dell'aquila,<P>
+1|è troppo pesante e
+1|non si muove.<FB>
+
+### 1597
+Shaka. Shaka. Shakaka.<P>
+2|TR<FC 1A> Siamo rotolauova.<P>
+3|Se smettiamo di
+1|rotolare, siamo
+1|semplici insetti.<FB>
+
+### 1598
+Allora i ladri
+2|erano loro.<P>
+3|…Oh, possiamo
+1|sostituire la palla
+1|con quest'uovo!<P>
+1|Guardate bene i
+1|movimenti e premete <FE 6D 02>
+1|per prendere l'uovo.<P>
+1|Premete <FE 6D 04> per annullare.<FA>
+
+### 1599
+<F5 01>9Prendi queste 3 chiavi.<FA>
+
+### 1600
+Accidenti…
+2|Si muovono
+3|troppo~!<FA>
+
+### 1601
+<F2>Avete il vero
+2|Uovo d'Aquila!<P>
+3|Scambiamolo con
+1|la palla.<FA>
+
+### 1602
+Polly vi aspetta
+2|al castello.
+3|<P>
+1|Sarà per una specie
+1|di "ricompensa".<FB>
+
+### 1603
+La vostra battaglia
+2|con la "Regina" sarà
+3|raccontata per<P>
+1|generazioni.<FB>
+
+### 1604
+Al castello vi
+2|aspettano tutti.
+3|Andate a trovarli.<FB>
+
+### 1605
+Purtroppo, alcuni non
+2|sono ancora tornati
+3|dal nido delle<P>
+1|"Cose Blu".
+1|Non si potevano
+1|salvare?<FB>
+
+### 1606
+Almeno ora le "Cose
+2|Blu" smetteranno di
+3|attaccare questo<P>
+1|paese. Se solo i
+1|mostri della foresta
+1|si rimpicciolissero<P>
+1|un po'…<FB>
+
+### 1607
+Ma non possiamo
+2|abbassare la guardia.
+3|Ci sono ancora<P>
+1|mostri giganti.
+1|State all'erta.<FB>
+
+### 1608
+La "Regina" delle Cose
+2|Blu è stata sconfitta.<P>
+3|Ma nella foresta ci
+1|sono ancora mostri
+1|giganti.<P>
+1|Dobbiamo stare attenti.<FB>
+
+### 1609
+Magari ci ricavate
+2|una bella paga.
+3|<FB>
+
+### 1610
+Avrei dovuto passare
+2|più tempo ad
+3|allenarmi in battaglia.<P>
+1|Anche se ormai è
+1|troppo tardi.<FB>
+
+### 1611
+L'ho appena saputo
+2|da Lady Polly…<P>
+3|Non è un brutto
+1|nome, direi.<FB>
+
+### 1612
+Grazie di aver salvato
+2|tutti i soldati.<P>
+3|Vi sono tutti molto
+1|grati.<FB>
+
+### 1613
+Beh, non tutti i
+2|soldati sono tornati.<P>
+3|Ma in quella situazione,
+1|salvarsi era
+1|impossibile…<P>
+1|Pregate per loro.<FB>
+
+### 1614
+Il re vi aspetta.
+2|
+3|Andate da lui.<FB>
+
+### 1615
+Chiamerò il mio
+2|esercito "Esercito <FE 6D 1A>".<P>
+3|…Sì, suona
+1|bene.<FB>
+
+### 1616
+Rabbrividisco a
+2|ricordare quando
+3|pensavo di morire…<P>
+1|…Che posto buio
+1|e terribile.<FB>
+
+### 1617
+Hassan mi ha chiesto
+2|di farvi tutti i
+3|regali che volete.<FB>
+
+### 1618
+Scommetto che ora Polly
+2|ha un'opinione migliore
+3|di voi.<P>
+1|Perché non andate
+1|a trovarla?<FB>
+
+### 1619
+Anche il re è molto
+2|contento.
+3|Andate da lui.<FB>
+
+### 1620
+Venite con me, il re
+2|vi aspetta dietro
+3|il castello.<FA>
+
+### 1621
+Per ringraziarvi di aver
+2|salvato Polly, potete
+3|entrare nel mio giardino.<P>
+1|Che ve ne pare?<P>
+1|Ho provato a unire
+1|Oriente e Occidente
+1|in questo giardino.<FB>
+
+### 1622
+…Mmm?…
+2|…Questo giardino?…<P>
+3|Anche per me è la
+1|prima volta che lo vedo…<P>
+1|…Quella palla in mezzo
+1|non vi fa venire
+1|i brividi?<FB>
+
+### 1623
+Caesar ha detto che
+2|avete fatto bene…<P>
+3|E di non scordare
+1|come si dipinge.<FB>
+
+### 1624
+Possibile…
+2|Sarà mai vero!?<P>
+3|Dobbiamo parlare con
+1|Hassan.<FB>
+
+### 1625
+Volete consultarmi?
+2|
+3|Allora avvicinatevi.<FB>
+
+### 1626
+…Sì…
+2|E' possibile<P>.
+3|Sì, questo spiega
+1|tutto.<P>
+1|…Capisco, è lei che ci
+1|rende minuscoli!?<P>
+1|E…
+1|La causa di tutto
+1|è quella palla!?<P>
+1|Aspettate un momento.<FA>
+
+### 1627
+…A dire il vero…
+2|Come posso dirlo…<P>
+3|Il re ha stabilito
+1|che potete prendere la
+1|palla come premio.<P>
+1|Può sembrare che lo
+1|facciamo per comodo…<P>
+1|Ma vi prego, aiutateci
+1|a liberarcene.<FA>
+
+### 1628
+La palla fu trovata
+2|nella foresta prima
+3|che il regno si rimpicciolisse.<P>
+1|…Ora che ci
+1|penso…<P>
+1|All'inizio non era
+1|poi così grande!<FB>
+
+### 1629
+Potremmo farla volare
+2|in cielo e lasciarla
+3|al vento!<P>
+1| ….Scherzo! Non è
+1|ovvio?<P>
+1|Una cosa così pesante
+1|non vola.<FB>
+
+### 1630
+Mmm…
+2|Chissà come è
+3|successo…<FB>
+
+### 1631
+E se la sollevaste
+2|lavorando insieme?<P>
+3|Però la nave è
+1|parecchio lontana,
+1|vero…<FB>
+
+### 1632
+Dobbiamo fare
+2|qualcosa subito!<FB>
+
+### 1633
+…Ma certo!!<P>
+2|L'aquila gigante che
+3|ci ha attaccato
+1|cercava un uovo!<P>
+1|Se dipingessimo questa
+1|palla con lo stesso
+1|motivo di un uovo…<P>
+1|Forse l'aquila ce la
+1|porterebbe via!<P>
+1|Volete provarci?
+1|    Sì, proviamo.
+1|    Non ricordo…<FE 68><FA>
+
+### 1634
+Andate al nido
+2|dell'aquila a guardare
+3|le uova! Presto!<FA>
+
+### 1635
+Ora torniamo alla
+2|palla e dipingiamola
+3|come le uova!<FB>
+
+### 1636
+Avviciniamoci e
+2|proviamo.<FB>
+
+### 1637
+…Chissà se
+2|funzionerà…
+3|Provare non costa niente.<FB>
+
+### 1638
+Siete pronti?<P>
+2|Non sono sicuro che
+3|funzioni, ma è la
+1|nostra unica speranza.<P>
+1|Che fate?<FE 6A>
+1|    Proviamo.
+1|    Non ricordo…<FE 68><FA>
+
+### 1639
+<F5 00>{D3}Cominciamo.
+2|Ricordate i libri di
+3|Caesar.<P>
+1|Quale colore prima?<FE 6A><P>
+1|
+1|    Deon - Rosso
+1|    Jack - Blu
+1|    Max  - Verde<FE 6E><FA>
+
+### 1640
+Chi tocca adesso?
+2|    Deon - Rosso
+3|    Jack - Blu<FE 68><FA>
+
+### 1641
+Chi tocca adesso?
+2|    Deon - Rosso
+3|    Max  - Verde<FE 68><FA>
+
+### 1642
+Chi tocca adesso?
+2|    Jack - Blu
+3|    Max  - Verde<FE 68><FA>
+
+### 1643
+…Sembra che l'aquila
+2|non venga.<P>
+3|Forse il motivo è
+1|sbagliato?<P>
+1|Perché non tornate a
+1|guardare le uova?<FA>
+
+### 1644
+Forse potreste leggere
+2|il libro di Caesar
+3|"Come Dipingere".<P>
+1|Lo trovate
+1|nell'archivio del castello.<FB>
+
+### 1645
+<F5 03>ZChe succede?
+2|Calmatevi, concentratevi
+3|e guardate l'uovo.<P>
+1|Ok?<FA>
+
+### 1646
+<F5 01>ZCraa! Craaaa! Cra!<P>
+2|TR<FC 1A> L'ho trovato!!!
+3|Il mio uovo!!<FA>
+
+### 1647
+<F5 01>ZCra! Cra. Cra.<P>
+2|TR<FC 1A> Povero il mio
+3|uovo!
+1|Torniamo a casa~.<FA>
+
+### 1648
+Evviva! L'aquila ha
+2|portato via la palla!<P>
+3|Presto, andate al nido
+1|a riprenderla!<FA>
+
+### 1649
+…Ah, giusto.<P>
+2|Nessuno può più usare
+3|l'interruttore
+1|elettrico.<P>
+1|Sembra rotto.<FB>
+
+### 1650
+Ehi, questo gioco è
+2|solo per chi sa
+3|calciare.<FB>
+
+### 1651
+…Eh?… Non hai più
+2|Pietre Fortuna,
+3|pivello. … Va bene,<P>
+1|avrò pietà e ti darò
+1|<FE 6D 20> Pietra
+1|Fortuna. Smetti<P>
+1|finché puoi.<FA>
+
+### 1652
+Jam ti ha dato <FE 6D 20>
+2|Pietra Fortuna.<P>
+3|…Forse Jam è più
+1|gentile di Jim!<FA>
+
+### 1653
+Ok, stavolta hai
+2|avuto fortuna.
+3|Riprovi?<P>
+1|Non scappare,
+1|adesso.<FA>
+
+### 1654
+<FE 6A>Ricevute <FE 6B> Pietre Fortuna.<FA>
+
+### 1655
+Ascoltate Winky.<P>
+2|Di solito non è
+3|molto utile…<P>
+1|Ma stavolta il suo
+1|istinto sembra
+1|azzeccato.<FB>
+
+### 1656
+Uuu uuu!<P>
+2|TR<FC 1A> Rendete felici
+3|Indio e la figlia.<P>
+1|Attenti! Ciao ciao.<FB>
+
+### 1657
+Uuu uuu kii!<P>
+2|TR<FC 1A> Trovate capo
+3|dell'isola.<P>
+1|Lui in posto stretto.<P>
+1|Poveretto.<FB>
+
+### 1658
+Uuu uuu aah!<P>
+2|TR<FC 1A> Piccolo re in
+3|difficoltà.<P>
+1|Ditegli perché piccolo.<FB>
+
+### 1659
+Uuu uuu!
+2|TR<FC 1A><FB>

@@ -1,0 +1,578 @@
+### 0670
+Forza, secchioni!
+2|<P>
+3|Dovete concentrarvi
+1|se volete battere la
+1|mia difesa di ferro!<FB>
+
+### 0671
+Non ditelo in giro,
+2|ma Jim è proprio
+3|impulsivo,<P>
+1|quindi basta una finta.
+1|Per ingannarlo,
+1|cambiate capo.<FB>
+
+### 0672
+Usa <FE 6D 0A> per cambiare
+2|capo e ingannare
+3|Jim con una finta.<P>
+1|E' il modo più facile
+1|per batterlo!<FB>
+
+### 0673
+…Non può essere----<FA>
+
+### 0674
+Muovi. Me. Per. Trovare.
+2|Pa-vi-men-to. In-vi-si-bi-le.<FB>
+
+### 0675
+<FE 79>Tu sei Sousa, amico.
+2|        <FE 6D 42><FE>{7E}<FA>
+
+### 0676
+  I… Il pavim----<FA>
+
+### 0677
+Tu. Stu-pi-do.
+2|Fai. Più. At-ten-zio-ne.<FA>
+
+### 0678
+Presto, prendilo.<FB>
+
+### 0679
+<F2>Jim vi ha ridato
+2|l'amo da pesca!<P>
+3|Ha una piuma come
+1|esca.<P>
+1|…Ma un amo da solo
+1|non serve a niente.<FA>
+
+### 0680
+Aha, che spasso.
+2|Tornate a giocare.
+3|Vi tratterò bene.<P>
+1|Ehi, voi, entrate
+1|nella tenda!<FA>
+
+### 0681
+Fin qui è sicuro.
+2|Andiamo avanti.<FA>
+
+### 0682
+Com-pi-to. Fi-ni-to.
+2|Ad-di-o.<FA>
+
+### 0683
+Ho provato a farmi
+2|ridare l'amo da Jim,<P>
+3|ma mi ha sfidato
+1|ai rigori.<P>
+1|Quando ho perso, mi
+1|ha tirato le scarpe
+1|nel lago!<FB>
+
+### 0684
+La maestra Gina ci ha
+2|detto di prendere dei
+3|pesci dal lago…<P>
+1|…
+1|Capo!
+1|Che facciamo!?<FB>
+
+### 0685
+Noi dovevamo occuparci
+2|della pesca,<P>
+3|ma il portiere Jim ci
+1|ha preso l'amo e non
+1|ce lo vuole ridare!<P>
+1|E dovrebbe pure
+1|aiutarci!<P>
+1|Accidenti, se non
+1|portiamo pesci, Dorothy
+1|ci odierà…<P>
+1|Sono un po' debole con
+1|le donne decise…
+1|Ehm, cosa dicevo?<P>
+1|…sigh
+1|
+1|<FB>
+
+### 0686
+Bene, se lo uniamo
+2|a questa canna…<P>
+3|Ecco!
+1|Una Canna da Pesca.
+1|E' vostra.<FA>
+
+### 0687
+<F2>L'amo è diventato
+2|una canna da pesca.<P>
+3|Equipaggiala e premi <FE 6D 04>
+1|per usarla. <P>
+1|Ehi, non toccava a
+1|voi la pesca? <P>
+1|Eheh.. a dire il vero,
+1|non ho mai pescato
+1|in vita mia.<P>
+1|Scusate, potete
+1|prendere voi i pesci?<P>
+1|Premi START, equipaggia
+1|la canna, poi premi
+1|<FE 6D 04> per usarla.<P>
+1|Capito?<FA>
+
+### 0688
+Per tirare su un pesce,
+2|non basta tenere
+3|premuto il tasto.<P>
+1|Devi usare <FE 6D 08>
+1|con delicatezza, ok?<FB>
+
+### 0689
+Quando lanci la canna,
+2|devi tenere <FE 6D 04> o
+3|la lenza non resta giù.<P>
+1|Attento!<FB>
+
+### 0690
+Sbrigatevi coi
+2|pesci!<P>
+3|A dire il vero, questo
+1|masso dove siamo
+1|seduti puzza di pesce…<P>
+1|Ba-dum-tss<FB>
+
+### 0691
+Uuu! Ki-! Ki-ki! Uuu!<P>
+2|TR<FC 1A> Salvateli!
+3|Uomini cattivi li hanno
+1|chiusi dentro!<P>
+1|Dovete spostarlo
+1|lavorando tutti e tre
+1|insieme! Vi prego!<FB>
+
+### 0692
+Se lavoriamo insieme,
+2|forse riusciamo a
+3|spostarlo.<FB>
+
+### 0693
+Ecco! Se scambiamo le
+2|tessere qui, possiamo
+3|completare l'immagine.<FB>
+
+### 0694
+Sembra la stessa
+2|immagine, solo
+3|rovesciata.<FB>
+
+### 0695
+…Cosa?
+2|C'è qualcosa sotto
+3|la tavola?<FA>
+
+### 0696
+2| Bum!<FA>
+
+### 0697
+Uuu Uuu! Uuu-ki-ki-ki!<P>
+2|TR<FC 1A> Nascondetevi!
+3|All'ombra dell'albero!
+1|Arrivano!<P>
+1|Arrivano gli uomini
+1|cattivi!<FB>
+
+### 0698
+Uuu!<P>
+2|TR<FC 1A> Seguitemi!<FA>
+
+### 0699
+<FE 6A>Stiamo alla larga da
+2|questo strambo!<FB>
+
+### 0700
+Presto, ditemi in quale
+2|vaso è caduto.<FA>
+
+### 0701
+Uuu, uuu!<P>
+2|TR<FC 1A> Usate le chiavi
+3|di <FE 6D 4A> sui forzieri
+1|uguali della nave.<P>
+1|Ciao ciao!<FA>
+
+### 0702
+Non funziona. La chiave
+2|non entra.<FB>
+
+### 0703
+Qui c'è una
+2|serratura.<FB>
+
+### 0704
+Qui sono comparsi
+2|dei numeri…
+3|<P>
+1|Nero 2, Bianco 3, e
+1|un altro Nero 1…
+1|Cosa vorrà dire?<FA>
+
+### 0705
+  Fai un giro?
+2|    Ok.
+3|    No.<FE 68><FA>
+
+### 0706
+2| Cos'è?<FB>
+
+### 0707
+2| Che strano.<FB>
+
+### 0708
+Whoa!
+2|Si è aperta una grotta!<FA>
+
+### 0709
+<FE 6A>Non si muove…
+2|E' morto?!<FA>
+
+### 0710
+<FE 6A>
+2| Ehi, un momento!!<FA>
+
+### 0711
+Riprenditi, amico!
+2|Se beve questo,
+3|starà bene.<P>
+1|Questa medicina va
+1|bene solo per i
+1|soldati, ma li rianima,<P>
+1|anche se sono feriti
+1|gravemente.<P>
+1|Bevi questo "Blu
+1|Soldato"!<FA>
+
+### 0712
+Oh! Sono vivo! Mi
+2|spiace dirlo, ma Polly
+3|è in mano nemica.<P>
+1|Presto, tornate al
+1|castello a preparare
+1|il prossimo attacco.<FA>
+
+### 0713
+Grazie. Mi hanno preso
+2|di sorpresa. Ora devo
+3|tornare.<FA>
+
+### 0714
+Più avanti ci sono
+2|altri soldati
+3|feriti!<P>
+1|Andiamo avanti.<FA>
+
+### 0715
+Prendi QUESTO!-- E QUESTO!
+2|Con questo tipo me la
+3|cavo da solo…<FA>
+
+### 0716
+<FE 6A>
+2| Ugh!<FA>
+
+### 0717
+<FE 6A>La medicina è
+2|caduta nel buco.<P>
+3|Non c'è nessun altro
+1|che possa aiutare i
+1|soldati feriti.<P>
+1|Siete la loro unica
+1|speranza.
+1|<P>
+1|Io al castello ci
+1|torno da solo,<P>
+1|ma vi prego, aiutate
+1|gli altri…<FB>
+
+### 0718
+2|…Che faccio!?<FB>
+
+### 0719
+Vi sono debitore.
+2|Cosa? La principessa
+3|Polly è…?!<P>
+1|Lascio fare a voi,
+1|ragazzi.
+1|<FA>
+
+### 0720
+Qui la terra sembra
+2|più morbida…
+3|Mmm…<P>
+1|Forse possiamo scavare
+1|una buca con "quello"?<FB>
+
+### 0721
+…Qui è troppo duro
+2|per scavare.<FA>
+
+### 0722
+2| Mh? Uaaaaah!<FA>
+
+### 0723
+Eh? Qui non c'è
+2|scritto niente.<FB>
+
+### 0724
+Non trovo neanche la
+2|serratura…<P>
+3|Come dovremmo
+1|aprirlo?<FB>
+
+### 0725
+Sembra un po' un pesce
+2|e un po' una
+3|leva.<P>
+1|Chissà se possiamo
+1|tirarlo con
+1|qualcosa…?<FB>
+
+### 0726
+Chissà se si
+2|muove.<FB>
+
+### 0727
+Nero 2, bianco 3, e
+2|poi nero 1.
+3|Cosa vorrà dire?<FB>
+
+### 0728
+<FE 79>Scegli direzione e <FE 6D 02>.
+2|               <FE 7B><FB>
+
+### 0729
+Ub-bi-di-rò. Fin-ché.
+2|I. Miei. Cir-cui-ti.
+3|A-vran-no. Cor-ren-te.<FB>
+
+### 0730
+…Allora fuori.<FB>
+
+### 0731
+Inizia con <FE 6D 02>.
+2|Schiva con <FE 6D 08>.
+3|…Forte.<FA>
+
+### 0732
+<F5 03>xGah! Come avete fatto
+2|a capirlo! Va bene,
+3|una promessa è una pro…<P>
+1|Ma siamo pirati!
+1|Non vi facciamo
+1|uscire! A meno che…<P>
+1|  Dateci la roba!<FE 6A>
+1|    Ok, eccola.
+1|    Neanche per sogno!<FE 68><FA>
+
+### 0733
+Allora marcite lì
+2|dentro!<FA>
+
+### 0734
+M…maledizione!
+2|Me la pagherete!<FA>
+
+### 0735
+<F5 02>{1A}Uuu! Uuu! Ahh! Ahh!
+2|Uuu uuh aah! Uuu uuh!
+3|Uuu! Kriii! Uuu! Uuu!<FA>
+
+### 0736
+2|…Corri… Corri… Corri.<FB>
+
+### 0737
+Uuu, uuu, aah!<P>
+2|TR<FC 1A> Non credete alle
+3|loro bugie. State
+1|vicini agli amici!<P>
+1|
+1| Ciao ciao!
+1|<FA>
+
+### 0738
+Avete un'altra
+2|possibilità. Usatela bene.<P>
+3|Scegliete <FE 6D 46> dal
+1|menu laterale.<FB>
+
+### 0739
+Se vi do tutto il mio
+2|miele, resto senza
+3|lavoro!<P>
+1|Da me non avrete
+1|altro…
+1|Zero! Niente! Nada!<FB>
+
+### 0740
+Principessa,
+2|l'Antiformiche serve
+3|a scacciare le Cose Blu.<P>
+1|Non ho mai provato
+1|se riesce a
+1|ucciderle.<FA>
+
+### 0741
+Hassan, cosa dici?!
+2|
+3|<P>
+1|Non voglio restare
+1|qui ad aspettare di
+1|morire!<P>
+1|Se aspettiamo,
+1|stanotte tornano e
+1|distruggono il regno!<P>
+1|Presto, dammi quel
+1|Cannone Antiformiche!
+1|<FA>
+
+### 0742
+Capisco.<P>
+2|Se hai deciso,
+3|non proverò a
+1|fermarti.<P>
+1|Io sorveglierò il
+1|castello e ti affido
+1|alle cure di Hassan.<FA>
+
+### 0743
+Bella risposta!<P>
+2|Bene, tutti e <FE 6D 24> dovete
+3|radunarvi e
+1|prendere posto.<P>
+1|Quando siete in
+1|posizione, premete <FE 6D 02> su
+1|<FE 6D 48> nel menu laterale.<P>
+1|Bene, tutti
+1|indietro.<P>
+1|Vediamo il <FE 6D 48> della
+1|squadra <FE 6D 1A>!<FA>
+
+### 0744
+…Cosa stai
+2|dicendo?…
+3|Tu vieni con me!<FA>
+
+### 0745
+Non riusciamo a
+2|sollevare questo vaso.<FB>
+
+### 0746
+E se ognuno di voi
+2|si mettesse su un
+3|lato diverso?<P>
+1|Se lavorate in <FE 6D 24>
+1|insieme, dovreste
+1|riuscire a sollevarlo~.<FB>
+
+### 0747
+Quando un lavoro è
+2|troppo per uno solo,<P>
+3|radunate la squadra
+1|e usate <FE 6D 48>!<FB>
+
+### 0748
+Alcuni oggetti si
+2|usano dal menu <FE 6D 4A>.<P>
+3|Altri si equipaggiano
+1|dal menu e si usano
+1|con <FE 6D 04>…<P>
+1|Lo sapevate?<FB>
+
+### 0749
+Con <FE 6D 46> potete
+2|scoprire tante cose!<FB>
+
+### 0750
+Non puoi strattonare
+2|così, ragazzo!<P>
+3|Premi <FE 6D 08> piano dopo
+1|che il pesce abbocca.
+1|Con calma…!<FB>
+
+### 0751
+Guarda quel secchione
+2|laggiù, che prova a
+3|darmi ordini!<P>
+1|Dice che è perché la
+1|maestra Gina l'ha
+1|fatto capo…<P>
+1|Ma sinceramente, come
+1|faccio a prendere
+1|ordini da lui?<P>
+1|Ha la faccia minuscola
+1|e la testa enorme!
+1|<FB>
+
+### 0752
+Quel testone dice
+2|che comanda lui
+3|finché manca la maestra.<P>
+1|Che piccolo verme.<FB>
+
+### 0753
+…Come si muoveva?
+2|<FB>
+
+### 0754
+Jim è ancora sparito…
+2|Spero che la maestra
+3|torni presto.<P>
+1|A chi importa di
+1|Jim?! …
+1|<FA>
+
+### 0755
+Mocciosi puzzolenti,
+2|fate schifo.<P>
+3|Non crediate di
+1|cavarvela dopo aver
+1|toccato il mio tesoro.<P>
+1|Quindi tengo d'occhio
+1|la vostra bellissima
+1|maestra.<P>
+1|Se volete
+1|rivederla,<P>
+1|venite nella valle
+1|oltre il lago.<P>
+1|Non scordate la mia
+1|Sfera di Cristallo!<P>
+1| -Il Pirata più Grande
+1|  sotto il Cielo,
+1|  Re Blue<FB>
+
+### 0756
+M…Ma… Oh,
+2|Principessa! Aspetta!<P>
+3|Non scordare questo
+1|Super "Cannone"!<FA>
+
+### 0757
+Sembra che laggiù
+2|stesse succedendo
+3|qualcosa di grosso.<P>
+1|Cosa sarà
+1|stato?<FB>
+
+### 0758
+Sarà un montacarichi
+2|che porta dall'altra
+3|parte.<FB>
+
+### 0759
+Q… Qualcuno!
+2|La maestra Gina è stata…
+3|Rapita dai pirati!!<P>
+1|Che facciamo,
+1|squadra <FE 6D 1A>?!<FA>

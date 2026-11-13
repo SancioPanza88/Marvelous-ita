@@ -1,0 +1,697 @@
+### 1750
+…Ehi… La nostra
+2|maestra non era con voi?<P>
+3|…Chi?…
+1|La maestra Gina, no!!<P>
+1|Non fatemi dire
+1|cose così sceme!<FB>
+
+### 1751
+A proposito…
+2|Cosa è successo alla
+3|maestra Gina?<P>
+1|Non era con voi?<P>
+1|…E' davvero
+1|dispersa?!<FB>
+
+### 1752
+Oh, state bene.
+2|Ma…
+3|E la maestra Gina?<P>
+1|Non era con voi?<P>
+1|Cosa?
+1|Volete entrare nella
+1|grotta più avanti?<P>
+1|…No, là dentro è
+1|pericoloso.<P>
+1|Non posso lasciarvi
+1|andare da soli.<FB>
+
+### 1753
+A proposito…
+2|Cosa è successo alla
+3|maestra Gina?<P>
+1|Non era con voi?<P>
+1|…E' proprio
+1|dispersa?<P>
+1|Cosa?<P>
+1|Volete il permesso del
+1|Colonnello per
+1|entrare nella grotta?<P>
+1|…Ma che diamine?<P>
+1|…Cosa c'è nella grotta?<P>
+1|Non potete dirmelo?
+1|…Va bene, datemi
+1|un minuto.<FA>
+
+### 1754
+Avvicinatevi e date
+2|una bella occhiata.<FB>
+
+### 1755
+Ah, ecco il permesso
+2|del Colonnello.<P>
+3|Mmm… Sig. Arnold,
+1|Ingresso Consentito.<P>
+1|Interessante… Pare
+1|che il foglio dica
+1|che a me non è permesso?…<P>
+1|Siete sicuri di
+1|cavarvela da
+1|soli?<P>
+1|…Capisco.
+1|Beh, allora così.<FA>
+
+### 1756
+Che ne dite?<P>
+2|…Se vi beccano,
+3|filatevela in fretta.<P>
+1|Mi raccomando.<FA>
+
+### 1757
+<F2>Avete il Permesso
+2|del Colonnello!<P>
+3|Questo prof è…
+1|Proprio un bel
+1|birbante, eh??<FA>
+
+### 1758
+Non sapete niente di
+2|dove sia la vostra
+3|maestra?<P>
+1|…Proprio niente?<P>
+1|Ditemi tutto quello
+1|che sapete!<FB>
+
+### 1759
+Ho la sensazione che
+2|voi ragazzi abbiate
+3|un compito importante…<P>
+1|Non so cosa
+1|sia…
+1|Ma mettetecela tutta!<FB>
+
+### 1760
+Mino! Minoo!<P>
+2|TR<FC 1A> Vi… ODIO!
+3|La darei a chiunque
+1|altro, la pelliccia!!<FB>
+
+### 1761
+…Ehm…
+2|Sarà rotto?<FB>
+
+### 1762
+Guardate la porta
+2|dietro di voi.<P>
+3|E' l'unica via
+1|d'uscita.<P>
+1|Ora non si torna indietro.
+1|Cosa farete?<P>
+1|     -Capitano Maverick<FA>
+
+### 1763
+<FE 6A>Buona fortuna, ragazzi!
+2|La maestra Gina ora è
+3|nelle vostre mani!!<FA>
+
+### 1764
+…Quest'uscita resterà
+2|chiusa per tutta
+3|l'eternità.<P>
+1|…Per voi non ci sarà
+1|scampo.<FB>
+
+### 1765
+Date un'occhiata al
+2|villaggio.<P>
+3|Ci sarà un indizio
+1|che porta alla Sfera
+1|di Cristallo!<FA>
+
+### 1766
+Dovreste mostrare quei
+2|documenti a un esperto
+3|di piante.<P>
+1|Eh, io?
+1|Non sono proprio un
+1|esperto, sapete…<P>
+1|Però…
+1|…Non sono un bravo tipo?<FA>
+
+### 1767
+Sapete, nascondere
+2|documenti è molto
+3|sospetto!<FA>
+
+### 1768
+Per vedere il capo del
+2|villaggio, dovete
+3|chiedere un incontro.<P>
+1|Se rimettete quella
+1|scheggia di legno
+1|nel cartello,<P>
+1|dovreste capire il
+1|numero di
+1|telefono.<FA>
+
+### 1769
+Presto, tornate alla
+2|nave!<P>
+3|Se volete altre Pietre
+1|Fortuna, cercate le
+1|scimmie sull'isola.
+1|Buona fortuna~!<FA>
+
+### 1770
+Se l'erba vi blocca
+2|la strada, toglietela
+3|a calci!<FA>
+
+### 1771
+Vi svelo un
+2|segreto!<P>
+3|Tutto ha un punto
+1|debole.<P>
+1|Basta guardare bene
+1|come si muovono
+1|le cose.<P>
+1|Credo che capirete
+1|cosa intendo!<FA>
+
+### 1772
+Presto, tornate al
+2|villaggio!<P>
+3|Il professor Marlowe
+1|ha fatto una
+1|scoperta!<FA>
+
+### 1773
+Perché non provate a
+2|spruzzare un po'
+3|di cose?<FA>
+
+### 1774
+Che succede?<P>
+2|Proviamo a chiedere
+3|al signor Smith!<FA>
+
+### 1775
+Avete provato a
+2|registrare un topo?<P>
+3|Se lo fate sentire a
+1|uno degli abitanti…<P>
+1|Magari scoprite chi
+1|è Mike!<FA>
+
+### 1776
+Il tipo che avete
+2|incontrato fuori dalla
+3|grotta vi cercava!<FA>
+
+### 1777
+Avete parlato con
+2|tutti gli abitanti?<P>
+3|Non scordate di
+1|esaminare tante cose
+1|col tasto <FE 6D 02>~!<FA>
+
+### 1778
+Invece di mangiare
+2|voi il pranzo…<P>
+3|E se provaste a
+1|darlo a qualcun
+1|altro?<P>
+1|Sembra piccante,
+1|quindi dopo gli
+1|servirà dell'acqua.<P>
+1|Non c'era dell'acqua
+1|sottoterra vicino ai
+1|cactus?<P>
+1|Anche se sembrava
+1|parecchio salata!<FA>
+
+### 1779
+Wow, la situazione
+2|sfugge di mano!<P>
+3|Dopo aver spruzzato
+1|il parassita con
+1|l'acqua salata,<P>
+1|provate a prenderlo
+1|a pugni con Max.<P>
+1|Se Max non ha i
+1|Guantoni da Boxe,
+1|dovrete trovarli!<FA>
+
+### 1780
+Oddio, avete guardato
+2|i raggi X?
+3|Jack, fai qualcosa!<FA>
+
+### 1781
+Avete incontrato le
+2|personcine attaccate
+3|da un'aquila?<P>
+1|Sospetto che abbiano
+1|qualcosa a che fare
+1|con Polly!<FA>
+
+### 1782
+…Delle creature giganti
+2|attaccano la gente
+3|di quest'isola.<P>
+1|Come hanno fatto
+1|insetti e animali a
+1|diventare così enormi?<FA>
+
+### 1783
+Che impresa.
+2|Dobbiamo raccogliere 5
+3|oggetti…<P>
+1|Per ora, scegliamo
+1|uno di questi
+1|3 gruppi<FC 1A><P>
+1|    Rana - Conchiglia
+1|    Goccia - Pelliccia
+1|    Filo - Colori<FE 6E><FA>
+
+### 1784
+Le rane da grandi in
+2|realtà non hanno la
+3|coda…<P>
+1|Ma la rana della
+1|foresta tiene alla sua.<P>
+1|Se l'ascoltate e
+1|seguite il cavo fino
+1|al castello,<P>
+1|troverete un modo
+1|per risolvere il
+1|suo problema.<P>
+1|Poi convincetela a
+1|darvi il suo tesoro.<P>
+1|Quanto alla Conchiglia
+1|Silvana, è il guscio
+1|di una lumaca.<P>
+1|In questa stagione
+1|le lumache amano
+1|cambiare casa.<P>
+1|Rispondete bene alle
+1|domande del
+1|porcellino di terra,<P>
+1|e poi trovate una casa
+1|che possa piacere a una
+1|lumaca nel negozio.<FA>
+
+### 1785
+La "Goccia d'Oro"
+2|è il miele.<P>
+3|Nella foresta ci sono
+1|3 api,<P>
+1|e una di loro si
+1|spaventa facilmente.
+1|Spaventatela per avere
+1|una goccia,<P>
+1|ma dovete guardare
+1|dove cade e ricordare
+1|il punto.<P>
+1|La Pelliccia Silvana
+1|è il bozzolo di un bruco.<P>
+1|I bruchi di questa
+1|foresta sono molto
+1|alla moda.
+1|Buttano via<P>
+1|la pelliccia se si
+1|sporca.<P>
+1|Dovreste avere un
+1|oggetto per quello, no?<FA>
+
+### 1786
+Nella foresta ci sono
+2|4 ragni che sono
+3|fratelli.<P>
+1|Il fratello maggiore
+1|sa tessere il Filo
+1|d'Argento.<P>
+1|Però diventa una
+1|furia se toccate
+1|la sua tela,<P>
+1|quindi state attenti
+1|al suo attacco.<P>
+1|Dovete colpirlo per
+1|primi mentre vi
+1|carica.<P>
+1|Dopo averlo stordito
+1|con un oggetto mentre
+1|carica,<P>
+1|potete usare un altro
+1|oggetto per prendergli
+1|il Filo.<P>
+1|Poi potete avere 3
+1|set di colori dagli
+1|altri ragni.<P>
+1|Eh?
+1|A cosa servono i colori?<P>
+1|Voi sfidate i ragni
+1|e prendete i
+1|colori.<P>
+1|Di sicuro vi
+1|serviranno più avanti.<P>
+1|E provate ognuna delle
+1|vostre tecniche
+1|speciali.<FA>
+
+### 1787
+Conoscete l'artista
+2|del paese, Caesar?<P>
+3|Portategli i colori
+1|che avete preso nella
+1|foresta.<P>
+1|Vi ricordate com'era
+1|la veste del re?
+1|<P>
+1|Se non l'avete vista,
+1|dovete andare a
+1|guardarla.<P>
+1|Forse dovrete guardare
+1|da vicino mentre si
+1|fa la doccia.<P>
+1|Quanto a come farlo
+1|andare a fare la
+1|doccia…<P>
+1|Vi ricordate la Rana
+1|della foresta?<P>
+1|Dovete far collaborare
+1|il re nello stesso
+1|modo.<P>
+1|La situazione è un po'
+1|diversa, quindi
+1|regolatevi.<FA>
+
+### 1788
+Avete fatto tanto, ma
+2|della Sfera non c'è
+3|traccia.<P>
+1|Per ora, forse
+1|dovreste andare a
+1|parlare con Solomon?<FA>
+
+### 1789
+Oh no, è terribile.<P>
+2|Polly è prigioniera
+3|nel livello più basso
+1|del formicaio.<P>
+1|Dovrete usare i buchi
+1|nel terreno per
+1|trovare i livelli sotto.<P>
+1|…Attenti alle formiche!<FA>
+
+### 1790
+Avete aiutato i
+2|soldati feriti?<P>
+3|Cercate nella zona
+1|vicino ai soldati.<P>
+1|Non avete un attrezzo
+1|per scavare buche?<FA>
+
+### 1791
+Il bambino del paese
+2|sa come battere un
+3|robot giocattolo gigante.<P>
+1|Il momento giusto è
+1|quando si gira di lato.<FA>
+
+### 1792
+Dovete trovare i buchi
+2|verso il basso che le
+3|formiche hanno coperto.<P>
+1|Ripensate a prima
+1|nel vostro viaggio.<P>
+1|Così capirete come
+1|trovare i
+1|buchi.<FA>
+
+### 1793
+Non potete battere la
+2|regina senza un'arma
+3|potente di Hassan.<P>
+1|L'avete già
+1|ricevuta?<FA>
+
+### 1794
+E' ora di chiudere
+2|la faccenda.<P>
+3|L'Aquila può portare
+3|il tesoro via dal
+1|giardino del castello.<P>
+1|Vi ricordate com'è
+1|fatto l'Uovo
+1|d'Aquila?<P>
+1|Ripensate a quello che
+1|avete imparato a casa
+1|di Caesar.<P>
+1|Così vi ricorderete
+1|l'ordine dei
+1|colori.<FA>
+
+### 1795
+Cosa fate?<P>
+2|Avete salvato il regno
+3|di Polly, ma non avete
+1|la Sfera di Cristallo.<P>
+1|Trovate il vero Uovo
+1|d'Aquila e portatelo
+1|all'Aquila.<FA>
+
+### 1796
+Presto, portate
+2|l'Uovo all'Aquila.<P>
+3|Se lo fate, di sicuro
+1|vi darà la Sfera
+1|di Cristallo.<FA>
+
+### 1797
+Su quest'isola non
+2|c'è più niente da fare.<P>
+3|Sbrighiamoci ad
+1|andare alla nave.<P>
+1|Dobbiamo continuare
+1|il nostro viaggio!<FA>
+
+### 1798
+…Oh, Pluck!
+2|Che fine ha fatto
+3|Pluck?!<P>
+1|Non c'è mai quando
+1|serve.
+1|Pluck!<FA>
+
+### 1799
+…Pluck.
+2|Tu hai un sacco di
+3|Pietre Fortuna, vero?<FA>
+
+### 1800
+Eh!?
+2|Anziano, come può
+3|anche solo pensare…<P>
+1|Io non so niente
+1|di questa storia!<FA>
+
+### 1801
+Sciocco!!
+2|Credi che io sia
+3|cieco, briccone?!<P>
+1|Anche se le hai, a
+1|te non servono a
+1|niente.<P>
+1|Usale per far tornare
+1|a casa gli umani,
+1|altrimenti!!<FA>
+
+### 1802
+…E va bene!
+2|…Accidenti, all'anziano
+3|non posso mentire.<P>
+1|Ho capito.
+1|Vado subito~.<FA>
+
+### 1803
+Andate ad accendere
+2|il motore?<P>
+3|…Perché non lo
+1|lasciate fare a me?<P>
+1|Vieni con me, Jim!<FA>
+
+### 1804
+…Ci vogliono in 3?<P>
+2|Tranquilli, io sono
+3|forte almeno come due
+1|di voi.<FA>
+
+### 1805
+…M, maestra Gina…
+2|Lasci fare a me!
+3|Jim! Andiamo!<FA>
+
+### 1806
+Arnold dovrebbe
+2|vergognarsi!<P>
+3|…Fare così alla
+1|sua età.<P>
+1|Si… sarà preso una
+1|cotta per la maestra.<FA>
+
+### 1807
+2|Jiiiim! Vieni qui!!!<FA>
+
+### 1808
+Ora dobbiamo
+2|salutarci.<P>
+3|Non è facile…
+1|Ma non c'è scelta.<P>
+1|Winky, scendi dalla
+1|nave!<FA>
+
+### 1809
+Cosa, avete qualcosa
+2|da dire?<P>
+3|D'ora in poi il
+1|protagonista sono io!<P>
+1|Preparatevi alla
+1|storia di Re Blue!<FA>
+
+### 1810
+Ma che diavolo?
+2|Cos'è questo!<P>
+3|Ehi, perché diventa
+1|più piccolo?! Basta!
+1|Non finite così~!!<FA>
+
+### 1811
+…Accidenti!
+2|Non lo dimenticherò!<FA>
+
+### 1812
+2|…C'è qualcosa di losco.<FB>
+
+### 1813
+Whoa!
+2|Ma guarda un po'
+3|qua!<P>
+1|Sta bene?
+1|    Sì.
+1|    Che orrore.<FE 68><FA>
+
+### 1814
+Cosa?
+2|Allora mostrami
+3|qualcos'altro.<FB>
+
+### 1815
+Bene!
+2|Un'altra trattativa
+3|riuscita…<FA>
+
+### 1816
+E' più strano della
+2|pettinatura di mia mamma~!<FB>
+
+### 1817
+Quella persona
+2|sarebbe…?<P>
+3|No, non può essere.
+1|Scusate, fate finta
+1|che non abbia detto niente.<FB>
+
+### 1818
+Il nostro papà è
+2|forte, vero?<FB>
+
+### 1819
+Capitano, perdonami!<FB>
+
+### 1820
+Benson, abbi cura di
+2|questi ragazzi,
+3|ti prego!!<FB>
+
+### 1821
+Ah? Ehi fratello!
+2|Guarda il mio bambino!<FA>
+
+### 1822
+Non dimenticate che la
+2|maestra ha detto di
+3|restare tutti e 3 uniti!<FB>
+
+### 1823
+Avvicinati e
+2|fammelo vedere!<FB>
+
+### 1824
+…Comunque, avete
+2|disonorato la famiglia
+3|reale!<P>
+1|Dovete scontare la
+1|vostra punizione.<FB>
+
+### 1825
+E' un ritratto del
+2|papà di Polly, il re.<FB>
+
+### 1826
+Avviciniamoci a
+2|dare un'occhiata.<FB>
+
+### 1827
+Questo robot
+2|giocattolo è enorme…<FB>
+
+### 1828
+…Ops!
+2|Per fare squadra
+3|servono tutti e 3!<FB>
+
+### 1829
+Sembra impossibile
+2|spostarli…<FB>
+
+### 1830
+Se il mio cane mangia
+2|qualcosa, si addormenta
+3|all'istante!<FA>
+
+### 1831
+2|         Come no!<FB>
+
+### 1832
+…E' vivo?
+2|Avviciniamoci a
+3|controllare.<FB>
+
+### 1833
+…E' un pomodoro.
+2|…Che sollievo.<FB>
+
+### 1834
+Avviciniamoci a
+2|leggerlo.<FB>
+
+### 1835
+Guardiamolo più
+2|da vicino.<FB>
+
+### 1836
+E' un uovo stranamente
+2|rotondo.<FB>
+
+### 1837
+A proposito…
+2|Ti ricordi di me?<FB>
+
+### 1838
+Ehi, fratello!<FB>
+
+### 1839
+<FE 6A><F5 02>N
+2| Non avete oggetti!<FB>

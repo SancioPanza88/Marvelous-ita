@@ -1,0 +1,80 @@
+### 0263
+…Mmm? Volete sapere
+2|il mio numero?<P>
+3|E' il numero dei
+1|mesi che ci sono
+1|in un anno…<P>
+1|Facile, no?<FB>
+
+### 0264
+Mm? Volete sapere il
+2|mio numero?<P>
+3|Se capita di venerdì,
+1|negli USA è sfortuna!<FB>
+
+### 0281
+<F2>Avete ricevuto un
+2|Registratore!<P>
+3|E' un apparecchio
+1|incredibile, registra
+1|e riproduce i suoni!<P>
+1|Prendiamolo in
+1|prestito per un po'.<FA>
+
+### 0304
+Dall'aspetto, questa
+2|nave sembra proprio
+3|vecchia.<P>
+1|Come una nave pirata
+1|delle vecchie storie.
+1|Che forte!<FB>
+
+### 0317
+Eh, che fortuna.
+2|Un uomo non si rimangia
+3|la parola.<P>
+1|Ecco i vostri <FE 6B>{EC}{ED}.
+1|Ma non filatevela
+1|dopo aver vinto,<P>
+1|datemi la possibilità
+1|di rifarmi.<FA>
+
+### 0320
+Come osate entrare
+2|così senza un
+3|appuntamento!<P>
+1|Sono molto occupato.
+1|Tornate più tardi…<FB>
+
+### 0321
+Oh, volete addentrarvi
+2|nella
+3|giungla?<P>
+1|Beh, io non mi fido!
+1|Questo paese è pieno
+1|di delinquenti…<P>
+1|Un certo John, un
+1|monello, ha la chiave!<P>
+1|Se ci tenete tanto
+1|ad aprire il cancello,<P>
+1|trovate John e
+1|fatevela ridare.<FB>
+
+### 0323
+Eh?… Cos'è questo?<P>
+2|"VIETATO L'INGRESSO!"
+3|Rivolgersi all'ufficio
+1|di gestione?<P>
+1|Ah, ecco com'è!<FB>
+
+### 0334
+Sembra che qui ci
+2|fosse una buca…<FB>
+
+### 0343
+Scherzavo~!
+2|John sono IO!
+3|Accidenti, beccato.<P>
+1|Va bene, ve la ridò.
+1|Giochiamo ancora
+1|qualche volta!<FA>

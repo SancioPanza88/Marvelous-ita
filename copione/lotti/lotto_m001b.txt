@@ -1,0 +1,125 @@
+### 0004
+…Eh?
+2|Perché sentiamo la
+3|voce della maestra…<P>
+1|Ce ne sono due??
+1|…Ma che diavolo…?<FA>
+
+### 0020
+Come lo spostiamo
+2|in qualche modo…?<FB>
+
+### 0026
+Come solleviamo una
+2|cosa così grossa…?<FB>
+
+### 0029
+<FE 6A>Ai membri della
+2|squadra <FE 6D 1A><FC 1A><P>
+3|La nave è arrivata
+1|dalla città, quindi
+1|partiamo subito.<P>
+1|Vi abbiamo aspettato
+1|due ore, ma non vi
+1|siete fatti vedere.<P>
+1|Abbiamo chiamato la
+1|polizia, lasciate che
+1|cerchi lei la maestra.<P>
+1|Fatevi dare un
+1|passaggio da loro
+1|per tornare in città.<P>
+1|Il campo di quest'anno
+1|ci è proprio sfuggito
+1|di mano,<P>
+1|ma quando tornate in
+1|città, giochiamo di
+1|nuovo a calcio.<P>
+1|
+1|Vedete di tornare,
+1|teppisti!<P>
+1|              -Jim<FB>
+
+### 0042
+Aiutate una scimmia
+2|e picchiate un cane.<P>
+3|Scimmie e cani sono
+1|rivali fin dai tempi
+1|antichi…<P>
+1|Però io sono amico
+1|dei cani, quindi ora
+1|vi combatto!<FB>
+
+### 0055
+Prima non ci avevo
+2|pensato…<P>
+3|Ma forse la maestra
+1|Gina è di qua?…<FB>
+
+### 0061
+Cosa? Lo sceriffo era
+2|un impostore?!<P>
+3|Ma lo sceriffo sono io.<P>
+1|Oh, si è trasformato
+1|negli abitanti e li
+1|ha ATTACCATI!<FB>
+
+### 0064
+Tranquilli, non sono
+2|cambiata per niente.
+3|Visto? Non sono bella?<FB>
+
+### 0070
+Fugo! Fugo, fugogo.<P>
+2|TR<FC 1A> Bene, ascoltate,
+3|le regole sono semplici.<P>
+1|Fate il giro della
+1|pista <FE 6D 22> volte.<P>
+1|Chi arriva primo
+1|vince.<P>
+1|Visto che sono tanto
+1|buono, vi do un po'
+1|di vantaggio.<P>
+1|Partite quando siete
+1|pronti.<FA>
+
+### 0075
+<F2>Polly, la ragazzina,
+2|è vostra amica?!<P>
+3|Può aiutarci nei
+1|posti troppo piccoli
+1|per noi.<P>
+1|Sembra un po'
+1|prepotente…<FA>
+
+### 0076
+Cara squadra <FE 6D 1A>,
+2|come vanno gli studi?<P>
+3|Pare che Jim vi abbia
+1|giudicati male.<P>
+1|Il suo comportamento
+1|dopo il rapimento di
+1|Gina è stato arrogante.<P>
+1|Detto questo, sarebbe
+1|comunque meglio
+1|che tornaste.<P>
+1|Aspettate la polizia
+1|qui sull'isola,<P>
+1|oppure trovate una
+1|nave e andatevene.<P>
+1|Buona fortuna.
+1|    ~Studiate sempre.<FB>
+
+### 0080
+Cip? Cip.<P>
+2|TR<FC 1A> Che succede?
+3|Così non funzionerà.<P>
+1|Dovete mettervi
+1|tutti e tre più
+1|vicini.<FB>
+
+### 0082
+Che intenzioni avete
+2|con una signora!?<P>
+3|Se non vi
+1|avvicinate, non vengo
+1|con voi.<FB>

@@ -1,0 +1,634 @@
+### 0850
+Gu-gu-gu-<P>
+2|TR<FC 1A> Zzzzzzz….<FB>
+
+### 0851
+Che cane viziato!<FB>
+
+### 0852
+Dove avete preso
+2|questa foto?<P>
+3|In questo paese tutti
+1|dovrebbero riconoscere
+1|questi tipi…<FB>
+
+### 0853
+E' il leggendario
+2|pirata Christopher
+3|Benson, vero?<P>
+1|Cercò di riprendersi
+1|il "tesoro del paese"
+1|e ci lasciò la pelle.<P>
+1|E' sepolto nel
+1|cimitero fuori dal
+1|paese.<FB>
+
+### 0854
+Era Indio a guidare
+2|i banditi!!<P>
+3|E' colpa sua se ci
+1|hanno attaccato, se
+1|l'acqua è finita,<P>
+1|e adesso non ce ne
+1|va bene una.<FB>
+
+### 0855
+Questo lo chiamavamo
+2|"tesoro del paese".<P>
+3|Il leggendario pirata
+1|Christopher Benson,
+1|una volta ne parlò…<P>
+1|Disse che serviva a
+1|trovare il Tesoro
+1|di Maverick.<P>
+1|Si dice che il tesoro
+1|fosse nascosto su
+1|un'altra isola…<FB>
+
+### 0856
+I tipi di questa foto
+2|li conosco fin
+3|troppo bene.<FB>
+
+### 0857
+E' Benson, giusto?<P>
+2|Era un brav'uomo,
+3|ma si fece abbindolare
+1|da Indio.<P>
+1|Indio diceva che
+1|poteva usarlo per una
+1|macchina del tempo.<P>
+1|Benson prestò a Indio
+1|il "tesoro del
+1|paese",<P>
+1|ma fu raggirato da
+1|un maestro
+1|dell'inganno!<FB>
+
+### 0858
+Questo è Indio, il
+2|capo dei banditi,
+3|giusto?<P>
+1|Ingannò Benson con
+1|la promessa di una
+1|"macchina del tempo",<P>
+1|e poi i banditi
+1|scapparono col
+1|"tesoro del paese".<FB>
+
+### 0859
+Ora che Indio è morto,
+2|nessuno sa dove sia
+3|la Sfera di Cristallo.<P>
+1|Se ci tenete tanto
+1|a saperlo,<P>
+1|costruitevi una
+1|macchina del tempo!<FB>
+
+### 0860
+Queste persone mi
+2|dicono qualcosa, ma
+3|forse no…<FB>
+
+### 0861
+Questo tipo non diceva
+2|"Con l'aiuto di Indio,
+3|viaggerò nel tempo",<P>
+1|o qualche follia
+1|del genere…?<FB>
+
+### 0862
+Tanto tempo fa, Indio
+2|inventava storie
+3|assurde.<P>
+1|Diceva di poter usare
+1|il "tesoro del paese"
+1|per una macchina…<P>
+1|Non potevano essere
+1|storie vere,
+1|giusto…?<FB>
+
+### 0863
+Per noi questo cristallo
+2|era il "tesoro del
+3|paese",<P>
+1|ma per Indio era un
+1|pezzo di macchina del
+1|tempo.<FB>
+
+### 0864
+Wow, guardate
+2|questa foto!<FB>
+
+### 0865
+E' il leggendario
+2|pirata Benson,
+3|vero?<FB>
+
+### 0866
+Questo è Indio…<P>
+2|Quello che ingannò il
+3|leggendario pirata
+1|Benson, vero?<P>
+1|Indio riempì di bugie
+1|la testa di Benson,<P>
+1|ma fu preso mentre
+1|cercava di scappare.<FB>
+
+### 0867
+Se trovate 4 di
+2|queste Sfere di Cristallo,<P>
+3|si dice che aprano
+1|la via a un tesoro
+1|meraviglioso…<P>
+1|Benson trovò questa e
+1|la tenemmo come
+1|"tesoro del paese".<FB>
+
+### 0868
+E' una foto
+2|piuttosto vecchia…<FB>
+
+### 0869
+La moglie di quest'uomo
+2|vive accanto alla casa
+3|enorme in fondo a est.<FB>
+
+### 0870
+Quest'uomo è il padre
+2|della ragazza che vive
+3|al "Lago della Morte".<FB>
+
+### 0871
+Solo Indio sapeva
+2|dove trovare il
+3|"tesoro del paese".<P>
+1|Ma i morti non
+1|parlano.<FB>
+
+### 0872
+Che foto è
+2|questa?!<FB>
+
+### 0873
+Oh, che bel ragazzo.<FB>
+
+### 0874
+Ohoho, ecco un altro
+2|bell'uomo.
+3|Chi sarà?<FB>
+
+### 0875
+Che bel gioiello.<FB>
+
+### 0876
+E' una vecchia
+2|foto…<FB>
+
+### 0877
+Non lo so…<FB>
+
+### 0878
+Non so chi
+2|sia…
+3|Ma ha gli occhi
+1|identici a Sisko!<FB>
+
+### 0879
+Non ne ho idea…<FB>
+
+### 0880
+Mio padre teneva
+2|tantissimo a questa foto.<FB>
+
+### 0881
+Mio padre mi disse
+2|di aver costruito una
+3|macchina del tempo.<P>
+1|La usò sperando che
+1|quest'uomo vedesse
+1|con i suoi occhi<P>
+1|che l'acqua attorno al
+1|paese si sarebbe
+1|presto prosciugata.<FB>
+
+### 0882
+E' mio padre, Indio.
+2|Diceva di poter
+3|viaggiare nel tempo.<FB>
+
+### 0883
+La gente del paese
+2|crede che sia un
+3|oggetto speciale.<P>
+1|Crede che porti a un
+1|tesoro ancora più
+1|grande.<P>
+1|Ma per noi, in realtà
+1|è un pezzo della
+1|"macchina del tempo".<FB>
+
+### 0884
+Oh, ma che ci fate
+2|con quella foto?<FB>
+
+### 0885
+Questo è mio marito
+2|da giovane.<P>
+3|Si chiamava
+1|Christopher Benson.<P>
+1|Una volta disse: "Ho
+1|trovato chi sa fare
+1|una macchina del tempo."<P>
+1|Ne era proprio
+1|convinto, ma era
+1|stato ingannato!<FB>
+
+### 0886
+Quando l'ho conosciuto,
+2|non sembrava il tipo
+3|che ruba…<FB>
+
+### 0887
+Mio marito trovò una
+2|Sfera di Cristallo.<P>
+3|Diceva che doveva
+1|portare a un tesoro
+1|ancora più grande.<P>
+1|Più tardi, mio figlio
+1|partì in cerca della
+1|stessa sfera.<FB>
+
+### 0888
+<F5 01>3Dove avete
+2|trovato questa foto?!<P>
+3|L'avete mostrata
+1|a qualcun altro?<P>
+1|Tenetelo segreto,
+1|ma ascoltatemi<FC 1A><P>
+1|Indio la macchina del
+1|tempo l'ha fatta davvero.<P>
+1|La "Stanza del Tempo"
+1|che usava è nella villa
+1|chiusa a chiave.<P>
+1|Non so come
+1|ci sia riuscito,<P>
+1|ma ecco un messaggio
+1|che Indio ha
+1|lasciato.<FA>
+
+### 0889
+La vecchietta laggiù
+2|dovrebbe avere la
+3|chiave della villa.<FB>
+
+### 0890
+Accidenti, come ha
+2|fatto a finire l'acqua!<P>
+3|Dovevo dar retta a
+1|Indio e scavare più
+1|pozzi…<FB>
+
+### 0891
+<F5 01>3Ci sono 3
+2|orologi… Il primo
+3|segna le 10<FC 1A>00.<P>
+1|Il secondo, le 9<FC 1A>30,
+1|e l'ultimo segna
+1|le 10<FC 1A>30…<P>
+1|
+1|10<FC 1A>00, 9<FC 1A>30, 10<FC 1A>30…
+1|<FB>
+
+### 0892
+Vi presto la chiave,
+2|venite qui.<FB>
+
+### 0893
+Ora potete entrare
+2|nella villa.<FA>
+
+### 0894
+<F2>Avete la Chiave
+2|della Villa!<P>
+3|Ora potete entrare
+1|nella "Stanza del Tempo"!<FA>
+
+### 0895
+Ancora oggi, quando
+2|guardo quella villa,<P>
+3|sento la presenza di
+1|mio marito…
+1|Per questo non entro…<FB>
+
+### 0896
+…Addio…
+2|E grazie!<FA>
+
+### 0897
+Ne sei sicuro?<FB>
+
+### 0898
+Ne sei proprio
+2|sicuro?<FB>
+
+### 0899
+Il più vecchio sta a
+2|sinistra del più
+3|giovane.<P>
+1|Il più giovane sta a
+1|destra di quello
+1|di mezzo.<P>
+1|Quello di mezzo sta a
+1|sinistra del più
+1|giovane.<P>
+1|Se lo capite,
+1|indicateci in ordine
+1|dal più vecchio!<FB>
+
+### 0900
+<F5 02>NFuochino, anzi freddo!
+2|E' il meglio che
+3|sapete fare?<P>
+1|Il più vecchio sta a
+1|sinistra del più
+1|giovane.<P>
+1|Il più giovane sta a
+1|destra di quello
+1|di mezzo.<P>
+1|Quello di mezzo sta a
+1|sinistra del più
+1|giovane.<P>
+1|Se lo capite,
+1|indicateci in ordine
+1|dal più vecchio!<FA>
+
+### 0901
+La guardia davanti alla
+2|stanza della principessa
+3|non c'è più.<P>
+1|Chissà cosa è
+1|successo…<P>
+1|Ora chiunque può
+1|entrare e uscire.<FB>
+
+### 0902
+Chissà cosa si
+2|cucinerà in questa
+3|pentola.<P>
+1|Non vedo l'ora di
+1|scoprirlo!<FB>
+
+### 0903
+Il pranzo è pronto?<P>
+2|Ma cosa vuole
+3|preparare Dorothy,
+1|poi?<FB>
+
+### 0904
+Il re ha la passione
+2|del giardinaggio.<P>
+3|Pare che dietro il
+1|castello ci sia un
+1|giardino magnifico…<P>
+1|Ma io non l'ho mai
+1|visto.
+1|<FB>
+
+### 0905
+Non sembra troppo
+2|pesante.<FB>
+
+### 0906
+Non pensavo di
+2|rivedervi. Che bello
+3|essermi sbagliata.<P>
+1|Avrete fatto una gran
+1|fatica ad arrivare
+1|fin qui.<P>
+1|Il signor Arnold? Ah,
+1|è venuto ad aiutarvi.
+1|Bene.<P>
+1|Andiamocene. Secondo
+1|quello che hanno
+1|detto i Patchies,<P>
+1|l'unica uscita è
+1|l'ascensore dietro
+1|la porta blu.<P>
+1|Qui ho trovato una
+1|scatola blu…
+1|<P>
+1|Scommetto che dentro
+1|c'è la chiave della
+1|porta dell'ascensore.<P>
+1|Ma per quanto ci
+1|provassi, non
+1|riuscivo ad aprirla.<P>
+1|Voi ragazzi potete
+1|farci qualcosa?<FA>
+
+### 0907
+Chissà cosa c'è
+2|per pranzo~.<FB>
+
+### 0908
+Cosa? Il pranzo è di
+2|nuovo a base di pomodori!?<P>
+3|Siete venuti fin qui
+1|solo per dirmelo?
+1|<P>
+1|Beh, che bravi
+1|ragazzi.
+1|<FB>
+
+### 0909
+Siete proprio
+2|simpatici.<FB>
+
+### 0910
+Bzzt! Oggetto
+2|sbagliato, Deon!<FB>
+
+### 0911
+Dai, Deon, lo sai
+2|che non va.<FB>
+
+### 0912
+Usare quell'oggetto
+2|non ha senso, Jack.<FB>
+
+### 0913
+Avete aperto i 3
+2|tipi di forziere
+3|della nave?<P>
+1|La Chiavetta si usa
+1|a ovest della
+1|nave.<FA>
+
+### 0914
+Dall'interruttore
+2|escono 4
+3|maniglie.<P>
+1|Ogni volta che ne
+1|muovi una in qualsiasi
+1|direzione,<P>
+1|i numeri
+1|cambiano.
+1|<P>
+1|Girando a destra
+1|{1B}<FD 00>{1D} appaiono numeri
+1|Bianchi.<P>
+1|Girando a sinistra
+1|{1B}<FD 01>{1D} appaiono numeri
+1|Neri.<P>
+1|Se girate le leve
+1|troppo in una
+1|direzione,<P>
+1|il numero si
+1|azzera, capito?
+1|<P>
+1|Se volete un altro
+1|indizio, mi serve <FE 6D 20>
+1|Pietra Fortuna in più.<P>
+1| Che ne dite?<FE 6A><P>
+1|    Dimmi di più.
+1|    No, ho capito.<FE 68><FA>
+
+### 0915
+Vi dico il modo
+2|giusto di
+3|girarlo…<P>
+1|Destra <FE 6D 22> volte,
+1|Sinistra <FE 6D 28> volte, e
+1|Destra <FE 6D 26> volte.<P>
+1|…Sono quasi sicuro
+1|che fosse così.<FA>
+
+### 0916
+Avete trovato una leva
+2|nella grotta a forma
+3|di pesce?<P>
+1|A proposito di pesci…
+1|Ora capite, no?
+1|<FA>
+
+### 0917
+E' quasi ora di
+2|pranzo, torniamo
+3|indietro!<FA>
+
+### 0918
+Jim è nei guai
+2|oltre il fiume!<P>
+3|Ci serve la chiave
+1|che ha mangiato il pesce.<P>
+1|Guardate bene quale
+1|pesce l'ha mangiata!
+1|<FA>
+
+### 0919
+Provate a usare
+2|"Guanto e Palla" sugli
+3|ostacoli!<FA>
+
+### 0920
+Siete bloccati col
+2|tubo?<P>
+3|Lo sapevate che un
+1|ragazzo bassino ci
+1|entra dentro?<FA>
+
+### 0921
+C'è un modo migliore?
+2|Se vi viene in mente,
+3|ditemelo, ok?<FB>
+
+### 0922
+Dobbiamo portare a
+2|casa questo bambino…<P>
+3|Sua madre sarà di
+1|sicuro preoccupata!<FB>
+
+### 0923
+Grazie, mio padre
+2|amava questo fiore.<P>
+3|Se lo mostrate al
+1|corvo, di sicuro si
+1|ricorderà di me.<FA>
+
+### 0924
+Che idiota sono stato
+2|a chiedere alla squadra <FE 6D 1A>.<P>
+3|D'ora in poi vi
+1|chiamo squadra
+1|Fifona.<FB>
+
+### 0925
+Il calcio comincia
+2|a stancarmi.<FB>
+
+### 0926
+Rifacciamolo qualche
+2|volta.<FB>
+
+### 0927
+Non dite a Jim che
+2|ve l'abbiamo detto, ma…<P>
+3|Ha una cotta per la
+1|maestra Gina!
+1|<FB>
+
+### 0928
+Se solo aveste le
+2|"Scarpe da Calcio"…<P>
+3|Con le "Scarpe da
+1|Calcio", tirereste
+1|come un campione…<FB>
+
+### 0929
+Perché questa villa
+2|è l'unico edificio
+3|chiuso a chiave?<FB>
+
+### 0930
+<F2>La porta si è aperta!<P>
+2|Dove sarà la
+3|"Stanza del Tempo"?<FB>
+
+### 0931
+Ricordo ancora un
+2|po' della storia
+3|del paese.<FB>
+
+### 0932
+Cra cra!<P>
+2|TR<FC 1A> Siete dei
+3|tipi a posto.<FB>
+
+### 0933
+Il mio cane si
+2|addormenta dopo
+3|mangiato, tranquilli.<FA>
+
+### 0934
+Questo è il nonno
+2|di mio marito.<FA>
+
+### 0935
+Questo è…<FA>
+
+### 0936
+Invece di un fantasma,
+2|vorrei che spuntasse
+3|un germoglio…<FB>
+
+### 0937
+Di giorno i fantasmi
+2|non escono~.<FB>
+
+### 0938
+U… Un'ombra…!<FB>
+
+### 0939
+Chissà se è
+2|davvero qui?<FB>

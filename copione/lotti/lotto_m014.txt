@@ -1,0 +1,573 @@
+### 1120
+Miao~, miao~.<FB>
+
+### 1121
+Mi sembra tutto
+2|diverso da come
+3|era una volta…<FB>
+
+### 1122
+Ti sei ricordato la
+2|nostra promessa?<FB>
+
+### 1123
+Cos'è questa
+2|foto…<FB>
+
+### 1124
+Boh…<FB>
+
+### 1125
+Non saprei…<FB>
+
+### 1126
+Mai vista in vita
+2|mia…<FB>
+
+### 1127
+Non sembra che si
+2|usi molto.<FB>
+
+### 1128
+Non credo che
+2|riusciamo a sollevarlo…<FB>
+
+### 1129
+Lo voglio~…<FB>
+
+### 1130
+A cosa potrà
+2|servire…?<FB>
+
+### 1131
+Non dovresti decorare
+2|casa tua con una
+3|cosa del genere.<P>
+1|Aumenta solo il
+1|disordine!<FB>
+
+### 1132
+Decorare casa con una
+2|cosa così ti
+3|fa fare brutta figura.<FB>
+
+### 1133
+Il forziere non si
+2|apre così!<FB>
+
+### 1134
+E' fatto d'oro?
+2|Un po' strano!<FB>
+
+### 1135
+Ah, ah!<FB>
+
+### 1136
+Di chi sarà questa
+2|tomba…?<FB>
+
+### 1137
+Chissà a cosa serve
+2|questa pietra nera?<FB>
+
+### 1138
+Pegi, pegi, pegi~.<P>
+2|TR<FC 1A> Non è male fare
+3|l'animale di un umano~.<FB>
+
+### 1139
+<FE 6A>Ah, giusto! Il
+2|cappello da capo. Non
+3|sono più il capo.<P>
+1|…Salvate la maestra
+1|Gina!
+1|<FA>
+
+### 1140
+Se sei il capo,
+2|allora fai qualcosa!
+3|<FB>
+
+### 1141
+Grazie del vostro
+2|impegno!<FB>
+
+### 1142
+Vicino al lago c'è
+2|un sacco di
+3|legna.<FB>
+
+### 1143
+……Capito.
+2|Vado a chiamare aiuto.<P>
+3|Voi state tranquilli
+1|e aspettate che
+1|arrivino i soccorsi.<FA>
+
+### 1144
+Cosa, una bomba a
+2|orologeria!? Roba forte.<P>
+3|Sbrigatevi a uscire
+1|di qui!<FA>
+
+### 1145
+Oh ciaoo~! Da quanto
+2|tempo~.<P>
+3|Qui le cose si fanno
+1|proprio pazze.
+1|Venendo qui io…<FA>
+
+### 1146
+Accidenti, quanto
+2|parli. Non è il
+3|momento.<P>
+1|Il tempo stringe.
+1|
+1|Ok?<P>
+1|Farà paura, ma il
+1|vento da sotto vi
+1|rallenterà la discesa…<P>
+1|Starete benissimo.
+1|Forza, facciamolo.<FA>
+
+### 1147
+Chi l'avrebbe detto
+2|che qui c'era nascosta
+3|una mongolfiera?<FB>
+
+### 1148
+Dobbiamo pensare in
+2|fretta.<P>
+3|Coi nostri pesi… Uno
+1|pesante va a sinistra…
+1|<P>
+1|Gli altri due
+1|pompano dal lato
+1|destro.<FA>
+
+### 1149
+<F5 00>{D3}Questa è la mia più
+2|grande invenzione.<P>
+3|Si pensava che per
+1|l'uomo fosse impossibile
+1|volare, <P>
+1|ma questa mongolfiera
+1|permette agli uomini
+1|di farlo.<P>
+1|E' il tesoro che
+1|lascio a chi riuscirà
+1|a trovarlo.<P>
+1|E' anche l'unico modo
+1|per fuggire dalla
+1|prigione.<P>
+1|Prego che questo
+1|congegno funzioni
+1|ancora quando lo troverete.<P>
+1|
+1|   Capitano Maverick<FB>
+
+### 1150
+Presto, spingiamolo.
+2|<FB>
+
+### 1151
+<FE 79>  Premi per gonfiare!
+2|        <FE 6D 12><FE>{7E}<FA>
+
+### 1152
+Evviva! La mongolfiera
+2|è gonfia!
+3|Presto, saliamo!<FA>
+
+### 1153
+Vi lascio le mie
+2|"Scarpe da Calcio".<P>
+3|Le trovate in fondo
+1|al lago!
+1|<FB>
+
+### 1154
+<F5 02>NMa dai, non avete
+2|nemmeno le
+3|"Scarpe da Calcio"!<P>
+1|Come pensate di
+1|giocare a calcio?<P>
+1|Tornate quando
+1|ci arrivate.<FB>
+
+### 1155
+Senza andare
+2|sott'acqua, le scarpe
+3|non si prendono…<P>
+1|Ma sembra che l'acqua
+1|faccia male agli
+1|occhi~.<FB>
+
+### 1156
+Ci serve il vostro aiuto!<FE 6A>
+2|    Ok.
+3|    No.<FE 68><FA>
+
+### 1157
+Uff, che cattivi.<FB>
+
+### 1158
+Usate <FE 6D 0A> per cambiare
+2|capo e portatevi uno
+3|alla volta alla pentola.<P>
+1|Poi, premete <FE 6D 48>!!<FB>
+
+### 1159
+Bastava riempirla
+2|dal fiume, a quanto
+3|pare…<FB>
+
+### 1160
+Mamma mia, che
+2|stanchezza…<FB>
+
+### 1161
+Proviamo come
+2|loro…<P>
+3|Hanno detto di
+1|disporci in modo
+1|uniforme, giusto?<FB>
+
+### 1162
+Mm, c'è qualcosa che
+2|non va…<P>
+3|Forse siamo messi
+1|male?<FA>
+
+### 1163
+Evviva! Abbiamo
+2|sollevato la pentola!!<FA>
+
+### 1164
+Metà dell'acqua è
+2|schizzata fuori!<P>
+3|Grazie, squadra <FE 6D 1A>,
+1|eravamo nei guai.<P>
+1|Ora la pentola la
+1|solleviamo da soli.<FA>
+
+### 1165
+Quando avete ripreso
+2|l'"amo" da
+3|Jim,<P>
+1|fatelo vedere al capo.
+1|Ci è rimasto
+1|proprio male…<FB>
+
+### 1166
+Whoa!
+2|   Abbocca!!!<FA>
+
+### 1167
+Questo è grosso!
+2|Troppo grosso per
+3|tirarlo su da solo!<P>
+1|Qualcuno mi aiuti a
+1|tirarlo su!<FA>
+
+### 1168
+E' pesante, dev'essere
+2|qualcosa di grosso!<P>
+3|Non state lì,
+1|venite ad aiutare!<FB>
+
+### 1169
+Presto! Scappa!!
+2|<FB>
+
+### 1171
+<F2>Max ha trovato gli
+2|Occhialini da Nuoto!<P>
+3|Con <FE 6D 04> si vede
+1|sott'acqua.<P>
+1|<FE 6A>Uffa, è solo un
+1|altro rottame.<P>
+1|Pensavo che fosse
+1|quello
+1|grosso…<P>
+1|Per usarli, apri il
+1|menu con START
+1|e equipaggiali.<P>
+1|Capito?<FA>
+
+### 1172
+Fugo, fugo.<P>
+2|TR<FC 1A> Oh, anche se ci
+3|cadete sopra, non
+1|vi fate male,<P>
+1|tranquilli.<FB>
+
+### 1173
+Cos'è questo?
+2|"Consigli da Campo"…!?<P>
+3|Indicate ogni riga
+1|con <FE 6D 0C> per leggerla.<FB>
+
+### 1174
+Quando pensate "Eh?!"
+2|premete il tasto <FE 6D 02>.<P>
+3|Quando pensate "C'è
+1|qualcosa!" premete <FE 6D 02>
+1|!<P>
+1|C'è tanto da
+1|esplorare!<FB>
+
+### 1175
+Se vedete un <FE 6D 36> è
+2|ora di premere <FE 6D 02>.<P>
+3|Inoltre, toccando
+1|persone o oggetti,
+1|il <FE 6D 36> appare…<P>
+1|Conviene premere
+1|il tasto <FE 6D 02> ogni volta
+1|che potete!<FB>
+
+### 1176
+Le azioni si fanno
+2|col tasto <FE 6D 04>.<P>
+3|Equipaggiate un oggetto
+1|dal menu START e usatelo
+1|con <FE 6D 04>…<P>
+1|Proviamo.<FB>
+
+### 1177
+Quando siete nei guai,
+2|provate a fischiare!<P>
+3|Se la squadra è
+1|divisa, usate il
+1|fischietto…!<FB>
+
+### 1178
+Squit, squit!<P>
+2|TR<FC 1A> Sono un topo
+3|burlone.<P>
+1|Se sentite un urlo,
+1|probabilmente è
+1|merito mio.<FB>
+
+### 1179
+<FE 6A>Sembra un passaggio
+2|per topi.<FB>
+
+### 1180
+Squadra <FE 6D 1A>… vi prego!
+2|Vi… supplico!
+3|Fate qualcosaaaa!!<FB>
+
+### 1181
+Trovate il buco da
+2|cui è entrato il topo
+3|e cacciatelo!<P>
+1|Per favore, squadra
+1|<FE 6D 1A>?<FB>
+
+### 1182
+<FE 6A>Trovate il buco
+2|della tenda da cui
+3|entrano i topi,<P>
+1|e fate in modo che
+1|non gli venga più in
+1|mente di entrare.<P>
+1|Per favore, squadra
+1|<FE 6D 1A>?<FB>
+
+### 1183
+<FE 6A>Avete tappato il
+2|buco della tenda,
+3|prima,<P>
+1|e il topo è
+1|scappato?<P>
+1|Chissà se se n'è
+1|andato per sempre…<FB>
+
+### 1184
+Squit!…Squit!<P>
+2|TR<FC 1A> Accidenti! Sono
+3|in trappola! Non
+1|toccatemi!<FB>
+
+### 1185
+Squiiiit iiik!!<P>
+2|TR<FC 1A> Non tirate lì!!
+3|Aaaargh…!<FA>
+
+### 1186
+Voglio ringraziarvi,
+2|squadra <FE 6D 1A>
+3|.<P>
+1|Avvicinatevi.<FB>
+
+### 1187
+<F2>La maestra vi ha dato
+2|una Sciarpa Gemella!<P>
+3|Acqua in bocca,
+1|eh?<FA>
+
+### 1188
+Credo che sia
+2|bellissimo aiutare chi
+3|è in difficoltà.<P>
+1|Se vedete altre
+1|persone nei guai,<P>
+1|aiutate anche loro,
+1|d'accordo?<FA>
+
+### 1189
+In questa cassa di
+2|legno si mettono gli
+3|oggetti…<P>
+1|Ma non da così
+1|lontano.<P>
+1|Avvicinatevi un po'.<FB>
+
+### 1190
+Sì, gli oggetti si
+2|mettono in questa cassa.<P>
+3|Tranquilli… Non è che
+1|l'oggetto sparisca
+1|o roba simile.<FB>
+
+### 1191
+Non capite?<P>
+2|Non date l'oggetto a
+3|ME, mettetelo nella
+1|cassa.<P>
+1|Provate a esaminare
+1|la cassa con <FE 6D 46>.<FB>
+
+### 1192
+Sembra che sia
+2|l'oggetto sbagliato.<P>
+3|Perché non provate con
+1|un altro?<P>
+1|Non ve ne
+1|pentirete.<FA>
+
+### 1193
+Esatto.
+2|Questa cassa
+3|moltiplica le Pietre.<P>
+1|Prendetele pure.
+1|<FA>
+
+### 1194
+<FE 6A><F5 03>r<FE 6D 20> Pietra Fortuna è
+2|diventata <FE 6D 28>{EC}{ED}.<P>
+3|Questo si chiama
+1|"miracolo".<FA>
+
+### 1195
+Se ci riuscite,
+2|siete maestri degli
+3|oggetti.<P>
+1|Continuate a studiare
+1|ogni giorno.<FA>
+
+### 1196
+Scordavo di dirvelo,
+2|ma non usciranno più
+3|Pietre Fortuna…<P>
+1|La vita non è così facile.<FA>
+
+### 1197
+Avviciniamoci e
+2|prendiamolo.<FB>
+
+### 1198
+Inseguiamolo e
+2|prendiamolo!<FB>
+
+### 1199
+Senza tuffarsi
+2|sott'acqua, non ci
+3|si arriva…<P>
+1|Chissà come si fa ad
+1|andare sott'acqua…<FB>
+
+### 1200
+Guwah! Come fate a
+2|bloccarvi su una
+3|trappola così semplice?!<P>
+1|Vergogna, ragazzi…
+1|
+1|Questi "Patchies" sono
+1|in ordine 2, 1, 3 da
+1|sinistra.<P>
+1|E' un indizio enorme!
+1|Quindi…<P>
+1|Se ancora non capite,
+1|siete proprio tonti.<FA>
+
+### 1201
+I Patchies che bloccano
+2|la grotta sono proprio
+3|d'intralcio.<P>
+1|E se provassimo a
+1|buttarli giù con una
+1|palla?<FA>
+
+### 1202
+Provate a urtare i
+2|tronchi con lo "Scatto".
+3|Poi potete sollevare il
+1|tronco con <FE 6D 48>.<FA>
+
+### 1203
+Volete salvare la
+2|maestra Gina, vero?<P>
+3|Allora trovate subito
+1|la Sfera di Cristallo!<P>
+1|C'è un passaggio
+1|vicino a dove è
+1|crollato Blue.<FA>
+
+### 1204
+Cosa fare adesso?
+2|
+3|<P>
+1|…Potete solo lasciare
+1|l'isola con quella
+1|nave, giusto?<P>
+1|Per muoverla dovete
+1|aprire la porta della
+1|nave che non si apre.<P>
+1|Avete già incontrato
+1|una persona minuscola?<P>
+1|Se no, cercate lungo
+1|la costa a nord
+1|e salvatela.<P>
+1|Allora potrete aprire
+1|la porta.<FA>
+
+### 1205
+<FE 6A><F5 03>rAvete <FE 6B> Pietre Fortuna.<FA>
+
+### 1206
+Cosa fate?
+2|Cosa? Non vi faccio
+3|niente. Avvicinatevi.<FB>
+
+### 1207
+Cosa c'è nel
+2|forziere?<FB>
+
+### 1208
+Gah! Mi restano <FE 6D 1E>
+2|Pietre…
+3|Accidenti…<P>
+1|…Il mio negozio è…
+1|rovinato!!
+1|Fuori di qui!<FA>
+
+### 1209
+…Cosa ci volete fare
+2|con tutte quelle
+3|Pietre Fortuna?<P>
+1|Non dovevate
+1|raccogliere la
+1|legna?<FB>

@@ -1,0 +1,478 @@
+### 1210
+Non avete niente di
+2|meglio da fare?
+3|…Sparite!<FB>
+
+### 1211
+Chissà se siamo stati
+2|un po' cattivi con Jim?<FB>
+
+### 1212
+Ehi, sapete una
+2|cosa?<P>
+3|Avete <FE 6D 1E> Pietre
+1|Fortuna. Non lo sapete?<P>
+1|Avrò pietà e vi
+1|darò <FE 6D 20> Pietra
+1|per la strada.<P>
+1|Dovreste davvero
+1|smettere finché va bene.<FA>
+
+### 1213
+<F5 03>rJim vi ha dato <FE 6D 20>
+2|Pietra Fortuna.<P>
+3|In fondo non è poi
+1|tanto male…<FB>
+
+### 1214
+Queste sono le Pietre
+2|Fortuna che abbiamo
+3|raccolto con fatica.<P>
+1|Non pensate di
+1|prendervele tutte
+1|gratis.<P>
+1|Provateci se vi
+1|sentite fortunati.<FB>
+
+### 1215
+…Accidenti a te, Jim!<P>
+2|Sono le Pietre
+3|Fortuna che ci siamo
+1|sudati tanto…<FB>
+
+### 1216
+Va bene fare così?<P>
+2|Se la maestra Gina
+3|lo scopre,<P>
+1|la mamma mi prenderà
+1|di nuovo a sberle
+1|da capo a piedi…<FB>
+
+### 1217
+Ecco perché ti dicevo
+2|di smettere…<P>
+3|Ci toccherà andare
+1|a cercare altre
+1|Pietre Fortuna.<FB>
+
+### 1218
+Proviamo ad
+2|avvicinarci?<FB>
+
+### 1219
+Esaminata la lavagna con <FE 6D 46>,si può usare un oggetto.<P>
+3|Usate <FE 6D 46> per esaminare
+1|di nuovo le casse.<FB>
+
+### 1220
+Cip, cippi!<P>
+2|TR<FC 1A>…E' vero!
+3|Non lo so!
+1|Credetemi~!!<FB>
+
+### 1221
+Proviamo uno scatto
+2|col tasto <FE 6D 04>.<FB>
+
+### 1222
+Chissà come facciamo
+2|a prenderlo?<FB>
+
+### 1223
+Allora fammelo vedere.
+2|Sbrigatevi a preparare
+3|la partenza!<FB>
+
+### 1224
+Perché c'è un buco
+2|qui?<FB>
+
+### 1225
+Diamogli una botta.<FB>
+
+### 1226
+Non va bene!
+2|Siete fuori tempo.
+3|Riproviamo.<P>
+1|Al mio <FE 6D 24>,
+1|premete il tasto <FE 6D 02>!<FA>
+
+### 1227
+Forza!
+2|Premete il tasto <FE 6D 02>!
+3|Fatelo!<FA>
+
+### 1228
+Che foto è questa?<FB>
+
+### 1229
+Quest'uomo era con
+2|Indio.<FB>
+
+### 1230
+Questa non è una
+2|cattiva persona!<FB>
+
+### 1231
+Ce l'aveva Indio…<FB>
+
+### 1232
+Scordato? Te lo dico io.
+2|Vieni qui, presto.<FB>
+
+### 1233
+Tornate a giocare.
+2|Pare che Jim stia
+3|inventando un gioco nuovo.<FB>
+
+### 1234
+Acqua in bocca…
+2|Ma Jim… ha una cotta
+3|per la maestra Gina.<FB>
+
+### 1235
+<FE 79>Premi per spostarlo!
+2|   <FE 6D 42>       <FE 6D 12><FE>{7E}<FA>
+
+### 1236
+<FE 79> Spingi per spostarlo!
+2|        <FE 6D 42><FE>{7E}<FA>
+
+### 1237
+<FE 79>      Premi forte!
+2|        <FE 6D 12><FE>{7E}<FA>
+
+### 1238
+Che succede?
+2|Non mollare ora!<FA>
+
+### 1239
+Sapete, il verde è il
+2|mio colore preferito.<P>
+3|Anche il giallo delle
+1|Pietre Fortuna.<FB>
+
+### 1240
+Ehe, fa il solletico.<FB>
+
+### 1241
+Questa sciarpa rossa è
+2|il mio segno distintivo.
+3|Ricordatevelo, eh?<FB>
+
+### 1242
+In tasca non ho
+2|niente.<FB>
+
+### 1243
+Non c'è davvero niente
+2|lì dentro, ok?<FB>
+
+### 1244
+Perché continuate a
+2|toccarmi lì?!?!<FB>
+
+### 1245
+2| Smettetela subito!<FB>
+
+### 1246
+Su quel foglio ci
+2|sono istruzioni
+3|importanti.<P>
+1|Avvicinatevi e
+1|leggetelo bene.<P>
+1|Per uscire da questa
+1|schermata,<P>
+1|premete <FE 6D 04> o scegliete <FE 6D 44>
+1|e premete <FE 6D 02>.<P>
+1|Allora il campeggio
+1|può davvero iniziare!<FA>
+
+### 1247
+Aha, guardate! E'
+2|arrivata l'altro giorno.<FA>
+
+### 1248
+Uuu! Uuu!<P>
+2|TR<FC 1A> Sono contento che
+3|sei venuto, Winky.<P>
+1|Oggi compi 16
+1|anni.<P>
+1|Quasi non ci credo
+1|quanto sei
+1|cresciuto…<P>
+1|Il tempo vola
+1|così in fretta.
+1|<FA>
+
+### 1249
+2|  Ascolta, Winky!<FA>
+
+### 1250
+Se non conosci qualcosa
+2|che c'è qui, puntaci
+3|sopra <FE 6D 0C>.<FB>
+
+### 1251
+Pulite le <FE 6D 22> finestre
+2|in alto!<P>
+3|Io non ci arrivo,
+1|ma voi ragazzi
+1|troverete un modo.<FB>
+
+### 1252
+Nel pavimento c'è una
+2|buca pericolosa!<P>
+3|Copritela con una
+1|tavola e inchiodatela
+1|per bene.<FB>
+
+### 1253
+Spostatemi questo
+2|tavolo!<P>
+3|Portatelo dal lato
+1|destro della stanza
+1|al lato sinistro.<P>
+1|Attenti a non
+1|schiacciarvi!<FB>
+
+### 1254
+Grazie a voi ragazzi,
+2|è andata bene!<P>
+3|Mi spiace chiedere
+1|tanto, ma pensate
+1|anche al resto…<FB>
+
+### 1255
+Portate qui altri
+2|ragazzi!<FB>
+
+### 1256
+Alla mia età, è
+2|difficile
+3|urlare.<P>
+1|Avvicinatevi un po'.<FB>
+
+### 1257
+Bel lavoro!<FB>
+
+### 1258
+Là dentro ci sono solo
+2|orologi.<P>
+3|Se volete, prendete
+1|la chiave sotto il
+1|modellino di nave.<FB>
+
+### 1259
+<F5 00>{D3}La chiave della villa
+2|è qui sotto?<FB>
+
+### 1260
+Ogni tanto è bello
+2|cambiare qualcosa
+3|nella stanza.<FB>
+
+### 1261
+Sembra pesante.<FB>
+
+### 1262
+Il pavimento ha ancora
+2|quella buca~!<P>
+3|Non si può spostare
+1|finché la buca
+1|non è riparata.<FB>
+
+### 1263
+Spero che la nonna
+2|non cada nella buca e
+3|si faccia male…<FB>
+
+### 1264
+Questa è perfetta
+2|per coprire una buca.<FB>
+
+### 1265
+L'abbiamo sollevato!<P>
+2|Muovi con <FE 6D 08> e premi
+3|<FE 6D 02> per lasciarlo.<FA>
+
+### 1266
+Senza avvicinarsi
+2|non si capisce~!<FB>
+
+### 1267
+Sembra troppo lontano
+2|per arrivarci!<FB>
+
+### 1268
+E' pieno di polvere!
+2|Che schifo!<FB>
+
+### 1269
+Il sole è così forte!<FB>
+
+### 1270
+<FE 79>Puliamo la finestra!
+2|   <FE 6D 42>       <FE 6D 12><FE>{7E}<FA>
+
+### 1271
+Andate a casa! Via!<FB>
+
+### 1272
+<FE 79>Tiragli le guance!
+2|        <FE 6D 42><FE>{7E}<FA>
+
+### 1273
+<FE 79>Spingigli il naso!
+2|        <FE 6D 12><FE>{7E}<FA>
+
+### 1274
+<FE 79> Facciamo i birbanti!
+2|        <FE 6D 42><FE>{7E}<FA>
+
+### 1275
+…Una cerniera?<FA>
+
+### 1276
+No, non può essere!!
+2|Nooo!<FA>
+
+### 1277
+Per stavolta vi
+2|risparmio.
+3|Ricordatevelo!<FA>
+
+### 1278
+Forse canterò una
+2|canzone finché il
+3|cibo non è pronto.<P>
+1|Canterò quello che
+1|provo davvero.<FA>
+
+### 1279
+Ahi!
+2|Perché l'hai fatto?!<FA>
+
+### 1280
+Blub, glub… Blub…<P>
+2|TR<FC 1A> Anche se ho
+3|l'esca davanti,
+1|non la mangio~.<P>
+1|Ho la pancia piena.<FB>
+
+### 1281
+…Blubble, glubble…<P>
+2|TR<FC 1A> Questo è uno
+3|stagno minuscolo…<P>
+1|Anche se nuoto
+1|veloce, non vado da
+1|nessuna parte… vero?<FB>
+
+### 1282
+…Sembra che voglia
+2|attaccare
+3|briga.<FB>
+
+### 1283
+Blub, mub! Blub!<P>
+2|TR<FC 1A> Non starete
+3|pensando di
+1|pescarmi, vero?<P>
+1|Ah, voglio proprio
+1|vedervi provare.<P>
+1|Quando avrò preso
+1|l'esca, state
+1|attenti.<P>
+1|Se tirate troppo
+1|in fretta, scappo!<FB>
+
+### 1284
+Blubble, glub, glub?<P>
+2|TR<FC 1A> Sentite, ho fatto
+3|piangere centinaia di
+1|pescatori--<P>
+1|Tutto grazie alle mie
+1|pinne fortissime.<P>
+1|Dopo che ho abboccato,
+1|se tenete solo <FE 6D 08>
+1|senza mai mollare,<P>
+1|non avrete alcuna<P>
+1|possibilità.
+1|Capito?<FB>
+
+### 1285
+<FE 6A>Per sapere a cosa
+2|serve un tasto, sposta
+3|<FE 6D 0C> lì sopra e premi <FE 6D 02>.<FB>
+
+### 1286
+Il tasto <FE 6D 02> serve
+2|per cercare o parlare
+3|con le persone.<FA>
+
+### 1287
+Il tasto <FE 6D 04> usa
+2|l'oggetto equipaggiato
+3|dal menu.<FA>
+
+### 1288
+Il tasto <FE 6D 06> apre
+2|il menu, proprio come
+3|il tasto "START".<P>
+1|Dal menu potete
+1|cambiare gli oggetti
+1|equipaggiati.<FA>
+
+### 1289
+Il tasto <FE 6D 00> suona
+2|il fischietto.<P>
+3|Raduna la squadra se
+1|i compagni sono
+1|nei paraggi.<FA>
+
+### 1290
+Il tasto <FE 6D 14> mostra
+2|i PV e gli oggetti
+3|equipaggiati.<FA>
+
+### 1291
+Il tasto <FE 6D 0A> cambia
+2|il capo.<FA>
+
+### 1292
+Il tasto "START"
+2|apre il menu, proprio
+3|come il tasto <FE 6D 06>.<P>
+1|Dal menu potete
+1|cambiare gli oggetti
+1|equipaggiati.<FA>
+
+### 1293
+Il tasto "SELECT"
+2|serve per salvare
+3|nel Diario.<P>
+1|Salvate spesso.<FA>
+
+### 1294
+La <FE 6D 08> serve per
+2|muoversi o scegliere
+3|nei pannelli comandi.<FA>
+
+### 1295
+Avviciniamoci!<FB>
+
+### 1296
+Cosa vorrà dire…?<FB>
+
+### 1297
+Chissà se questi
+2|numeri vogliono dire
+3|qualcosa di importante?<FB>
+
+### 1298
+Forse ha senso
+2|a testa in giù?<FB>
+
+### 1299
+La risposta è
+2|semplice…<FB>

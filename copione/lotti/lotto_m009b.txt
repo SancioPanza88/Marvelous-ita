@@ -1,0 +1,82 @@
+### 0674
+Muovi. Me. Trova.
+2|Pavimento. Invisibile.<FB>
+
+### 0688
+Per tirare su un pesce,
+2|non basta tenere
+3|premuto il tasto.<P>
+1|Devi premere piano
+1|il tasto <FE 6D 08>, ok?<FB>
+
+### 0701
+Uuu, uuu!<P>
+2|TR<FC 1A> Chiavi da <FE 6D 4A>
+3|per aprire i forzieri
+1|uguali della nave.<P>
+1|Ciao ciao!<FA>
+
+### 0715
+Prendi! E prendi!
+2|Con questo tipo me la
+3|cavo da solo…<FA>
+
+### 0732
+<F5 03>xGah! Come avete fatto
+2|a capirlo! Va bene,
+3|ogni promessa è deb…<P>
+1|Ma siamo pirati!
+1|Non vi facciamo
+1|uscire! A meno che…<P>
+1|  Dateci la roba!<FE 6A>
+1|    Ok, eccola.
+1|    Neanche per sogno!<FE 68><FA>
+
+### 0738
+Avete un'altra
+2|occasione. Usatela.<P>
+3|Scegliete <FE 6D 46> dal
+1|menu laterale.<FB>
+
+### 0741
+Hassan, ma cosa
+2|dici?!<P>
+3|Non voglio restare
+1|qui ad aspettare di
+1|morire!<P>
+1|Se aspettiamo,
+1|stanotte tornano e
+1|distruggono il regno!<P>
+1|Presto, dammi quel
+1|Cannone Antiformiche!
+1|<FA>
+
+### 0743
+Bella risposta!<P>
+2|Bene, tutti e <FE 6D 24> dovete
+3|radunarvi e
+1|prendere posto.<P>
+1|Quando siete in
+1|posizione, premete <FE 6D 02> su
+1|<FE 6D 48> nel menu laterale.<P>
+1|Bene, tutti
+1|indietro.<P>
+1|Squadra <FE 6D 1A>, ora
+1|mostrateci il <FE 6D 48>!<FA>
+
+### 0749
+Si possono scoprire
+2|tante cose con <FE 6D 46>!<FB>
+
+### 0752
+Quel testone dice
+2|che comanda lui
+3|finché Gina non c'è.<P>
+1|Che piccolo verme.<FB>
+
+### 0759
+Q… Qualcuno!
+2|La maestra è stata…
+3|Rapita dai pirati!!<P>
+1|Squadra <FE 6D 1A>,
+1|che facciamo?!<FA>

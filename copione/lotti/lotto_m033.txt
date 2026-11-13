@@ -1,0 +1,222 @@
+### 2900
+Vi abbiamo presi!<FB>
+
+### 2901
+<F5 03>r<FE 6D 20> Pietra Fortuna!
+2|Cerchiamone altre!<FB>
+
+### 2902
+Tenda delle ragazze!
+2|<FE 6D 0A>: scegli <FE 6D 20> ragazzo.<FB>
+
+### 2903
+<F2>Scarpe da Calcio!
+2|Facciamole asciugare…<FB>
+
+### 2904
+<FE 6A><F5 03>rIn tutto avete
+2|<FE 6B> Pietre Fortuna!<FB>
+
+### 2905
+No no no!
+2|Questa è la tenda
+3|delle signore!<P>
+1|I maschi entrano
+1|uno alla volta!<FB>
+
+### 2906
+Trovatevi un altro
+2|nascondiglio!<FB>
+
+### 2907
+La tenda è piena!
+2|Cercatevi un posto.<FB>
+
+### 2908
+Rispettate i grandi!
+2|Ne vale la pena.<FB>
+
+### 2909
+<F5 01>3È… Una nave!!
+2|Come ci è arrivata…?<FB>
+
+### 2910
+Che succede? La nave
+2|fa un rumore strano!<FB>
+
+### 2911
+<F2>Avete la Chiave!<P>
+2|Puzza un po' di pesce.<FB>
+
+### 2912
+Scusate, <FE 6D 1A>,
+2|ma siamo al completo.<FB>
+
+### 2913
+Mi sto cambiando.
+2|Non entrate!<FB>
+
+### 2915
+Ahi! La nave avrà
+2|urtato qualcosa.<FB>
+
+### 2916
+Evviva, ora la nave
+2|si muove!<FB>
+
+### 2919
+    Fanno <FE 6D 20> pesce!<FB>
+
+### 2920
+    Fanno <FE 6D 22> pesci!<FB>
+
+### 2921
+<F2>    Fanno <FE 6D 24> pesci!
+2|       Finito!<FB>
+
+### 2922
+Basta! Mi sporcate
+2|i vestiti!!<FB>
+
+### 2923
+Attenti! Il bimbo si
+2|prenderà un raffreddore!<FB>
+
+### 2924
+Che state facendo,
+2|teppistelli?!<FB>
+
+### 2925
+Ahi-! I miei occhi!!<FB>
+
+### 2926
+  Basta! Basta!!<FB>
+
+### 2928
+Sono io il vero Smith!<FB>
+
+### 2929
+Pesti!
+2|Smettetela di combinare guai!<FB>
+
+### 2930
+  Agh~! È salata!!<FB>
+
+### 2931
+ Ma perché!?<FB>
+
+### 2932
+<F5 01>8Wow! Gli orologi
+2|sono spariti!!!<FB>
+
+### 2933
+Non passerete,
+2|mocciosi. Beccatevi questa!!<FB>
+
+### 2934
+Uff-!! Max ha ingoiato
+2|qualcosa!!<FB>
+
+### 2935
+<FE 79><F5 02>NLa squadra è vicina.
+2|Fischia o usa <FE 6D 0A>.<FB>
+
+### 2936
+<F5 01>{1C}Spiacenti, lei resta
+2|nostra ostaggio!!<FB>
+
+### 2937
+<F5 01>{1C}Se arriva la polizia,
+2|la maestra è morta!!<FB>
+
+### 2938
+<F5 02>bSquadra pesca, al
+2|lago. Attenzione!<FB>
+
+### 2939
+<F5 00>0La principessa Polly
+2|sconfiggerà le Cose
+3|Blu!<FB>
+
+### 2940
+…Ssst!! È un segreto,
+2|papà non deve saperlo!<FB>
+
+### 2941
+<F5 01>8Mio Re, è terribile!
+2|La principessa Polly…<FB>
+
+### 2942
+Indietro!! È una
+2|trappola!!<FB>
+
+### 2943
+Onore alla <FE 6D 1A>.
+2|Gli eroi di Polly!!<FB>
+
+### 2944
+<F2>La 4a e ultima
+2|Sfera di Cristallo!<FA>
+
+### 2945
+<F5 01>3È uscito qualcuno…
+2|Cosa c'è in quella stanza??<FB>
+
+### 2946
+Ehi, non entrate così
+2|nella nostra tenda!!<FB>
+
+### 2956
+Questo forziere è chiuso.
+2|Forse dentro c'è
+3|qualcosa di speciale.<FB>
+
+### 2958
+Solo a guardarlo,<P>
+2|si capisce che le
+3|chiavi rossa, blu o
+1|verde lo aprono.<P>
+1|Chi l'ha fatto doveva
+1|avere poca
+1|voglia…<FB>
+
+### 2961
+Un vecchio telefono…<FB>
+
+### 2962
+2| Non è rimasto niente!<FB>
+
+### 2963
+Chissà cosa c'è oltre
+2|qui.<FB>
+
+### 2964
+Accidenti, non riesco
+2|a mirare.
+3|Riproviamo.<FA>
+
+### 2965
+Bene, dovrebbe
+2|bastare!<FA>
+
+### 2966
+Parliamo quando sarete
+2|saliti quassù.<FB>
+
+### 2967
+Chissà se funziona
+2|ancora?<P>
+3|Porta <FE 6D 0C> sul numero
+1|da comporre.<P>
+1|Premi <FE 6D 02> e giralo
+1|con <FE 6D 08>.<FB>
+
+### 2968
+È una specie di
+2|tana di animale?<FB>
+
+### 2971
+S…O…S…
+2|È un SOS.<P>
+3|Qualcuno chiede
+1|aiuto?<FB>

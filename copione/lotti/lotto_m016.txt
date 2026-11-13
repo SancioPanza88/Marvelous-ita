@@ -1,0 +1,539 @@
+### 1300
+<FE 79>Muovi! <FE 6D 04> per annullare.
+2|        <FE 6D 42><FE>{7E}<FA>
+
+### 1301
+Fre… Fregati?!<FB>
+
+### 1302
+Inserite i numeri con
+2|<FE 6D 02> e premete OK
+3|quando avete finito!<FB>
+
+### 1303
+Eh!?
+2|Qualcosa non torna…<FB>
+
+### 1304
+Ci dev'essere un
+2|interruttore da qualche parte!<FB>
+
+### 1305
+Pii! pii!<P>
+2|TR<FC 1A> Toglietevi di mezzo
+3|o vi farete
+1|male!<FB>
+
+### 1306
+<FE 79>Muovi. <FE 6D 04> per annullare.
+2|        <FE 6D 42><FE>{7E}<FA>
+
+### 1307
+Avete trovato il mio
+2|punto debole!<P>
+3|Perdonatemi! Non farò
+1|mai più scherzi!<FA>
+
+### 1308
+Squit squit!<P>
+2|TR<FC 1A> E' la mia
+3|gloriosa coda!<P>
+1|Toccatela pure,
+1|non m'importa!<FB>
+
+### 1309
+Squiit~!<P>
+2|TR<FC 1A> Fa il solletico!
+3|Smettetela!<FB>
+
+### 1310
+Questo non riesco a
+2|sollevarlo… Forse
+3|lavorando insieme?<FB>
+
+### 1311
+Lo voglio proprio, ma
+2|non ci arrivo…<P>
+3|Forse c'è un modo
+1|per farlo cadere?<FB>
+
+### 1312
+Basta! Vi prego!
+2|Tutto ma non le
+3|orecchie…<FB>
+
+### 1313
+Beh, questo è proprio
+2|troppo da ignorare,
+3|vero…<FB>
+
+### 1314
+Ora è il momento…
+2|Scappiamo finché
+3|possiamo.<FB>
+
+### 1315
+Pieno di nutrimento!
+2|Potrebbe servire a
+3|recuperare salute.<P>
+1|Ma non si mangia se
+1|non si è
+1|feriti.<FB>
+
+### 1316
+Questo… dev'essere
+2|dove siamo adesso!
+3|<FB>
+
+### 1317
+Lo voglio prendere, ma
+2|è troppo lontano.<FB>
+
+### 1318
+C'entrano qualcosa con
+2|quelli che hanno preso
+3|la maestra, vero?<P>
+1|
+1|Inseguiamoli e
+1|scopriamolo!<FB>
+
+### 1319
+Una chiave!<FA>
+
+### 1320
+C'è scritto "Nave
+2|Pirata Lysander".<P>
+3|Il nome la fa sembrare
+1|molto più bella
+1|di quel che è.<FB>
+
+### 1321
+"Mio figlio Blue e
+2|la mamma di Blue"
+3|…C'è scritto qui.<FB>
+
+### 1322
+C'è il ritratto di
+2|un pirata.<FB>
+
+### 1323
+Combattere o fuggire?…
+2|
+3|……SCAPPAAAA!!<FB>
+
+### 1324
+Voi tonti non vorrete
+2|mica andare a cercare
+3|la maestra Gina,<P>
+1|vero?
+1|Non avete mai
+1|fatto a botte.<P>
+1|Scommetto che non
+1|sapete che con <FE 6D 14> si
+1|vede la salute,<P>
+1|eh?<P>
+1|Se la salute arriva
+1|a zero, è game
+1|over, amico!<P>
+1|Aspettate che arrivi
+1|la polizia.<P>
+1|La vita non è un
+1|videogioco, sapete.
+1|Ciao.<FA>
+
+### 1327
+2|<F2> Bene, è aperto!<FA>
+
+### 1328
+Mi sembra di aver già
+2|visto questo cartello
+3|"Vietato l'ingresso"…<FB>
+
+### 1329
+Sembra la tenda dove
+2|siamo adesso…<FB>
+
+### 1330
+La maestra Gina sarà
+2|nella grotta a nord!<FB>
+
+### 1331
+C'è un grande lago
+2|vicino alla grotta?
+3|Usiamolo come punto.<FB>
+
+### 1332
+Questo quadro è orrendo!
+2|La maestra Gina è
+3|molto più bella!<FB>
+
+### 1333
+E se mettessimo uno di
+2|noi a sinistra e uno
+3|a destra, <P>
+1|e l'ultimo sopra
+1|o sotto?
+1|<FB>
+
+### 1334
+I pirati hanno preso
+2|la "corda" e sono scappati.<P>
+3|Non so dove siano
+1|andati,<P>
+1|ma avranno lasciato
+1|impronte nella
+1|sabbia!<FA>
+
+### 1335
+Avete già aperto il
+2|forziere nella
+3|foresta?<P>
+1|Non c'era un forziere
+1|rosso?<P>
+1|Potrebbe esserci
+1|qualcosa di buono!<FA>
+
+### 1336
+Sotto questo albero
+2|c'è un cane che abbaia.<P>
+3|Sembra cattivo,
+1|colpiamolo con una
+1|palla…<P>
+1|Magari impara le
+1|buone maniere!<FA>
+
+### 1337
+Vi manca un ponte?
+2|
+3|<P>
+1|La foglia vicino al
+1|fiume era un po'
+1|secca, l'ultima volta…<P>
+1|Si dice che diventi
+1|enorme se la
+1|innaffi!<FA>
+
+### 1338
+Avete aperto il
+2|forziere rosso dove
+3|Winky vi ha salvato?<P>
+1|…Che peccato.<FA>
+
+### 1339
+Usate il
+2|"Martello"?<P>
+3|Provate a piantare il paletto<P>
+1|davanti al tubo!<P>
+1|Il tubo si sposta
+1|con <FE 6D 48>.<P>
+1|Buona fortuna~!<FA>
+
+### 1340
+2|  Grande, si è aperto!<FA>
+
+### 1341
+<FE 6A><F5 03>rPietre Fortuna!
+2|Ora ne hai <FE 6C>!<FA>
+
+### 1342
+C'è scritto "Pericolo!
+2|Vi FARETE male!"
+3|…Che facciamo?<FB>
+
+### 1343
+Oh, è il permesso
+2|ufficiale del
+3|Colonnello!<P>
+1|Come l'avete avuto?
+1|…E' vero, giusto?<P>
+1|Beh, va bene, passate
+1|pure.<FA>
+
+### 1344
+Dovrei sorprendermi
+2|un po' di più?<FB>
+
+### 1345
+Era un maschiaccio
+2|sboccato…<P>
+3|Ma ora che non c'è
+1|più mi sento un
+1|po' solo.<FA>
+
+### 1346
+Blub, glub!<P>
+2|TR<FC 1A> Non preoccupatevi,
+3|al lago ci torno
+1|da solo.<FB>
+
+### 1347
+Presto, mostrate
+2|l'"Amo" al nostro
+3|capo!<FB>
+
+### 1348
+Capisco…
+2|Proprio come pensavo!<P>
+3|Oh, scusate, in realtà
+1|non ne ho idea.<FB>
+
+### 1349
+Presto, scegliete
+2|l'"Amo" dal
+3|pannello <FE 6D 4A>.<P>
+1|Usatelo col tasto <FE 6D 02>
+1|.<FB>
+
+### 1350
+Dobbiamo chiamare la
+2|polizia sulla
+3|terraferma.<P>
+1|Il campo è finito.<P>
+1|Torniamo insieme
+1|sulla terraferma,
+1|d'accordo?<FB>
+
+### 1351
+Vi ho giudicati male!<P>
+2|Ma chi è l'idiota
+3|che gli ha rubato
+1|il tesoro?<FB>
+
+### 1352
+Chissà cosa c'è per
+2|pranzo…?
+3|<P>
+1|…Non è a questo che
+1|dovrei pensare
+1|adesso!<FB>
+
+### 1353
+In questa serratura
+2|entrerà una piccola Chiave Rossa!<FB>
+
+### 1354
+In questa serratura
+2|entrerà una Chiave
+3|Blu lunga e sottile.<FB>
+
+### 1355
+In questa serratura
+2|entrerà una Chiave
+3|Verde grande grande!<FB>
+
+### 1356
+In questa serratura
+2|va bene ogni chiave!<FB>
+
+### 1357
+<F2>Dorothy ha ricevuto
+2|la Legna!<P>
+3|Ehm… Cosa?<FA>
+
+### 1358
+Ehi voi!
+2|Ma guarda, è la
+3|squadra <FE 6D 1A>!<P>
+1|Allora non siete
+1|ancora morti!<FA>
+
+### 1359
+A guardare meglio,
+2|se ne vedono
+3|tre…<FB>
+
+### 1360
+2| Perché non si apre?<FB>
+
+### 1361
+Qualcosa non va.
+2|Mettetevi su 3 lati
+3|del masso e premete <FE 6D 48>!<P>
+1|E' l'unico modo.<FA>
+
+### 1362
+Qualcosa non va.
+2|Uno sopra, due sotto,
+3|e premete <FE 6D 48>!<P>
+1|E' l'unico modo.<FA>
+
+### 1363
+Per fare squadra,
+2|dobbiamo metterci
+3|in posizione migliore!<FA>
+
+### 1364
+Per un consiglio,
+2|scegliete la Pietra
+3|dal menu <FE 6D 4A>!<FB>
+
+### 1365
+Presto, tornate alla
+2|nave!<P>
+3|Ma se volete altre
+1|Pietre Fortuna,
+1|provate una casa in città.<P>
+1|Buona fortuna~!<FA>
+
+### 1366
+Avete trovato una tenda?<P>
+2|Ascoltate quello che
+3|dice l'adulto che c'è
+1|dentro!<FA>
+
+### 1367
+Per proseguire nella
+2|grotta sotterranea<FC 1A><P>
+3|Serve una persona
+1|che azioni la
+1|macchina.<P>
+1|Gli altri possono
+1|andare avanti.<P>
+1|L'interruttore è
+1|accanto alla saracinesca,
+1|non perdetelo~!<FA>
+
+### 1368
+Il capo delle scimmie
+2|bulle è un gorilla.<P>
+3|Scommetto che sarebbe
+1|felice se registraste
+1|la voce di una gorilla…<P>
+1|E gliela faceste
+1|sentire!<FA>
+
+### 1369
+Grazie, tornate~!
+2|Ricevute <FE 6B> Pietre
+3|Fortuna!<FA>
+
+### 1370
+2|Chi sarà?!<FB>
+
+### 1371
+E' pericoloso, non
+2|dovreste proprio andarci!<FB>
+
+### 1372
+L'isola del campo è
+2|da questa parte!
+3|Aspettateci…!<P>
+1|…Maestra Gina!!<FB>
+
+### 1373
+…A proposito, chi ha
+2|il registratore? <P>
+3|Mi spiace chiedere,
+1|ma potreste
+1|ridarmelo?<FB>
+
+### 1374
+Se volete sapere del
+2|paese, perché non
+3|chiedete allo sceriffo?<FA>
+
+### 1375
+I fiori mostro del
+2|"Lago della Morte" si
+3|battono in due mosse.
+1|Prima calciate le
+1|radici che si
+1|agitano…<P>
+1|Poi colpite il fiore
+1|quando si
+1|apre~!<FA>
+
+### 1376
+Avete ascoltato la
+2|richiesta della figlia
+3|di Indio a est?<P>
+1|La maestra non vi ha
+1|detto di aiutare
+1|chi ha bisogno~!?<FA>
+
+### 1377
+In paese ci dev'essere
+2|un negozio d'acqua.<P>
+3|Se gli mostrate quella
+1|foto, scommetto che
+1|si sorprenderà!<FA>
+
+### 1378
+La vecchietta accanto
+2|è nei guai. Perché
+3|non le date una mano?<FA>
+
+### 1379
+Pare che Indio, catturato,
+2|avesse qualcosa
+3|da dire!<P>
+1|…Perché non lo
+1|ascoltate?<FA>
+
+### 1380
+Ho visto l'uomo di cui
+2|parlava Indio a est
+3|del lago.<FA>
+
+### 1381
+Pinguini e umani si
+2|attraggono tra
+3|simili.<P>
+1|Trovate pinguini che
+1|si muovono allo stesso modo.<P>
+1|Di sicuro formeranno
+1|delle belle coppie.<FA>
+
+### 1382
+"Macchina Scavabuchi"
+2|Fatta di rottami!<P>
+3|Non abbiamo visto dei
+1|pezzi a casa
+1|dell'idraulico?<FA>
+
+### 1383
+Avete provato a scavare
+2|3 buche? Una buca è
+3|bloccata da una mucca…<P>
+1|Ma se le fate il
+1|solletico al naso,
+1|si sposta.<FA>
+
+### 1384
+Per cacciare lo
+2|sceriffo, vi serve
+3|una Rana!<P>
+1|La Rana si prende
+1|con la Canna da Pesca.<P>
+1|Ma non basta lanciarla
+1|a caso!<P>
+1|Lanciatela su una
+1|foglia, poi guardate
+1|come reagisce la Rana.<P>
+1|Scusate se lo
+1|sapevate già~!<FA>
+
+### 1385
+Benson si nasconde in
+2|una casa vuota.<P>
+3|Ma non si entra se
+1|la casa non è
+1|costruita con la porta.<FA>
+
+### 1386
+2| E' l'unico modo!<FB>
+
+### 1387
+Esaminate le cose
+2|col tasto
+3|<FE 6D 02>?<FA>
+
+### 1388
+Fatevi un salto nel tempo!<FA>
+
+### 1389
+Per fortuna, la tavola
+2|bloccava solo la
+3|parte di sopra.
+1|Quella di sotto è
+1|ancora aperta…<FB>

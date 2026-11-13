@@ -1,0 +1,582 @@
+### 0425
+Squit squit…<P>
+2|TR<FC 1A> Mah, ne ho
+3|mangiati di migliori…<FB>
+
+### 0426
+…Cosa?
+2|Se state laggiù non
+3|vi sento!<FB>
+
+### 0427
+Così non posso fare il
+2|mio lavoro!<P>
+3|Potete entrare e
+1|convincere il signor
+1|Smith a farmi rientrare?<FE 6A><P>
+1|    Va bene.
+1|    Non mi va.<FE 68><FA>
+
+### 0428
+Grazie mille! Passate
+2|da me più tardi e vi
+3|darò una ricompensa.<P>
+1|Ah, credo che ci siano
+1|molte Pietre Fortuna
+1|nell'albero a ovest.<P>
+1|Bene, ci vediamo
+1|dopo, ragazzi!<FA>
+
+### 0429
+Non fate così!<P>
+2|Dentro c'è solo un
+3|cagnolino carino,
+1|niente paura.<P>
+1|Io torno al villaggio,
+1|
+1|<P>
+1|ma se passate più
+1|tardi, vi darò una
+1|ricompensa!<P>
+1|
+1| E' una cosa bella!
+1|<FA>
+
+### 0430
+<F2>Avete il vecchio
+2|Formaggio coi Buchi!<P>
+3|Solo Max o un topo
+1|lo considererebbero
+1|una ricompensa…<FA>
+
+### 0431
+Se non avete niente
+2|da dire, fuori
+3|di qui!<FB>
+
+### 0432
+E'… E' sparito?!<FB>
+
+### 0433
+Questo cane…
+2|Ha qualcosa di strano?!<FB>
+
+### 0434
+Si… Si muove!<FB>
+
+### 0435
+Dentro il collare c'è
+2|scritto "Socks".<P>
+3|Questo dev'essere il
+1|vero Socks.<P>
+1|Allora chi era
+1|l'altro cane che
+1|abbiamo visto…?<FB>
+
+### 0436
+Niente da fare!
+2|La linea è occupata…<FB>
+
+### 0437
+Ehi, il ring è
+2|laggiù.<FB>
+
+### 0438
+All'improvviso, la nave
+2|si accosta!!!<FB>
+
+### 0439
+Fiuu, c'è mancato
+2|poco…
+3|<F5 01>3Eeh?<FA>
+
+### 0440
+…Perché siete venuti
+2|qui?!<FB>
+
+### 0441
+Per colpa vostra sono
+2|lo zimbello
+3|del regno!<P>
+1|Non vi perdonerò
+1|mai!<FB>
+
+### 0442
+Avete scatenato l'ira
+2|del re.<P>
+3|Venite con me a
+1|scontare la vostra
+1|punizione.<FA>
+
+### 0443
+Sono contento che la
+2|principessa sia tornata,<P>
+3|ma le cose si fanno
+1|sempre più
+1|strane.<P>
+1|Solomon sembra un po'
+1|giù…<FB>
+
+### 0444
+Avete già parlato
+2|con Solomon?
+3|Parla da smidollato,<P>
+1|ma è uno dei
+1|guerrieri migliori
+1|del regno.<FB>
+
+### 0445
+Sotto terra vivono
+2|animali misteriosi
+3|di ogni tipo.<P>
+1|Forse voi criminali
+1|diventerete la loro
+1|merenda…<P>
+1|Che peccato.<FB>
+
+### 0446
+Prima quel maschiaccio
+2|fa un gran baccano
+3|scappando di casa<P>
+1|e poi torna a
+1|passeggio con
+1|tre criminali.<P>
+1|La principessa Polly
+1|è proprio una peste…<FB>
+
+### 0447
+Scommetto che vi siete
+2|sorpresi a vedere
+3|il re, vero?<P>
+1|In questo regno fa
+1|sempre molto caldo.<P>
+1|Perché non si toglie
+1|quella veste pesante?<FB>
+
+### 0448
+Oltre alle "Cose Blu"
+2|ci sono molti
+3|insetti giganti,<P>
+1|ma solo le formiche
+1|hanno formato un
+1|esercito e ci attaccano.<FB>
+
+### 0449
+Anche se le formiche
+2|vogliono attaccare,<P>
+3|non possono, grazie al
+1|rimedio miracoloso,
+1|l'Antiformiche!<P>
+1|Se riesco a finirne
+1|la produzione, la
+1|minaccia sarà sventata.<P>
+1|
+1|Quindi, come vostra
+1|punizione…<P>
+1|Dovrete cercare gli
+1|ingredienti nella
+1|foresta pericolosa.<P>
+1|La principessa dice
+1|che siete tre
+1|avventurieri capaci,<P>
+1|pronti a qualsiasi
+1|sfida, quindi spero
+1|per il meglio.<P>
+1|Non è solo una
+1|punizione, è anche
+1|una mia supplica.<P>
+1|Se ci riuscite, sono
+1|sicuro che<P>
+1|il re rivedrà la
+1|vostra condanna.<P>
+1|  Mi aiuterete?<FE 6A>
+1|    Va bene
+1|    Neanche per sogno!<FE 68><FA>
+
+### 0450
+Vi prego.
+2|Se mi aiutate a
+3|preparare l'Antiformiche,<P>
+1|di sicuro il re vi
+1|perdonerà.<P>
+1|  Sì o no?<FE 6A>
+1|    Sì.
+1|    No!<FE 68><FA>
+
+### 0451
+Mi dispiace molto
+2|sentirlo.<P>
+3|Secondo la legge,
+1|sarete dati in pasto
+1|alle formiche.
+1|…Mi dispiace davvero
+1|farlo, ma…
+1|<FA>
+
+### 0452
+Ma che coraggiosi
+2|ragazzini!<P>
+3|Bene, non posso
+1|lasciarvi andare via
+1|tutti e tre insieme,<P>
+1|ma potete aprire
+1|il cancello lì
+1|a destra.<FA>
+
+### 0453
+Chi resta indietro
+2|deve stare al centro
+3|della cella<P>
+1|sul blocco illuminato.
+1|Così il cancello si
+1|apre e si chiude.<FB>
+
+### 0454
+Dovete procurarvi 5
+2|cose. Leggete la
+3|lavagna per i dettagli.<P>
+1|Ricordatevele bene.
+1|
+1|<FB>
+
+### 0455
+Questo piccolo regno
+2|sarebbe travolto
+3|del tutto,<P>
+1|se le formiche
+1|attaccassero domani…<FB>
+
+### 0456
+Ascoltate bene la
+2|condanna di Hassan e
+3|pentitevi!<FB>
+
+### 0457
+Se non torno a casa
+2|presto, la mamma scopre
+3|che non sono a letto,<P>
+1|quindi ciao, ragazzi!!<FA>
+
+### 0458
+Non dovete scappare.<P>
+2|Se lo fate, chi resta
+3|indietro finirà in
+1|pasto alle "Cose Blu".<FB>
+
+### 0459
+Andate nella foresta?
+2|
+3|<P>
+1|Forse è meglio essere
+1|mangiati dalle "Cose
+1|Blu"…<P>
+1|Ehm… Cioè…
+1|Lasciate stare.<FB>
+
+### 0460
+La principessa Polly
+2|si è ritirata nelle
+3|sue stanze.<P>
+1|Se volete vederla,
+1|vi serve il permesso
+1|di Solomon.<FB>
+
+### 0461
+Solomon è in città
+2|per delle commissioni.<P>
+3|Sarà a casa
+1|dell'artista Caesar
+1|O Enai.<FB>
+
+### 0462
+Sempre più persone
+2|tornano ferite
+3|dalla foresta.<P>
+1|Voi ragazzi state
+1|attenti.<FB>
+
+### 0463
+Q… Quasi morivo!…
+2|Io non ci vado…<P>
+3|I… In realtà odio
+1|proprio questo
+1|incarico!<FB>
+
+### 0464
+Tanto tempo fa, questa
+2|città era molto più
+3|grande.<P>
+1|Una notte, quasi tutte
+1|le case sono
+1|sparite.<FB>
+
+### 0465
+Ho sentito dire che
+2|dall'altra parte della
+3|foresta gigante,<P>
+1|c'è una città di
+1|giganti. Venite
+1|da lì?<FB>
+
+### 0466
+<F5 01>6Cra, cra.<P>
+2|TR<FC 1A> Nello stagno
+3|passa la
+1|corrente,<P>
+1|quindi non posso entrare.<P>
+1|Fate qualcosa!<P>
+1|Se lo fate, vi darò
+1|quello che volete.<P>
+1|Promesso, cra.<FB>
+
+### 0467
+<F5 01>6Cra, craaa?<P>
+2|TR<FC 1A> Cosa? Volete la mia
+3|coda? Ma di cosa
+1|state parlando?<P>
+1|Non ho promesso
+1|niente!<P>
+1|E poi, io la coda
+1|non ce l'ho, cra!<FB>
+
+### 0468
+<F5 01>6Cra-cra-cra!!<P>
+2|TR<FC 1A> Scusate!! Non
+3|volevo imbrogliarvi!!
+1|<P>
+1|Prendete la mia coda,
+1|e spegnete quella
+1|corrente, cra!!<FA>
+
+### 0469
+<F2>Avete ricevuto la
+2|Coda di Rana!<P>
+3|L'avrà tenuta da
+1|quando era un
+1|girino.<P>
+1|E' ancora un po'
+1|elettrica.<FA>
+
+### 0470
+<F5 01>6Cra-cra-cra!!<P>
+2|TR<FC 1A> Scusate! Parlo
+3|se vi avvicinate!
+1|<FB>
+
+### 0471
+<F5 01>6Crazzzzz!!<P>
+2|TR<FC 1A> Vi prego! Spegnete!!
+3|Crazzzzz!!<FB>
+
+### 0472
+<F5 01>6Cra, cra.<P>
+2|TR<FC 1A> Quella coda era
+3|il mio tesoro, usatela
+1|bene!<FB>
+
+### 0473
+Se volete andare, non
+2|vi fermerò.<P>
+3|Ma fareste bene ad
+1|ascoltare quello che
+1|dice un cactus!<P>
+1|Eccone una…
+1|
+1|<P>
+1|Gambe grosse, niente
+1|strada, si apre.
+1|            del Cactus<FB>
+
+### 0474
+E' l'ultima occasione.
+2|Quale vaso?<FA>
+
+### 0475
+Non mentite a un
+2|adulto! Il miele è mio.
+3|Qualche problema??<P>
+1|Mi pareva.<FA>
+
+### 0476
+Dovreste ascoltare
+2|quello che dice un
+3|cactus!<P>
+1|Ecco un verso…
+1|
+1|<P>
+1|Calcia l'erba, fai
+1|la strada e passa.
+1|            del Cactus<FB>
+
+### 0477
+<F2>Gooooool!<P>
+2|Congratulazioni!
+3|Diamo forma a
+1|questa emozione.<FA>
+
+### 0478
+E va bene, prendila,
+2|ladro!<FA>
+
+### 0479
+Ecco un verso…
+2|
+3|<P>
+1|Ingresso della grotta,
+1|sotto il villaggio.
+1|            del Cactus<FB>
+
+### 0480
+Mymy, my, my!<P>
+2|TR<FC 1A> Se cercate una
+3|casa nuova, provate
+1|"Mymy Casa"!<FB>
+
+### 0481
+Mymy, my, my amico!<P>
+2|TR<FC 1A> Non voglio che
+3|sentano tutti, quindi
+1|avvicinati, amico!<FB>
+
+### 0482
+Mymy, mymy, mymy, my.<P>
+2|TR<FC 1A> A me non piace
+3|niente di "Mymy
+1|Casa",<P>
+1|ma voglio comunque
+1|una casa nuova.<P>
+1|Ho sentito che c'è un
+1|negozio umano con
+1|ogni oggetto possibile…<FB>
+
+### 0483
+Mymy, my, my.<P>
+2|TR<FC 1A> Mi dispiace
+3|tanto, ma le case umane
+1|non le teniamo.<FB>
+
+### 0484
+My? My, my!<P>
+2|TR<FC 1A> Mi date quella
+3|bella casa?
+1|Sembra fantastica!<FA>
+
+### 0485
+<F5 03>ZMy, my. Mymy.<P>
+2|TR<FC 1A> E' carina… ma se
+3|piove, mi bagno tutto.
+1|Mi spiace.<FA>
+
+### 0486
+My? My, my.<P>
+2|TR<FC 1A> Mi date quella
+3|bella casa rotonda?
+1|Sembra fantastica!<FA>
+
+### 0487
+<F5 03>ZMy, my… My.<P>
+2|TR<FC 1A> E' abbastanza
+3|comoda… ma un po'
+1|puzza.<FA>
+
+### 0488
+My? My, my!<P>
+2|TR<FC 1A> Mi date quella
+3|casa morbida?
+1|Sembra fantastica!<FA>
+
+### 0489
+<F5 03>ZMy, my. My?<P>
+2|TR<FC 1A> Ma non è molto
+3|solida, sapete?
+1|<FA>
+
+### 0490
+My? My, my!<P>
+2|TR<FC 1A> Mi date quella
+3|bella casa?
+1|Sembra fantastica!<FA>
+
+### 0491
+<F5 03>ZMy! My, my, mymymy.<P>
+2|TR<FC 1A> E' questa! E'
+3|proprio quella che volevo!<P>
+1|Grazie, grazie mille
+1|per questa casa
+1|nuova!<P>
+1|Vi do quella
+1|vecchia…
+1|Scusate se è usata.<FA>
+
+### 0492
+<F2>Avete la Conchiglia
+2|Silvana!<P>
+3|Una casa esigente di
+1|una lumaca esigente.<FA>
+
+### 0493
+Mymy, mymy, my.<P>
+2|TR<FC 1A> Se vi serve una
+3|casa nuova, scegliete
+1|"Mymy Casa".<FB>
+
+### 0494
+…Viandante, vuoi fare
+2|uno scambio?<P>
+3|Puoi avere tutto quello
+1|che c'è sul bancone.
+1|Scegli pure.<FB>
+
+### 0495
+Hai buon occhio,
+2|eh?<P>
+3|Quella pentola è una
+1|pentola antiproiettile<P>
+1|che il grande Napoleone
+1|portava sotto il cappello.<P>
+1|Ti piace?
+1|Lo so che la vuoi.
+1|<P>
+1|Scegli cosa scambiare
+1|con <FE 6D 4A>.<FB>
+
+### 0496
+Sbrigatevi a portare
+2|la legna! Avete
+3|una bella faccia tosta!<FB>
+
+### 0497
+Hai proprio occhio.<P>
+2|Lo shogun di un
+3|paese chiamato Yapan<P>
+1|nascondeva quel vaso
+1|nel suo tesoro segreto.<P>
+1|Ti piace?
+1|Se lo vuoi,<P>
+1|scegli un oggetto
+1|da scambiare dal
+1|pannello <FE 6D 4A>.<FB>
+
+### 0498
+Vedo… B…
+2|Benson…<FB>
+
+### 0499
+Sei un cliente
+2|furbo, eh?<P>
+3|Quel cappello l'ha
+1|usato uno chef in un<P>
+1|ristorante francese a
+1|tre stelle per 30 anni!<P>
+1|Ti stuzzica?
+1|
+1|Se lo vuoi,<P>
+1|scegli un oggetto
+1|da scambiare dal
+1|pannello <FE 6D 4A>.<FB>
+
+### 0500
+Sem… Sembra vero!
+2|Come è possibile?!<P>
+3|Dev'essere la mia
+1|immaginazione!<FB>

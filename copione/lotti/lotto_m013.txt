@@ -1,0 +1,412 @@
+### 1030
+Se lo tiriamo così,
+2|finiamo
+3|schiacciati!<FB>
+
+### 1031
+Vuoi scendere?<FB>
+
+### 1032
+Senza un ponte non
+2|si passa.<FB>
+
+### 1033
+Capitano, perché tanta
+2|fretta?<P>
+3|…Ma anche di fretta,
+1|che bella faccia!
+1|<FB>
+
+### 1034
+Chissà se succede
+2|qualcosa se gli
+3|do una botta.<FB>
+
+### 1035
+Rakko, rakko.<P>
+2|TR<FC 1A> Mi spavento
+3|facilmente, attenti!<FB>
+
+### 1036
+Rakko, rakko.<P>
+2|TR<FC 1A> Mi spavento
+3|facilmente, attenti!<FB>
+
+### 1037
+Se non vi sbrigate,
+2|i Fratelli Mammut
+3|vi prenderanno!<FB>
+
+### 1038
+Avete del fegato a
+2|provare a rubarci
+3|qualcosa!<P>
+1|Ehi tu!
+1|Il teppista col
+1|cappello…!<P>
+1|Sarai il primo ad
+1|assaggiare la nostra
+1|Danza della Morte!!<FA>
+
+### 1039
+Allora sei tu il capo?!<FB>
+
+### 1040
+Non crediate di
+2|sfuggirci!<FB>
+
+### 1042
+Ascoltate cosa
+2|dicono!<FB>
+
+### 1043
+Se non spingete in
+2|fretta, i Mammut
+3|si sveglieranno.<FB>
+
+### 1044
+Se tornate nell'altro
+2|mondo, venite a
+3|trovarmi, eh?<FB>
+
+### 1045
+Se tornate nell'altro
+2|mondo, venite a
+3|trovarmi, eh?<FB>
+
+### 1046
+Meno male che è stato
+2|giudicato innocente!<FB>
+
+### 1047
+E' un messaggio che
+2|Benson ci ha lasciato!
+3|…Cosa vorrà dire?<FB>
+
+### 1048
+C'è qualcosa?<FB>
+
+### 1049
+Venite a guardare
+2|il progetto!<FB>
+
+### 1050
+Che foto è
+2|questa…?<FB>
+
+### 1051
+Oh, è Benson!<FB>
+
+### 1052
+Indio venne da Benson.
+2|Disse che il paese
+3|era nei guai.<FB>
+
+### 1053
+Come si chiama la
+2|Sfera che porta al
+3|Tesoro di Maverick?<P>
+1|Si chiama Sfera
+1|Blu Blu, giusto?<FB>
+
+### 1054
+Mmm… Che foto è
+2|questa?<FB>
+
+### 1055
+Ma guarda, è
+2|Benson!<FB>
+
+### 1056
+E' una foto di quando
+2|Indio incontrò Benson!<FB>
+
+### 1057
+Il "Tesoro del Paese"
+2|era a casa di Benson…
+3|Ca… Etciù!!! Casa.<P>
+1|Ne sono sicuro.<FB>
+
+### 1058
+Cos'è questa
+2|foto?<FB>
+
+### 1059
+E' Benson!
+2|Era un uomo forte e
+3|in gamba.<FB>
+
+### 1060
+E' Indio!<P>
+2|Vive dall'altra parte
+3|del lago dei pinguini
+1|con sua figlia.<FB>
+
+### 1061
+E' il "Tesoro del
+2|Paese".<P>
+3|Ma Indio diceva che
+1|era un pezzo di
+1|macchina del tempo.<FB>
+
+### 1062
+Dove avete preso
+2|questa foto?!<FB>
+
+### 1063
+E' mio marito. Quando
+2|avrà fatto questa
+3|foto…?<FB>
+
+### 1064
+E' l'uomo che venne
+2|a trovare mio marito.<P>
+3|Diceva di saper
+1|viaggiare nel tempo…<P>
+1|Chissà se era
+1|vero.<FB>
+
+### 1065
+E' la Sfera di Cristallo
+2|che trovò mio marito.<FB>
+
+### 1066
+Che foto è questa?!<FB>
+
+### 1067
+E' il mio papà!<FB>
+
+### 1068
+Boh!<FB>
+
+### 1069
+Non ne ho la più
+2|pallida idea!<FB>
+
+### 1070
+Cos'è questa foto?<FB>
+
+### 1071
+E' il vecchio che ci
+2|ha prestato la casa!<FB>
+
+### 1072
+E' mio padre! Adesso
+2|non c'è.<FB>
+
+### 1073
+Ormai solo Dio può
+2|averlo!<FB>
+
+### 1074
+Pii, pii.<P>
+2|TR<FC 1A> Mamma! Mamma!<FB>
+
+### 1075
+Flu, flu, flu.<P>
+2|TR<FC 1A> Dio del tempo,
+3|porta quell'uomo nel<P>
+1|futuro~.<FB>
+
+### 1076
+Chissà se c'entra
+2|qualcosa con quel
+3|salto nel tempo…?<FB>
+
+### 1077
+Senza una nave, questi
+2|non sembrano
+3|proprio pirati…<FB>
+
+### 1078
+Sono su di giri!!<FA>
+
+### 1079
+…Non ci capisco
+2|molto.<P>
+3|Ma dobbiamo restare
+1|calmi…. E andarcene
+1|in fretta!<FB>
+
+### 1080
+I Patchies erano
+2|tre gemelli…!<FB>
+
+### 1081
+"Come Fare il Pirata"
+2|Sembra una bella
+3|lettura.<FB>
+
+### 1082
+Ne voglio un
+2|pochino!<FB>
+
+### 1083
+Anche noi vogliamo
+2|dormire in un letto~.<FB>
+
+### 1084
+Vi immaginate a
+2|spostarne uno?!
+3|<FB>
+
+### 1085
+Questa non è roba
+2|da pirati, vero…?<FB>
+
+### 1086
+Chissà se si
+2|usa ancora.<FB>
+
+### 1087
+Questa sedia sembra
+2|parecchio dura.<FB>
+
+### 1088
+Questo sarà un tappeto
+2|da pirati…?<P>
+3|Nah… Sarebbe una
+1|stupidaggine.
+1|<FB>
+
+### 1089
+<FE 6A><F5 00>{D3}
+2| Aspetti, maestra!
+3|<P>
+1|    Resto io! Deon
+1|    Resto io! Max
+1|    Resto io! Jack<FE 6E><FA>
+
+### 1090
+Che foto è questa?!<FB>
+
+### 1091
+Ehi, il nostro capo!<FB>
+
+### 1092
+Non lo so!<FB>
+
+### 1093
+Un tesoro!<FB>
+
+### 1094
+Che foto è questa?<FB>
+
+### 1095
+Oh! Il nostro capo!<FB>
+
+### 1096
+Non lo so, ma è
+2|proprio un bel tipo.<FB>
+
+### 1097
+Un tesoro!<FB>
+
+### 1098
+Gu gu ga…<FB>
+
+### 1099
+Uèè! uèè!
+2|…Ha un
+3|incubo.<FB>
+
+### 1100
+Gu gu.<FB>
+
+### 1101
+Evviva! Urrà!<P>
+2|…Hanno visto il
+3|tesoro e si sono messi
+1|a esultare.<FB>
+
+### 1102
+Cra. Cra.<P>
+2|TR<FC 1A> Patetico.<FB>
+
+### 1103
+E' proprio da
+2|Sisko!<P>
+3|Suo padre era un brav'
+1|uomo, e lei ha lo
+1|stesso sangue.<FB>
+
+### 1104
+Che pace~!<FB>
+
+### 1105
+Grazie a quei due,
+2|sono diventato sindaco.<FB>
+
+### 1106
+Mio marito una volta
+2|mi parlò di certi
+3|ragazzi eroici.<P>
+1|Ora che ho una storia
+1|da raccontargli, sarà
+1|di sicuro contento.<FB>
+
+### 1107
+Il nostro paese è
+2|prosperato grazie a
+3|Benson e Indio!<FB>
+
+### 1108
+La figlia di Indio
+2|fa la maestra.<P>
+3|E' molto rispettabile,
+1|proprio come il padre.<P>
+1|Il figlio di Benson…
+1|Beh… Nessuno sa
+1|dove sia finito.<FB>
+
+### 1109
+La signorina Sisko
+2|ricorda la maestra Gina.<FB>
+
+### 1110
+Studiare va benissimo.
+2|
+3|<P>
+1|Ma a volte bisogna
+1|giocare all'aperto!<FB>
+
+### 1111
+Che bello studiare
+2|sotto il grande
+3|cielo blu.<FB>
+
+### 1112
+Questa è la classe
+2|di Sisko, ma lei
+3|è in ritardo~…<FB>
+
+### 1113
+Se non vi piace
+2|studiare, provate le
+3|lezioni della Sisko!<P>
+1|Si capiscono
+1|benissimo.<FB>
+
+### 1114
+Ehi, la signorina Sisko
+2|non è meravigliosa?<FB>
+
+### 1115
+La signorina Sisko è
+2|una gran maestra, eh?<FB>
+
+### 1116
+Tornati a casa,
+2|salutatemi la vostra
+3|maestra.<FB>
+
+### 1117
+Non è una casa
+2|stupenda?<FB>
+
+### 1118
+Qui comincia la
+2|vita!<FB>
+
+### 1119
+2|  Ehi!<FE 6D 56> Aspettatemi!<FB>

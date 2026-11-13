@@ -1,0 +1,486 @@
+### 1480
+Tu?
+2|Non credo proprio.
+3|Ah!<FB>
+
+### 1481
+Una volta era una
+2|piantina carina
+3|come questa.<FB>
+
+### 1482
+…Sembra una
+2|mappa.<P>
+3|I numeri saranno…
+1|Numeri di piano?
+1|…Ce ne sono due.<FB>
+
+### 1483
+All'inizio non
+2|volevo… <FB>
+
+### 1484
+Ci sono tante spine
+2|che sembrano
+3|dolorose.<FB>
+
+### 1485
+Non avete qualcosa
+2|che possa
+3|servire?<FB>
+
+### 1486
+Non vi viene la
+2|pelle d'oca?!<FB>
+
+### 1487
+Chissà perché…
+2|Ho voglia di picchiarlo.<FB>
+
+### 1488
+Aha, meno male che ho
+2|portato di nascosto
+3|gli occhialini!<P>
+1|Sono l'unico che può
+1|godersi questa
+1|esperienza fantastica.<P>
+1|Scusate, ma ora
+1|vado di nuovo a
+1|immergermi…<FA>
+
+### 1489
+Ho perso gli occhialini…
+2|…Mi sa che guarderò
+3|loro che pescano.<FA>
+
+### 1490
+2|…I miei… Occhialini!<FB>
+
+### 1491
+Lo sapevate che per
+2|guardare le cose
+3|lontane,<P>
+1|potete premere <FE 6D 02> e
+1|spostare <FE 6D 0C> su
+1|quello che vi interessa,<P>
+1|e poi premere <FE 6D 02> per
+1|esaminarlo?<FB>
+
+### 1492
+Che fame~…
+2|Datemi da mangiare~…<P>
+3|Dai, non state lì
+1|impalati!<FB>
+
+### 1493
+Che fame~…
+2|Datemi da mangiare~…<P>
+3|Ancora una volta!<FB>
+
+### 1494
+Squadra <FE 6D 1A>, state
+2|usando <FE 6D 48>?<FB>
+
+### 1495
+Ho così fame che
+2|morirò qui.<FB>
+
+### 1496
+Canticchio!
+2|Mmm~… Mmm~… Mmm~!<FB>
+
+### 1497
+Sono… sono così felice.<FB>
+
+### 1498
+Sono… così felice~.
+2|Eheh~…<FB>
+
+### 1499
+Quelle scarpe sono
+2|niente male.<P>
+3|Provate a calciare
+1|un sacco di cose.<FB>
+
+### 1500
+Vuoi annusare?<FB>
+
+### 1501
+Se siete maschi, perché
+2|non esplorate un po'
+3|l'isola?<P>
+1|Almeno uscite di
+1|qui!<FB>
+
+### 1502
+…Cosa vorrà dire
+2|questa stella?<P>
+3|C'è qualcosa di
+1|speciale qui?<FB>
+
+### 1503
+…Questo sembra
+2|indicare dove
+3|siamo…<FB>
+
+### 1504
+Smettila di frignare
+2|e vai a cercarla!<FB>
+
+### 1505
+Cosa?… Avete proprio
+2|l'aria colpevole!
+3|Beh, fa niente…<P>
+1|Finché non torna la
+1|maestra Gina,<P>
+1|entrate in tenda e
+1|ascoltate la noiosa
+1|lezione del testone.<FA>
+
+### 1506
+Portate qui gli altri
+2|ragazzi.<FB>
+
+### 1507
+Aspettate…
+2|Non ditemi che!<P>
+3|State davvero andando
+1|a cercare la maestra
+1|Gina, vero?…<P>
+1|
+1|………………
+1|<P>
+1|Va bene, se ci andate,
+1|almeno prendete
+1|questi walkie-talkie.<FA>
+
+### 1508
+Quando la squadra è
+2|troppo lontana per
+3|sentire il fischietto,<P>
+1|equipaggiate questo e
+1|usate il tasto <FE 6D 04>.<FA>
+
+### 1509
+Dovreste chiamare la
+2|terraferma e basta.<P>
+3|Tanto vale aspettare
+1|che se ne occupino
+1|gli adulti.<FB>
+
+### 1510
+Kii-kii!!<P>
+2|TR<FC 1A> Siete con
+3|loro!?<P>
+1|Non mi prenderete
+1|mai vivo!!<FA>
+
+### 1511
+Cippù.<P>
+2|TR<FC 1A> Ehi, aspettate!!<FA>
+
+### 1512
+Winky, vuoi davvero
+2|dare quelle chiavi
+3|a questi ragazzi?<FA>
+
+### 1513
+Uuuki aah!<P>
+2|TR<FC 1A> Sì, credo che
+3|siano tutti bravi
+1|ragazzi.<FA>
+
+### 1514
+Mii miuu.<P>
+2|TR<FC 1A> Va bene, venite
+3|a prendere la pelliccia.<FB>
+
+### 1515
+Ricordatevi di
+2|registrare tutto nel
+3|"Diario".<P>
+1|Se ve lo scordate e
+1|finite nei guai, non
+1|dite che non vi ho avvisati.<FB>
+
+### 1516
+A guardare bene,
+2|potrebbe essere un
+3|interruttore…<FB>
+
+### 1517
+Forse se ci mettiamo
+2|del combustibile, la
+3|nave si muove…<FB>
+
+### 1518
+E' pieno di fuliggine.
+2|Coff coff<FB>
+
+### 1519
+Avete solo <FE 6B> PF.
+2|Non basta~.<FB>
+
+### 1520
+Avete <FE 6B> Pietre
+2|Fortuna!<FA>
+
+### 1521
+Avete <FE 6B> Pietre
+2|    Mettetele!
+3|    Non ancora.<FE 68><FA>
+
+### 1522
+Che pietre strane,
+2|le Pietre Fortuna~.<FB>
+
+### 1523
+Sembra che sotto
+2|questo masso ci sia
+3|qualcosa di nascosto.<FB>
+
+### 1524
+Ne abbiamo sollevati
+2|di massi,
+3|Ohohoh…<FA>
+
+### 1525
+Bleah! Sotto c'era
+2|una formica!<FA>
+
+### 1526
+Grande! C'è un buco
+2|che porta più giù.<FA>
+
+### 1527
+Shaka. Shakaka!<P>
+2|TR<FC 1A> Se vi trascinate,
+3|vi prendo!<FB>
+
+### 1528
+…..?!<P>
+2|Mi sembra di sentire
+3|una voce da sotto
+1|questo masso.<P>
+1|Me lo sono immaginato?<FB>
+
+### 1529
+…Ma che diavolo?!<FA>
+
+### 1530
+…Oddio, cosa
+2|facciamo?<P>
+3|Chissà se quella
+1|medicina funziona
+1|su Hassan…?<FB>
+
+### 1531
+Accidenti, non funziona
+2|su chi non è soldato?<P>
+3|…Usiamo tutta la
+1|bottiglia!<FA>
+
+### 1532
+……Fiuu.
+2|Mi avete salvato.<P>
+3|Stavo per finire
+1|spiaccicato come
+1|una crema!<P>
+1|Grazie mille.<P>
+1|….!!
+1|Oh no, cosa è successo
+1|alla principessa?!<FA>
+
+### 1533
+Agh, il corpo non si
+2|muove.<P>
+3|Invecchiare è proprio
+1|orribile…<FA>
+
+### 1534
+<F2>Avete la grande
+2|invenzione di Hassan,
+3|il Cannone Antiformiche!<P>
+1|…Chissà come
+1|funziona.<FA>
+
+### 1535
+Questo cannone è 10
+2|volte più potente del
+3|normale Antiformiche!<P>
+1|Dovrebbe riuscire a
+1|sconfiggere la
+1|"Regina Formica".<P>
+1|Quando la affrontate,
+1|premete <FE 6D 02> per
+1|bloccare il movimento.<P>
+1|Usatelo con <FE 6D 4A>!<P>
+1|Le mie preghiere sono
+1|con voi.<FA>
+
+### 1536
+Shaka, shakaka!<P>
+2|TR<FC 1A> Se volete
+3|batterci,<P>
+1|portatevi un po'
+1|di acqua di mare!<FB>
+
+### 1537
+Oh, il mio registratore!
+2|Grazie.<FA>
+
+### 1538
+<F2>Che bravi
+2|ragazzi!<P>
+3|Vedrete che le cose
+1|cominceranno ad andare bene.<FA>
+
+### 1539
+Ma… Ora non possiamo
+2|andare avanti.
+3|Che facciamo?!<FB>
+
+### 1540
+Sembra troppo pesante
+2|da spostare, e se lo
+3|spingiamo dentro…<P>
+1|Non entriamo lo stesso.
+1|Che facciamo…?<FB>
+
+### 1541
+Sì!
+2|Ora possiamo proseguire!
+3|Troviamo Polly!<FA>
+
+### 1542
+Sembra che sotto ci
+2|sia ancora una stanza.<FB>
+
+### 1543
+Teniamolo per quando
+2|affronteremo la Regina.<FA>
+
+### 1544
+Avviciniamoci a
+2|dare un'occhiata.<FB>
+
+### 1545
+Volete fare un gioco
+2|divertente? Eheheh…
+3|Avvicinatevi un po'.<FB>
+
+### 1546
+Se volete giocare,
+2|scegliete la Pietra
+3|dal menu <FE 6D 4A>!<FB>
+
+### 1547
+Bene, ho preso
+2|1 Pietra Fortuna.<P>
+3|Guardate bene i
+1|pannelli che si muovono
+1|prima di calciare!<FA>
+
+### 1548
+…Ma dove guardavi?!
+2|
+3|Fai proprio schifo~!<P>
+1|Vuoi riprovare?<FA>
+
+### 1549
+Tonto. Hai visto che
+2|parata?
+3|…Che sfortuna!<P>
+1|Riprovi?<FA>
+
+### 1550
+Se non vi concentrate,
+2|non colpite il
+3|centro!<FB>
+
+### 1551
+Oh! Avete trovato la
+2|mia "Slot a Calci".
+3|Bella, eh?<FB>
+
+### 1552
+Oh! Avete trovato il
+2|mio "Prendipalla".
+3|Bello, eh?<FB>
+
+### 1553
+Oh! Avete trovato la
+2|mia "Formazione
+3|Difensiva". Bella, eh?<FB>
+
+### 1554
+Presto, calcia.<FB>
+
+### 1555
+Un mese di tempo.<FA>
+
+### 1556
+Quando resta solo <FE 6D 20>
+2|Pietra Fortuna.<FA>
+
+### 1557
+Avete incontrato
+2|Hassan?<P>
+3|Per sconfiggere la
+1|Regina vi serve il suo
+1|Cannone Antiformiche!<FB>
+
+### 1558
+Dovete aspettare il
+2|momento giusto per
+3|usare il Cannone.<P>
+1|Fatevi coraggio e
+1|mirate!<FB>
+
+### 1559
+…Accidenti-!<P>
+2|Ora non resta che
+3|aspettare la
+1|morte….<FB>
+
+### 1560
+Proviamo quella cosa
+2|che ci ha dato Hassan.<FB>
+
+### 1561
+Se vi colpisce, i
+2|comandi si invertono!<FB>
+
+### 1562
+<FE 6D 08> mira!     <FE 6D 02> fuoco!
+2|   <FE 6D 42>       <FE 6D 12><FE>{7E}<FA>
+
+### 1563
+Fuoooocooo!!!!<FA>
+
+### 1564
+Sì! Colpo diretto!<FA>
+
+### 1565
+Accidenti… Dobbiamo
+2|mirare meglio!<FA>
+
+### 1566
+<FE 79>Carica con <FE 6D 38>!!<FE 78><FA>
+
+### 1567
+…Aiuto!
+2|Viene verso di noi!!<FA>
+
+### 1568
+Ragazzi…
+2|
+3|<P>
+1|
+1|      Grazie….
+1|<FA>
+
+### 1569
+In realtà…
+2|non ero nemmeno legata.
+3|Visto…?<FA>

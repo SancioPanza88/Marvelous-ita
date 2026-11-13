@@ -1,0 +1,556 @@
+### 0346
+Ci sono vari
+2|numeri.
+3|Cosa saranno?<FB>
+
+### 0347
+…E se provassi a
+2|metterti lì?<FB>
+
+### 0348
+Sembra che stia per
+2|muoversi… che schifo!<FB>
+
+### 0349
+Faceva parte di qualche
+2|esperimento…?<FB>
+
+### 0350
+Qui il terreno è
+2|ancora bagnato… <P>
+3|Dev'essere uscito
+1|da poco.<FB>
+
+### 0351
+Senza avvicinarsi
+2|non si vede
+3|bene.<FB>
+
+### 0352
+Che fine hanno fatto i
+2|tuoi amici?<P>
+3|Se non siete tutti e
+1|3 qui, la nave non
+1|può partire.<FA>
+
+### 0353
+<F2>Abbiamo il numero
+2|di telefono
+3|dell'ufficio di gestione!<P>
+1|Proprio come pensavo!<FA>
+
+### 0354
+Quello con la chiave
+2|è… John…!?<FA>
+
+### 0355
+Ehm… Quale dei due è
+2|John!?<FA>
+
+### 0356
+C'è scritto…
+2| 1.Latino  3.Rock
+3| 2.Jazz    4.J-Pop<FB>
+
+### 0357
+Mmm~!
+2|Sento quel sapore
+3|latino!<FB>
+
+### 0358
+Mmm~!
+2|Mi sento jazz!<FB>
+
+### 0359
+Mmm~!
+2|Ho voglia di rock!<FB>
+
+### 0360
+Mmm~!…
+2|J-Pop… Ehm…
+3|F…forse un po' di J-Pop?!<FB>
+
+### 0361
+Bene, il motore si
+2|è fermato!<FA>
+
+### 0362
+Il cancello è chiuso e
+2|non si apre…<FB>
+
+### 0363
+Uff. Uff.<P>
+2|TR<FC 1A> Quest'anno faccio
+3|28 anni. Vorrei dirle
+1|cosa provo…<FB>
+
+### 0364
+Uuu Uuuu~!<P>
+2|TR<FC 1A> Canterò per lui
+3|una canzone d'amore~!<FB>
+
+### 0365
+<F5 02>{1A}Ookee! Ooki-Ooki!<P>
+2|TR<FC 1A> Ehe, facciamo i
+3|dispetti ai ragazzi!<P>
+1|Ma se sentite la voce
+1|del capo, sparite!<P>
+1|Non vogliamo che
+1|si arrabbi con noi.<FB>
+
+### 0366
+<F5 02>{1A}Uuu! Uuu!<P>
+2|TR<FC 1A> Ascolterei la
+3|canzone di Marie
+1|tutto il giorno~!<FB>
+
+### 0367
+Uuu! Uuu!<P>
+2|TR<FC 1A> La tua voce
+3|miracolosa mi ha rapito
+1|il cuore, tesoro~!<P>
+1|
+1|Uuu UuUuu~!<P>
+1|TR<FC 1A> Caro, il mio cuore
+1|era tuo appena ho
+1|sentito la tua voce~!<FB>
+
+### 0368
+<F2>Ora possiamo addentrarci
+2|nell'isola!<P>
+3|…Che emozione!<FA>
+
+### 0369
+Sono un ladro che ruba
+2|il cuore delle donne,
+3|un ladro di cuori!<FA>
+
+### 0370
+Sono emozionato, ma
+2|anche nervoso…<P>
+3|Ho il cuore in fiamme!<FB>
+
+### 0371
+<F5 01>ZKweh! kweh!!<P>
+2|TR<FC 1A> Chi ha rubato il
+3|mio prezioso uovo?!<P>
+1|Ridatemelo!
+1|Ridatemelo!!<FB>
+
+### 0372
+<FE 6A>Quei piccoletti
+2|sono nei guai!<P>
+3|…Questa situazione
+1|ha qualcosa di
+1|familiare.<FB>
+
+### 0373
+Quell'uccello è tutto
+2|agitato per
+3|qualcosa.<P>
+1|Solomon, che fai?!
+1|
+1|Sbrigati ad aiutare!<FB>
+
+### 0374
+A…aiuto!! Hassan,
+2|non ho la forza di
+3|aiutarti.<P>
+1|Se solo ci fosse la
+1|principessa Polly…<FB>
+
+### 0375
+Ehi Hassan, Solomon.
+2|Da quanto tempo.<P>
+3|Sono io, Polly!
+1|Indietro, ci penso
+1|io.<FA>
+
+### 0376
+…Questo dev'essere
+2|l'interruttore
+3|dell'ascensore.<FB>
+
+### 0377
+Ooooh! Principessa!!<P>
+2|Sono passati 3 mesi
+3|da quando sei partita
+1|per il viaggio.<P>
+1|Ero…
+1|Ero così preoccupato…<FA>
+
+### 0378
+Principessa! Che gioia
+2|vederti sana e
+3|salva.<P>
+1|Hassan stava giusto
+1|partendo in viaggio
+1|per cercarti!<FA>
+
+### 0379
+Scusate se vi ho fatto
+2|preoccupare, ma sto
+3|bene!<P>
+1|Ho portato con me
+1|questi 3 giganti.<P>
+1|Anche se sono solo
+1|ragazzini………<P>
+1|Credo che possano
+1|battere le "Cose Blu"!<P>
+1|Il mio regno è oltre
+1|quella grotta, quindi
+1|venite con noi, ok?<FA>
+
+### 0380
+Non mi farò battere
+2|così facilmente!!<P>
+3|Mi avrete anche
+1|calpestato, ma ora
+1|tocca a me!!<FA>
+
+### 0381
+<F5 01>Z<FE 6A>Caww! Kaaa! Kweh!<P>
+2|TR<FC 1A> Il mio uovo
+3|l'avete rubato voi, eh?
+1|Ridatemelo!<FA>
+
+### 0382
+Ottimo!<F5 01>7
+2|Prendo quella moneta.<P>
+3|Durante l'incontro
+1|potete usare questi
+1|guantoni.<P>
+1|Bene, buona fortuna,
+1|ciccione!<FB>
+
+### 0383
+Ehi, sul ring può
+2|salire solo chi ha
+3|i guantoni.<FB>
+
+### 0384
+<F5 00>{D3}Bene, ti mando dritto
+2|in paradiso!<FA>
+
+### 0385
+Scusate!
+2|Ci guadagnavamo da
+3|vivere con la boxe…<P>
+1|D'ora in poi ci
+1|impegneremo a essere
+1|genitori migliori.<FB>
+
+### 0386
+John e Ken hanno
+2|la musica nel sangue,
+3|se sentono un bel<P>
+1|ritmo, si mettono
+1|a ballare.<FB>
+
+### 0387
+2|      Voi due!!<FB>
+
+### 0388
+Aha, mi avete
+2|scoperto.<P>
+3|Non posso competere
+1|con dei gemelli veri.<FA>
+
+### 0389
+Aha, avete capito che
+2|non dormivo.<P>
+3|Voglio diventare
+1|grande, così posso
+1|stare sveglio di notte!<FB>
+
+### 0390
+Io con le bambole non
+2|ci gioco più!…
+3|Sono un maschio!<FB>
+
+### 0391
+Cosa? Non vi sento
+2|con questa bimba che
+3|piange.<P>
+1|Avvicinatevi…<FB>
+
+### 0392
+<FE 6A>Oh, ha smesso di
+2|piangere!<P>
+3|<FE 6A>Grazie! Ha smesso di
+1|piangere vedendo
+1|la bambola~.<P>
+1|Ora avete visto tutte
+1|le <FE 6D 24> donne.
+1|<P>
+1|Volete sapere di più
+1|sugli abitanti
+1|del paese?<P>
+1|Chiedete a mio
+1|marito! Ah, ma non
+1|sapete chi è.<P>
+1|Lo riconoscerete
+1|perché adora la
+1|mia cucina…<P>
+1|Ama la mia cucina
+1|più di qualsiasi
+1|cosa al mondo!<P>
+1|Ecco, prendete questo.<FA>
+
+### 0393
+<F2>Pranzo al Peperoncino!<P>
+2|…Sembra piccante~!<FA>
+
+### 0394
+Questa bimba non smette
+2|di piangere e mi sta
+3|facendo impazzire!<P>
+1|Fate qualcosa!<FB>
+
+### 0395
+Mio marito ama la mia
+2|cucina più di
+3|qualsiasi cosa.<P>
+1|Se gli portate questo
+1|pranzo, lo troverete
+1|subito.<FB>
+
+### 0396
+Sono andato nella
+2|cantina di questa casa
+3|per arrivare alla grotta,<P>
+1|ma il cancello era
+1|chiuso!<P>
+1|Sono quasi sicuro che
+1|il signor Smith tenga
+1|la chiave in cassaforte…<P>
+1|Se volete entrare nella
+1|grotta, dovete trovare
+1|il signor Smith.<P>
+1|Altrimenti,
+1|rinunciate!<P>
+1|Se lo trovate, venite
+1|a dirmelo subito.<P>
+1|Vi darò qualcosa
+1|per il disturbo.
+1|<FB>
+
+### 0397
+E' troppo lontano per
+2|capire cos'è.<FB>
+
+### 0398
+2|   Si mangia!
+3|<P>
+1|Gnam-gnam-gnaaaam!
+1|Slurrrrrp~~!!<P>
+1|CHE BONTA'! Adoro la
+1|cucina della mia cara.<P>
+1|La sua cucina è la
+1|migliore del mondo!<P>
+1|A proposito, avete
+1|già trovato una chiave?
+1|<P>
+1|<F5 01>3Cosa? Una pianta
+1|che si trasforma
+1|in persone?<P>
+1|E in chi si sta
+1|trasformando?!<P>
+1|Se è vero, siamo
+1|nei pasticci…<P>
+1|Avevo un'arma per
+1|sconfiggere i
+1|cattivi,<P>
+1|ma ora mi resta
+1|solo questa.<P>
+1|Comunque… Meglio di
+1|niente, quindi ve
+1|la regalo.<FA>
+
+### 0399
+<F2>Borraccia Vuota!<P>
+2|Questa non è affatto
+3|un'arma~!<P>
+1|Siamo proprio al
+1|limite del "meglio
+1|di niente".<FA>
+
+### 0400
+Sono tutti e 3 lo
+2|stesso interruttore.<FB>
+
+### 0401
+Agli estranei non dico
+2|niente di questo
+3|paese.<FB>
+
+### 0402
+E' troppo lontano per
+2|vedere cos'è!<FB>
+
+### 0403
+Ohh, sembra delizioso!
+2|Cosa?
+3|Me lo regalate?<P>
+1|Grazie! Mmmm…<FA>
+
+### 0404
+A-Acqua!!… Acqua!!
+2|Presto… Portatemi
+3|dell'acqua!!!<FB>
+
+### 0405
+Glu glu glu…<FA>
+
+### 0406
+Bene, probabilmente ce
+2|ne sono altri,
+3|giusto?<P>
+1|Ascoltate bene
+1|quello che sto per
+1|dirvi.<FB>
+
+### 0407
+Perché è qui dentro?<FB>
+
+### 0408
+E' chiuso e non si
+2|apre.<FB>
+
+### 0409
+<F2>Il cancello è aperto!<P>
+2|Ora possiamo entrare
+3|nella grotta!<FA>
+
+### 0410
+P…perdonatemi!
+2|Non sono davvero di
+3|quest'isola.<P>
+1|Sono solo un ladro che
+1|ha sentito parlare di
+1|un tesoro misterioso<P>
+1|sull'isola, e sono
+1|venuto a rubarlo.<P>
+1|Ho rubato la chiave,
+1|ma in quella stanza…<P>
+1|C'era una specie di
+1|pianta, e…<P>
+1|Si è trasformata in me..!
+1|Che paura!<FA>
+
+### 0411
+Grazie!
+2|Mi avete salvato!<P>
+3|Sono il capo di
+1|questo villaggio.
+1|Chiamatemi Smith.<P>
+1|Studiavo il parassita
+1|attaccato all'albero
+1|di baobab,<P>
+1|e all'improvviso si
+1|è trasformato in me…<P>
+1|E poi mi ha
+1|attaccato!<P>
+1|Oh! Devo distruggere
+1|il resto del parassita
+1|prima che<P>
+1|scappi e combini
+1|altri guai!!<FA>
+
+### 0412
+Nessuno del villaggio
+2|entrerebbe in questa
+3|stanza.<P>
+1|Dev'essere entrato un
+1|ladro e una pianta
+1|l'ha attaccato!<FA>
+
+### 0413
+Non dite così!<P>
+2|Se non fate
+3|qualcosa, quella
+1|sfera di cristallo…<P>
+1|Vi prego, ascoltatemi!
+1|
+1|<FA>
+
+### 0414
+Mi aiuterete?!
+2|Se indagate su tutti
+3|gli abitanti,<P>
+1|di sicuro troverete
+1|il colpevole!<P>
+1|Prima, cercate un
+1|uomo di nome Mike.<P>
+1|Sa quante persone
+1|vivono nel
+1|villaggio.<P>
+1|Mike<F5 01>3 ha paura perfino
+1|dello squittio di un topo,<P>
+1|quindi quel fifone
+1|lo troverete
+1|a casa sua.<FB>
+
+### 0415
+Se volete sapere
+2|quante persone vivono
+3|nel villaggio,<P>
+1|chiedete a Mike.<P>
+1|E' un fifone che non
+1|sopporta lo squittio
+1|di un topo,<P>
+1|quindi non esce mai
+1|di casa.<FB>
+
+### 0416
+Volete sapere quanti
+2|abitanti ci sono nel
+3|villaggio?<P>
+1|Lo dirò solo a quel
+1|ragazzone vestito
+1|di verde…<FB>
+
+### 0417
+A proposito… Non dite
+2|niente della mia paura
+3|dei topi, eh?<P>
+1|Tenete questa.<FA>
+
+### 0418
+<F2>Moneta del Villaggio!<P>
+2|
+3|E' un segreto così
+1|importante?<P>
+1|<FE 6A>Se perdete quella
+1|moneta, tornate
+1|quando volete.<P>
+1|Ma attenti a Jackie,
+1|vi prende i soldi!<FA>
+
+### 0419
+Cosa? Un'altra?<P>
+2|Va bene, ma acqua in
+3|bocca su quell'altra
+1|cosa, eh?<FA>
+
+### 0420
+Vi do una moneta
+2|ogni volta che serve,<P>
+3|ma nessuno deve sapere
+1|il mio segreto.<FB>
+
+### 0421
+C'è un piccolo buco.<FB>
+
+### 0422
+Sembra la tana di
+2|un topo!<FB>
+
+### 0423
+Dovete avvicinarvi
+2|di più!<FB>
+
+### 0424
+Vieni fuori, topolino!
+2|Ho un formaggino
+3|buonissimo~!<FA>

@@ -1,0 +1,525 @@
+### 2400
+Vado avanti io nel
+2|covo dei Fratelli
+3|Mammut.<P>
+1|Vi lascerò dei
+1|segnali di fumo
+1|da seguire.<P>
+1|Mi serve solo
+1|indietro la dinamite!<FB>
+
+### 2401
+Siamo i banditi
+2|Mammut!<P>
+3|Con le maschere,
+1|niente ci ferma!<FB>
+
+### 2402
+A cosa serve questo
+2|interruttore?<FB>
+
+### 2403
+Su questa pietra è
+2|scolpita la faccia
+3|di un bandito…<FB>
+
+### 2404
+Sembra una scala,
+2|ma questa roccia
+3|porta da qualche parte.<FB>
+
+### 2405
+Sembra che qui ci
+2|fosse un ponte.<FB>
+
+### 2406
+Questa roccia ha una
+2|crepa…!?<FB>
+
+### 2407
+Le lontre hanno delle
+2|Pietre Fortuna!<P>
+3|…Ahi, mi sono morso
+1|la lingua!<FB>
+
+### 2408
+Le lontre hanno dei
+2|pomodori!<FB>
+
+### 2409
+Ehi~, aiutatemi!
+2|I Fratelli Mammut
+3|mi hanno preso!<P>
+1|Premete i pulsanti
+1|davanti a
+1|voi!<FB>
+
+### 2410
+Ch, ch, cosa!?
+2|Cos'è stato!?<P>
+3|Siamo i 3 Fratelli
+1|Mammut!<P>
+1|Sconfiggiamo i nemici
+1|partendo dal loro
+1|capo!<FB>
+
+### 2411
+Eh?
+2|Dov'è scappato
+3|il capo!?<FB>
+
+### 2412
+È svenuto.<FB>
+
+### 2413
+Attenzione!!<P>
+2|Non potete colpirli
+3|mentre girano.<FB>
+
+### 2414
+Presto, premete il
+2|pulsante davanti a voi
+3|e salvatemi!!<FB>
+
+### 2415
+Grazie!<P>
+2|Ora il "tesoro della
+3|città" potrà essere
+1|restituito!<FA>
+
+### 2416
+<F5 00>LSiete venuti qui per
+2|questo Cristallo,
+3|vero?<P>
+1|Mi dispiace, ma non
+1|posso darvelo finché
+1|Indio non sarà scagionato.<P>
+1|Prometto che ve lo
+1|darò in un
+1|prossimo futuro.<P>
+1|Tornate da dove
+1|siete venuti.<FB>
+
+### 2417
+Farò in modo che
+2|abbiate il "Cristallo
+3|Blu".<P>
+1|Su, tornate da
+1|dove siete venuti.<FB>
+
+### 2418
+"La tomba dell'eroe
+2|della città, Indio."
+3|…C'è inciso qui.<FB>
+
+### 2419
+"La tomba dell'eroe
+2|della città, Benson."
+3|…C'è inciso qui.<P>
+1|Ehi, cos'è questo?…<FB>
+
+### 2420
+Qui è rimasto un
+2|segno…<FB>
+
+### 2421
+Il corvo del cimitero
+2|era questo tizio!<FB>
+
+### 2422
+È Indio, quello della
+2|foto!<P>
+3|…Vuol dire che siamo
+1|tornati indietro nel tempo?!<FB>
+
+### 2423
+Questo è il secondo
+2|cristallo!!<P>
+3|Si muove a tempo
+1|col flauto di Indio…<FB>
+
+### 2424
+"Poiché non si sa
+2|dove sia la nave
+3|pirata,<P>
+1|è vietato l'accesso."
+1|…C'è scritto qui.<FB>
+
+### 2425
+Sono nati!
+2|Sono nati!
+3|Ora abbiamo tre gemelli!<FB>
+
+### 2426
+Ho appena partorito!
+2|Sono nati i piccoli!
+3|Ora abbiamo tre gemelli!<FB>
+
+### 2427
+Non sono i
+2|Patchies?<FB>
+
+### 2428
+Tutti quei libri
+2|parlano di pirati…?<FB>
+
+### 2429
+È un modellino di
+2|nave pirata!<FB>
+
+### 2430
+Il letto della nonna?<FB>
+
+### 2431
+Ora è coperta di
+2|ragnatele,<P>
+3|ma forse la usavano
+1|quando erano
+1|pirati.<FB>
+
+### 2432
+È un secchio di legno.
+2|Serve per
+3|pulire?<FB>
+
+### 2433
+Com'è vecchio~!<FB>
+
+### 2434
+La sedia della nonna,
+2|immagino?<FB>
+
+### 2435
+Che tappeto elegante…!<FB>
+
+### 2436
+C'è un buco…<FB>
+
+### 2437
+Cra. Cra.<P>
+2|TR<FC 1A> Uffa, che fifone!<FB>
+
+### 2438
+Mio figlio adora
+2|le lezioni di Sisko.<P>
+3|È una brava
+1|maestra.<FB>
+
+### 2439
+Grazie al padre di
+2|Sisko, questa città ha
+3|acqua in abbondanza…<FB>
+
+### 2440
+Indio e Christopher
+2|Benson ci hanno salvati.<P>
+3|Le loro tombe hanno
+1|sempre visite!<FB>
+
+### 2441
+Mio marito era un
+2|grand'uomo.<P>
+3|La sua tomba è nel
+1|cimitero vicino…<P>
+1|Andate a trovarlo,
+1|se volete.<FB>
+
+### 2442
+Sono felice di vivere
+2|in questa bella
+3|città!<FB>
+
+### 2443
+Le tombe eleganti a
+2|ovest sono quelle di
+3|Benson e Indio.<P>
+1|Tanto tempo fa
+1|difesero il villaggio
+1|dai banditi!<FB>
+
+### 2444
+Sono la maestra di
+2|questa città.
+3|Mi chiamo Sisko.<P>
+1|Da dove venite,
+1|ragazzi?<P>
+1|Se non tornate
+1|presto, la vostra
+1|maestra si preoccuperà!<P>
+1|Le maestre sono sempre
+1|in pensiero per i
+1|loro alunni…<P>
+1|Quindi fate i bravi e
+1|tornate presto!<P>
+1|Però è strano, quando
+1|vi guardo,<P>
+1|mi sembra che non sia
+1|la prima volta che
+1|ci incontriamo.<FA>
+
+### 2445
+Oh no! La lezione sta
+2|per cominciare!<FA>
+
+### 2446
+State giocando?<FB>
+
+### 2447
+La lezione inizia
+2|tra poco.<FB>
+
+### 2448
+La lezione inizia
+2|tra poco!!<FB>
+
+### 2449
+State studiando?<FB>
+
+### 2450
+Sisko è nel bel
+2|mezzo della lezione!<FB>
+
+### 2451
+Sisko è a
+2|lezione!<FB>
+
+### 2452
+Oh, ragazzi!<P>
+2|Sbrigatevi a tornare
+3|a casa, la vostra
+1|maestra sarà in ansia!<FB>
+
+### 2453
+Guarda, guarda! È la
+2|casa dei miei sogni!<FB>
+
+### 2454
+Una volta era tutto
+2|meglio…<P>
+3|Non è una cosa da
+1|dire sempre, in
+1|fondo!<FB>
+
+### 2455
+Guarda com'è
+2|diventato piccolo…<FB>
+
+### 2456
+Minoo! Miinoo.<P>
+2|TR<FC 1A> Volete spruzzarmi
+3|di nuovo, eh!?
+1|Lo so!<FB>
+
+### 2457
+Sta giocando con
+2|un gomitolo.<FB>
+
+### 2458
+È la tomba di
+2|qualcuno della città.<FB>
+
+### 2459
+È il fantasma di Benson!
+2|Sembra che voglia
+3|dire qualcosa…<FB>
+
+### 2460
+È enorme~! Sarà
+2|di suo padre.<FB>
+
+### 2461
+Che frecce lunghe~.<FB>
+
+### 2462
+Che bello…
+2|È fatto di
+3|piume.<FB>
+
+### 2463
+È fatto di piume
+2|grandi.<FB>
+
+### 2464
+L'ho già visto
+2|da qualche parte…<FB>
+
+### 2465
+Una bandiera pirata!
+2|Però sembra un
+3|souvenir da quattro soldi.<FB>
+
+### 2466
+Ooh! Forzieri del tesoro!<FB>
+
+### 2467
+È fatto d'oro!
+2|Siamo ricchi~!<FB>
+
+### 2468
+Dev'essere una specie
+2|di pirata…<FB>
+
+### 2469
+Forse sono Blu e
+2|sua madre…<FB>
+
+### 2470
+Questa lapide è
+2|l'unica senza
+3|nome…<FB>
+
+### 2471
+Una pietra nera…<P>
+2|Ce n'è una a Nord,
+3|Sud, Est e
+1|Ovest…<FB>
+
+### 2472
+Pegi, pegi, pegi~.<P>
+2|TR<FC 1A> Questa sì che è vita~.<FB>
+
+### 2473
+…Ops?
+2|L'interruttore non
+3|torna indietro.<FB>
+
+### 2474
+Avete trovato tutta
+2|la legna?<P>
+3|Io, Dorothy della
+1|Squadra Girl Power,<P>
+1|mi sono offerta di
+1|cucinare per voi poveracci…<P>
+1|Ma non posso se non
+1|mi portate la
+1|legna!<FB>
+
+### 2475
+Cosa, ancora voi?<P>
+2|Non potete entrare
+3|in Archivio mentre
+1|Hassan è fuori.<FB>
+
+### 2476
+Questo è l'ingresso
+2|del giardino sul retro
+3|del castello.<P>
+1|È un posto segreto
+1|dove nessuno, a parte
+1|il Re,<P>
+1|neanche Polly, può
+1|entrare.<FB>
+
+### 2477
+È un registratore.<FB>
+
+### 2478
+Possiamo registrare
+2|versi di animali?<FB>
+
+### 2479
+Great Mecha n.3,
+2|trasformazione!<P>
+3|Gigachan, gigachan,
+1|si scuote!<P>
+1|Bababa-Babuum!…<FB>
+
+### 2480
+Alla fine non si
+2|trasforma.<FB>
+
+### 2481
+È il Great Mecha n.3.<FB>
+
+### 2482
+È rotto e non
+2|funziona.<FB>
+
+### 2483
+<F5 01>ZChicchirichì!<P>
+2|TR<FC 1A> Smettila!
+3|È il mio punto debole!<FA>
+
+### 2484
+Ci sono delle impronte.<FB>
+
+### 2485
+Sembra una
+2|fornace.<FB>
+
+### 2486
+Qui c'è il simbolo di
+2|una Pietra Fortuna.<FB>
+
+### 2487
+Ooh, brucia tutto!<FB>
+
+### 2488
+Qui ci sono tante
+2|rocce.<FB>
+
+### 2489
+Se volete delle
+2|"Scarpe da Calcio", vi
+3|do le mie!!<P>
+1|Solo che Jim le ha
+1|buttate nel lago…<FB>
+
+### 2490
+Ci sono delle scarpe
+2|sott'acqua.<P>
+3|Sembrano ancora
+1|nuove…
+1|Che spreco~.<P>
+1|E se ce le
+1|prendessimo?<FB>
+
+### 2491
+C'è un trucco nel
+2|lavoro di squadra.
+3|Il trucco è…<FB>
+
+### 2492
+Quanto ci vorrà
+2|perché l'acqua si
+3|riempia…?<FB>
+
+### 2493
+Se volete sapere del
+2|lavoro di squadra,
+3|chiedete al capo.<FB>
+
+### 2494
+È una pentola grande.
+2|Si può spostare?<FB>
+
+### 2495
+Beh, sono un po'
+2|bagnate.<P>
+3|Se ci camminate un
+1|po', dovrebbero
+1|asciugarsi.<P>
+1|Non prendete il
+1|raffreddore~.<FB>
+
+### 2496
+Ssst~! Se fate
+2|rumore, farete
+3|scappare i pesci!<P>
+1|Muovetevi come ninja…<FB>
+
+### 2497
+Smettila di stare lì
+2|imbambolato e aiutami
+3|a tirare!<FB>
+
+### 2498
+Non c'è qualcuno un
+2|po' più forte?<FB>
+
+### 2499
+Grazie!
+2|Tirate a 1, 2, <FE 6D 24>!<P>
+3|Al <FE 6D 24>, premete <FE 6D 02>
+1|al momento giusto.
+1|Occhio al ritmo.<FA>

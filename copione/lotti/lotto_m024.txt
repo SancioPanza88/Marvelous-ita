@@ -1,0 +1,512 @@
+### 2020
+Pegi, pegi, pegi--.<P>
+2|TR<FC 1A> Ah, questa sì che
+3|è vita~. Paradiso…
+1|Puro paradiso…<FB>
+
+### 2021
+Il miele dev'essere
+2|caduto in questo buco.<FB>
+
+### 2022
+Chi siete?
+2|Questo è il mio posto
+3|segreto.<P>
+1|Non potete piombare
+1|qui così.<FB>
+
+### 2023
+Ci sono un sacco di
+2|vasi.<FB>
+
+### 2024
+La pianta ha smesso
+2|di muoversi!
+3|Ora è il momento!<P>
+1|Ma quella radice…<FB>
+
+### 2025
+…Non ci credo?
+2|Avete fatto cadere il
+3|miele da lassù?…<P>
+1|Davvero?…
+1|Davvero davvero??<FB>
+
+### 2026
+Minoo, mii-noo.<P>
+2|TR<FC 1A> Accidenti…
+3|Sono a terra!<P>
+1|Non ho scampo se mi
+1|rovinate il mio
+1|prezioso visino.<FB>
+
+### 2027
+Pengi~~.<P>
+2|TR<FC 1A> Mi piacerebbe
+3|tanto venire con
+1|voi, ma…<P>
+1|……………..<FB>
+
+### 2028
+Mi spiace, ma quel
+2|vaso è vuoto.<P>
+3|State dicendo la
+1|verità?<FB>
+
+### 2029
+Mi spiace, quel vaso
+2|è vuoto.<P>
+3|Non avete idea di
+1|quale vaso abbia
+1|il miele, vero?<FB>
+
+### 2030
+E' lo stesso tipo
+2|di prima.<FB>
+
+### 2031
+2|Bau bau bau bau!!<FB>
+
+### 2032
+Allooora…<P>
+2|Cosa vi porta
+3|all'ufficio di
+1|gestione?<FB>
+
+### 2033
+C'è un messaggio…?<FB>
+
+### 2034
+Sembra una cartella
+2|clinica…?<FB>
+
+### 2035
+Cos'è questa pianta
+2|schifosa…?
+3|Si muove!!<FB>
+
+### 2036
+E' una macchina a
+2|raggi X! …Chissà cosa
+3|si vede?<FB>
+
+### 2037
+Whoa! Voi, avete
+2|trovato una pianta
+3|rara?<FB>
+
+### 2038
+Ehi, giochiamo…
+2|Vuoi giocare?<FB>
+
+### 2039
+E' un nastro
+2|trasportatore familiare…<FB>
+
+### 2040
+<FE 6A>Anche voi copioni
+2|siete in 3.<FB>
+
+### 2041
+Cosa sono queste
+2|impronte?…<FB>
+
+### 2042
+Che pianta è questa?<FB>
+
+### 2043
+Cos'è questo?<FB>
+
+### 2044
+Qualcosa di molto
+2|potente l'avrà
+3|rotto…<FB>
+
+### 2045
+Cos'è quello?<FB>
+
+### 2046
+E' un jukebox!
+2|Ogni tanto è bello
+3|cambiare musica!<FB>
+
+### 2047
+Credo che di qui si
+2|vada più a fondo
+3|nell'isola…<FB>
+
+### 2048
+<FE 6A>Ha l'aria proprio
+2|arrabbiata e continua
+3|a sospirare…<P>
+1|Chissà cosa gli
+1|passa per la testa?<FB>
+
+### 2049
+<FE 6A>E'… una specie di
+2|gorilla sexy…<FB>
+
+### 2050
+Queste scimmie sono
+2|cattive!<P>
+3|Non sono per niente
+1|come Winky~.<FB>
+
+### 2051
+Cos'hanno queste
+2|scimmie…?<FB>
+
+### 2052
+Una coppia fresca e
+2|vivace!<FB>
+
+### 2053
+Un uccello gigante
+2|attacca delle
+3|personcine.<FB>
+
+### 2054
+Che succede!?
+2|Siete grandi come
+3|noi!<P>
+1|Idioti! Scansafatiche!
+1|Imbroglioni! Buoni a
+1|nulla!<P>
+1|Sapete quanto ho
+1|faticato a portarvi
+1|qui?!<P>
+1|Non ci posso credere!<FA>
+
+### 2055
+Non so perché, ma
+2|sembra che non siate
+3|più dei giganti.<P>
+1|Restiamo a "Idioti!
+1|Scansafatiche!
+1|Imbroglioni!"<P>
+1|Detto questo, è stato
+1|bello conoscervi!
+1|Addio!<FA>
+
+### 2056
+Sono l'arbitro Jackie!<P>
+2|Volete fare un incontro
+3|con Bob lo Schiacciatore
+1|laggiù?<FB>
+
+### 2057
+Chi vuole sfidarmi?
+2|<P>
+3|Andateci piano con me!
+1|Bwahahahaha!<FB>
+
+### 2058
+<FE 6A>L'arbitro era
+2|una donna!<P>
+3|Ora avete trovato
+1|la seconda delle 3
+1|donne.<FB>
+
+### 2059
+Ci avete beccati!
+2|Siamo John e Ken!…<P>
+3|Ma sappiamo chi è
+1|sospetto in paese!<FB>
+
+### 2060
+<FE 6A>Questo è un falso?!
+2|Quindi…
+3|<F5 01>3E' una pianta!?<FB>
+
+### 2061
+<FE 6A>Questo bambino vive qui?<FB>
+
+### 2062
+Su, su, non
+2|piangere…<P>
+3|Cosa possiamo fare
+1|per farla smettere…?<FB>
+
+### 2063
+Là fuori sembra
+2|pericoloso, state
+3|attenti.<FB>
+
+### 2064
+Accidenti!
+2|Che figuraccia, di nuovo!<FB>
+
+### 2065
+Avete trovato il
+2|signor Smith?<FB>
+
+### 2066
+Fuori è così pericoloso
+2|che non riesco a
+3|lavorare!<P>
+1|…Cosa volete?<FB>
+
+### 2067
+Ack! Che… Che piccante!!
+2|Acqua!!<FB>
+
+### 2068
+Non avete visto una
+2|pianta inquietante da
+3|qualche altra parte?<FB>
+
+### 2069
+Sembra che di qui si
+2|vada alla grotta…<FB>
+
+### 2070
+E' il vecchio
+2|dell'ufficio di gestione?<FB>
+
+### 2071
+<FE 6A>Dalla pianta è uscito
+2|qualcuno! Eh?<F5 01>3
+3|E' il signor Smith…<P>
+1|Allora chi abbiamo
+1|incontrato nella grotta?!
+1|<FB>
+
+### 2072
+Oh… Troppo tardi!
+2|La chiave della grotta
+3|non c'è più.<P>
+1|…Chi può essere
+1|stato?<FB>
+
+### 2073
+Trovate la pianta che
+2|è diventata una persona!<P>
+3|Dev'essere nel
+1|villaggio, ne sono
+1|sicuro!<FB>
+
+### 2074
+Puah…<P>
+2|Qualcuno vi ha detto
+3|che ho paura dei
+1|topi?<P>
+1|Che sciocchezza…<FB>
+
+### 2075
+Non me la sono fatta
+2|sotto per lo squittio
+3|di un topo, <P>
+1|chiaro, ciccione?<P>
+1|Eheh… Va bene, volete
+1|sapere quanti abitanti
+1|ci sono?<P>
+1|Esclusi me e il signor
+1|Smith, ci sono <FE 6D 2E>
+1|abitanti in tutto.<P>
+1|<FE 6D 24> degli abitanti
+1|sono donne!<FB>
+
+### 2076
+Sulla copertina c'è
+2|scritto "Diario di
+3|Smith"…<FB>
+
+### 2077
+Qui c'è un buco?<FB>
+
+### 2078
+E' un topo che
+2|squittisce forte.<FB>
+
+### 2079
+Ci sono guai, amico…<P>
+2|Lavoravo dentro, e
+3|all'improvviso il signor
+1|Smith mi ha aggredito!<FB>
+
+### 2080
+Chi siete, ragazzi…?!<FB>
+
+### 2081
+Grr~! Bau bau bau!!<FB>
+
+### 2082
+Perché qui cresce una
+2|pianta??<FB>
+
+### 2083
+E' uscito il corpo
+2|di un cane…<P>
+3|<F5 01>3Il collare è uguale a
+1|quello del cane che
+1|ci ha attaccato…!<FB>
+
+### 2084
+Se battete Bob,
+2|forse c'è un premio,
+3|sapete.<FB>
+
+### 2085
+<F5 00>{D3}Lavatevi la vergogna
+2|dalla faccia e tornate
+3|più tardi!<P>
+1|E mi riprendo anche
+1|i guantoni!<FA>
+
+### 2086
+La nave si è fermata
+2|senza danni.<FB>
+
+### 2087
+Fermi lì,
+2|viandanti.<P>
+3|Per il crimine di
+1|rapimento della
+1|Principessa,<P>
+1|sarete arrestati e
+1|portati dal Re per
+1|la condanna!<FA>
+
+### 2088
+Fermi lì,
+2|viandanti.<P>
+3|Per il crimine di
+1|rapimento della
+1|principessa Polly,<P>
+1|sarete arrestati e
+1|portati dal Re per
+1|la condanna!<P>
+1|Secondo i rapporti,
+1|eravate in 3.
+1|Dove sono gli altri?<P>
+1|Qualcuno vada a
+1|prenderli.<FA>
+
+### 2089
+Come ha fatto Polly a
+2|farsi rapire da
+3|ragazzini così tonti…<P>
+1|Beh, almeno ora
+1|saprà che le storie
+1|sono bugie.<P>
+1|I Giganti non
+1|esistono…<FB>
+
+### 2090
+Se eravate Giganti,
+2|come avete fatto a
+3|diventare piccoli?<P>
+1|E' incredibile.<FB>
+
+### 2091
+Sono sicuro che eravate
+2|Giganti. Forse era un
+3|brutto sogno.<FB>
+
+### 2092
+Forse il motivo per cui
+2|vi siete rimpiccioliti
+3|è lo stesso per cui<P>
+1|tutto attorno al
+1|castello è enorme…?<FB>
+
+### 2093
+Queste scale portano
+2|alla stanza di Polly.<P>
+3|Senza il permesso di
+1|Solomon non si può
+1|entrare.<FB>
+
+### 2094
+Queste scale portano
+2|alla prigione.<P>
+3|Senza il permesso di
+1|Hassan non si può
+1|entrare.<FB>
+
+### 2095
+I criminali non devono
+2|scappare.
+3|Aspettate in silenzio<P>
+1|il giudizio.<FB>
+
+### 2096
+Cosa fate?
+2|Eseguite gli ordini di Hassan.<FB>
+
+### 2097
+Guardate le creature
+2|nella cella laggiù.<P>
+3|Sono le "Cose Blu",
+1|formiche giganti.<FB>
+
+### 2098
+Ho cercato a lungo un
+2|modo per sconfiggere
+3|le "Cose Blu"<P>
+1|e finalmente ho
+1|trovato una
+1|soluzione.<FB>
+
+### 2099
+Scegliete chi lasciare
+2|indietro.<P>
+3|Se perdete tempo, le
+1|"Cose Blu" arriveranno
+1|e ci distruggeranno!<FB>
+
+### 2100
+Non preoccupatevi
+2|per chi lasciate
+3|indietro.<P>
+1|Questa prigione è MOLTO
+1|più sicura della foresta.<FB>
+
+### 2101
+E' una formica gigante!
+2|Come fa una formica a
+3|diventare così grande?<FB>
+
+### 2102
+Hassan è il più grande
+2|scienziato del
+3|regno.<FB>
+
+### 2103
+La foresta è fuori
+2|dal castello, verso
+3|ovest.<FB>
+
+### 2104
+Il re fa un
+2|pisolino.
+3|Non fate baccano!<FB>
+
+### 2105
+Questo cancello porta
+2|alla foresta.<FB>
+
+### 2106
+Questo cancello porta
+2|al nido delle "Cose Blu".<P>
+3|Senza il permesso
+1|del Re non si
+1|passa.<FB>
+
+### 2107
+Questo cancello porta
+2|fuori. Il Re vi
+3|vieta il passaggio.<FB>
+
+### 2108
+<F5 01>6Cra, cra.<P>
+2|TR<FC 1A> Che faccio~?<P>
+3|Se entro nello stagno
+1|mi prendo la
+1|scossa~.<FB>
+
+### 2109
+<F5 01>6Cra-cra. Craa.<P>
+2|TR<FC 1A> Che bello~!
+3|Non c'è niente come
+1|un bel tuffo, cra.<FB>

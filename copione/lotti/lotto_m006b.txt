@@ -1,0 +1,144 @@
+### 0429
+Non fate così!<P>
+2|Dentro c'è solo un
+3|cagnolino carino,
+1|niente paura.<P>
+1|Io torno al
+1|villaggio adesso,<P>
+1|ma se passate più
+1|tardi, vi darò una
+1|ricompensa!<P>
+1|
+1| E' una cosa bella!
+1|<FA>
+
+### 0435
+Dentro il collare c'è
+2|scritto "Socks".<P>
+3|Questo dev'essere il
+1|vero Socks.<P>
+1|E allora chi era
+1|l'altro cane…?<FB>
+
+### 0448
+Oltre alle "Cose Blu"
+2|ci sono molti
+3|insetti giganti,<P>
+1|ma solo le formiche
+1|ci attaccano con
+1|un esercito.<FB>
+
+### 0449
+Anche se le formiche
+2|vogliono attaccare,<P>
+3|non possono, grazie
+1|all'Antiformiche!<P>
+1|Se riesco a finirne
+1|la produzione, la
+1|minaccia sarà sventata.<P>
+1|
+1|Quindi, come vostra
+1|punizione…<P>
+1|Dovrete cercare gli
+1|ingredienti nella
+1|foresta pericolosa.<P>
+1|La principessa dice
+1|che siete tre
+1|avventurieri capaci,<P>
+1|pronti a qualsiasi
+1|sfida, quindi spero
+1|per il meglio.<P>
+1|Non è solo una
+1|punizione, è anche
+1|una mia supplica.<P>
+1|Se ci riuscite, sono
+1|sicuro che<P>
+1|il re rivedrà la
+1|vostra condanna.<P>
+1|  Mi aiuterete?<FE 6A>
+1|    Va bene
+1|    Neanche per sogno!<FE 68><FA>
+
+### 0450
+Vi prego.
+2|Se mi aiutate a
+3|fare l'Antiformiche,<P>
+1|di sicuro il re vi
+1|perdonerà.<P>
+1|  Sì o no?<FE 6A>
+1|    Sì.
+1|    No!<FE 68><FA>
+
+### 0454
+Dovete procurarvi 5
+2|cose. Leggete la
+3|lavagna per i dettagli.<P>
+1|Ricordatevele
+1|bene.<FB>
+
+### 0459
+Andate nella
+2|foresta?<P>
+3|Forse è meglio farsi
+1|mangiare dalle "Cose
+1|Blu"…<P>
+1|Ehm… Cioè…
+1|Lasciate stare.<FB>
+
+### 0464
+Tanto tempo fa, questa
+2|città era molto più
+3|grande.<P>
+3|Una notte, quasi tutte
+1|le case sono
+1|sparite.<FB>
+
+### 0466
+<F5 01>6Cra, cra.<P>
+2|TR<FC 1A> Nello stagno
+3|passa la
+1|corrente,<P>
+1|e non posso entrare.<P>
+1|Fate qualcosa!<P>
+1|Se lo fate, vi darò
+1|quello che volete.<P>
+1|Promesso, cra.<FB>
+
+### 0478
+Prendila, ladro!<FA>
+
+### 0491
+<F5 03>ZMy! My, my, mymymy.<P>
+2|TR<FC 1A> E' questa! E'
+3|proprio quella giusta!<P>
+1|Grazie, grazie mille
+1|per questa casa
+1|nuova!<P>
+1|Vi do quella
+1|vecchia…
+1|Scusate se è usata.<FA>
+
+### 0495
+Hai buon occhio,
+2|eh?<P>
+3|Quella pentola è
+1|antiproiettile, e la<P>
+1|portava Napoleone
+1|sotto il cappello.<P>
+1|Ti piace?
+1|Lo so che la vuoi.
+1|<P>
+1|Scegli cosa scambiare
+1|con <FE 6D 4A>.<FB>
+
+### 0497
+Hai proprio occhio.<P>
+2|Lo shogun di un
+3|paese chiamato Yapan<P>
+1|nascondeva quel vaso
+1|nel suo tesoro segreto.<P>
+1|Ti piace?
+1|Se lo vuoi,<P>
+1|scegli cosa scambiare
+1|dal pannello <FE 6D 4A>
+1|qui accanto.<FB>

@@ -1,0 +1,626 @@
+### 2200
+Vai, Great Mecha n.3!!
+2|Giga-giga-gigachaaan~!
+3|Bu-BUUM!<FB>
+
+### 2201
+Ti piace il mio Great
+2|Mecha n.3?<P>
+3|Si muove tutto da
+1|solo.
+1|Forte, vero?<P>
+1|Ma è mio, quindi non
+1|toccarlo, intesi?
+1|Chiaro?<FB>
+
+### 2202
+Ora la squadra <FE 6D 1A>!
+2|Per primo, l'energico
+3|e instancabile Deon!<FA>
+
+### 2203
+Ora sceglierò il
+2|capo squadra.<P>
+3|Mmm, va bene se per
+1|ora faccio diventare
+1|Deon il capo?<P>
+1|Bene, allora come
+1|capo, indosserai
+1|questo!<FA>
+
+### 2204
+Ooh, stai benissimo.<P>
+2|Puoi cambiare il
+3|capo con <FE 6D 0A>.<P>
+1|Quindi, decidete tra
+1|di voi chi deve
+1|guidare.<FA>
+
+### 2205
+La cosa più importante
+2|in campeggio è il
+3|lavoro di squadra.<P>
+1|Non dimenticate che
+1|tutti e 3 dovete
+1|collaborare.<P>
+1|Premi il tasto <FE 6D 00>
+1|per fischiare e
+1|radunare gli altri.<FB>
+
+### 2206
+Accidenti, che
+2|cappello ridicolo. Ah!<P>
+3|Hai leccato i piedi
+1|alla maestra?<P>
+1|Il campeggio è una
+1|stupidaggine. Uff!<P>
+1|Perché devo occuparmi
+1|io della pesca?<P>
+1|Quella maestra mi fa
+1|proprio arrabbiare!<FB>
+
+### 2207
+Ma guarda, la squadra
+2|<FE 6D 1A>.
+3|Volete sapere un segreto?<P>
+1|Avvicinatevi e ve lo
+1|dico.<FB>
+
+### 2208
+Ehi, squadra <FE 6D 1A>,
+2|fate qualcosa con
+3|Jim, eh?<FB>
+
+### 2209
+Oh? Pensate di potermi
+2|battere?!<P>
+3|Ahah, provateci
+1|pure.<FB>
+
+### 2210
+Ehi ehi!
+2|Sbrigatevi a calciare.
+3|Non abbiamo finito.<FB>
+
+### 2211
+È un interruttore da
+2|premere dall'alto.<FB>
+
+### 2212
+Ha funzionato!<P>
+2|…Sapevamo che sareste
+3|venuti per quella donna
+1|a ogni costo.<FB>
+
+### 2213
+State tutti bene?…
+2|Bene.
+3|Io?… Sto bene.<FB>
+
+### 2214
+B…Bel lavoro.<P>
+2|Siete i primi a
+3|battere la mia guardia
+1|di ferro.<P>
+1|Cosa? Volete un
+1|"premio"? <P>
+1|…Quegli idioti e
+1|le loro promesse… <P>
+1|Va bene, un uomo non
+1|si rimangia la parola.<P>
+1|…Ho solo questo,
+1|ma va bene.<P>
+1|Lo darò a… Quello
+1|spilungone di Jack.
+1|Prendete.<FB>
+
+### 2215
+Grande! Forte, eh?
+2|Jim non si è arrabbiato
+3|per la mia promessa?<FB>
+
+### 2216
+Eheheh… Che bello!<FB>
+
+### 2217
+Ah, accidenti~.
+2|Che faccio adesso…?<FB>
+
+### 2218
+Forza squadra <FE 6D 1A>!<P>
+2|Per la bellezza della
+3|maestra♪! Forza,
+1|forza, <FE 6D 1A>!<FB>
+
+### 2219
+Questo masso…
+2|Sembra un po' un
+3|teschio.<P>
+1|Ha un aspetto un po'
+1|sospetto.<FB>
+
+### 2220
+Sembra che questa cassa
+2|blocchi l'uscita.<P>
+3|Non so bene cosa
+1|succede, ma mi fanno
+1|pena le scimmie.<FB>
+
+### 2221
+<FE 6A>…C, C'è nessuno?
+2|Uffa, non risponde.<FB>
+
+### 2222
+Questa porta sembra
+2|molto arrugginita…
+3|Dev'essere vecchia.<FB>
+
+### 2223
+Vendicherò il mio
+2|amico!
+3|In guardia!<FB>
+
+### 2224
+<FE 6A>Oh, che vergogna!<P>
+2|Che rabbia perdere
+3|contro il nemico in
+1|un posto così.<FB>
+
+### 2225
+Qui c'era il
+2|soldato.<P>
+3|Mh?
+1|C'è qualcosa di strano.<FB>
+
+### 2226
+Che cosa sarà?<FB>
+
+### 2227
+C'è una specie di
+2|buco nel terreno
+3|qui…?<FB>
+
+### 2228
+Un robot arrugginito!?
+2|…Funziona ancora?<FB>
+
+### 2229
+Ehi, provateci.<P>
+2|Forse… Non possiamo
+3|uscire finché la cassa
+1|blu non è aperta.<FB>
+
+### 2230
+Che succede?
+2|Ci siamo persi?<FB>
+
+### 2231
+…Accidenti! Lo sapevi?
+2|Va bene, una promessa è
+3|una promessa. Aspetta.<FA>
+
+### 2232
+Squadra <FE 6D 1A>, ho
+2|saputo che raccogliete
+3|la legna da ardere.<FB>
+
+### 2233
+Ehi! Squadra <FE 6D 1A>!
+2|Arrivate a pennello.<P>
+3|Stavamo mettendo acqua
+1|in questa pentola…<P>
+1|Ma ne abbiamo messa
+1|troppa e ora non
+1|si sposta~!<FB>
+
+### 2234
+2|     Usiamo <FE 6D 48>!<FB>
+
+### 2235
+…Cos'è questo?<FB>
+
+### 2236
+C'è un trucco per
+2|prendere i pesci.
+3|Volete che ve lo dica?<FB>
+
+### 2237
+2|   Ehi! Squadra <FE 6D 1A>!
+3|            <P>
+1|Si stava facendo tardi,
+1|così sono venuta a
+1|cercarvi.<P>
+1|Che ci fate qui
+1|così lontano?<P>
+1|Mi farete venire un
+1|infarto, sapete.<FA>
+
+### 2238
+Che fate?
+2|Avete ancora una
+3|possibilità.<FB>
+
+### 2239
+2|Cos'è questo?<FB>
+
+### 2240
+Brutte notizie! La
+2|maestra Gina è stata
+3|rapita dai pirati!<FB>
+
+### 2241
+Hffeeggghhh! Mnnffgh!
+2|Ffnngggrrrfph-!<FB>
+
+### 2242
+Che vi prende?
+2|Sbrigatevi a togliermi
+3|queste catene!<FB>
+
+### 2243
+Che succede?
+2|Hai ancora 1
+3|possibilità.<FB>
+
+### 2244
+Che cosa sarà?<FB>
+
+### 2245
+Cambia direzione
+2|se non lo tieni
+3|fermo… Che strazio!!<FB>
+
+### 2246
+Eh?!
+2|Qualcosa non va!<FB>
+
+### 2247
+Che sbadati.
+2|Prendiamo gli altri!<FA>
+
+### 2248
+Che sbadati.
+2|Portiamoli dal
+3|capo!<FA>
+
+### 2249
+Sono il più grande
+2|pirata sotto il cielo,
+3|Re Blu!<P>
+1|Sono così spettacolare<P>
+1|che i bimbi in lacrime
+1|smettono di piangere
+1|e mi fissano ammirati.<P>
+1|Siete troppo spaventati
+1|per parlare?<P>
+1|Se non mi date
+1|ciò che voglio,<P>
+1|la vostra bella
+1|maestrina morirà.<P>
+1|E non fate i finti
+1|tonti, so che l'avete
+1|presa voi!<FA>
+
+### 2250
+Ragazzi, vi dico
+2|una cosa<FC 1A> state alla
+3|larga da quella villa.<FB>
+
+### 2251
+Che volete?
+2|Ora ho da fare, mi
+3|lasciate in pace?<FB>
+
+### 2252
+Una sola Sfera di
+2|Cristallo non basta…
+3|O almeno così pare…<FB>
+
+### 2253
+Ma che diavolo
+2|succede?<FB>
+
+### 2254
+<F5 01>{1A}È la nostra occasione!
+2|Prendeteli!<FA>
+
+### 2255
+È una porta
+2|meccanica…<P>
+3|È molto vecchia, ma
+1|sembra ancora
+1|funzionante.<FB>
+
+### 2256
+Ehi! I Patchies!!<FB>
+
+### 2257
+…Devo essere un po'
+2|troppo pesante.<P>
+3|Andate avanti voi.
+1|Non preoccupatevi.
+1|  …Me la caverò…<FB>
+
+### 2258
+I pomodori sono pieni
+2|di sostanze nutritive
+3|e fanno bene!<FB>
+
+### 2259
+Bah!
+2|Non pensate che vi
+3|lasceremo passare!!<FA>
+
+### 2260
+Non pensateci
+2|nemmeno!<FA>
+
+### 2261
+Una porta strana!<FB>
+
+### 2262
+Wow~!
+2|È bello robusto!<FB>
+
+### 2263
+È un tronco enorme!<FB>
+
+### 2264
+Eh?
+2|Cosa c'è scritto…<FB>
+
+### 2265
+Cos'è successo?
+2|La vostra maestra è
+3|corsa fuori di fretta.<FB>
+
+### 2266
+<FE 6A>Il… Il quadro ha
+2|parlato!
+3|È un fantasma!!<FB>
+
+### 2267
+Uff, non fatevi strane
+2|idee.<P>
+3|Non farei squadra<P>
+1|con feccia come voi
+1|neanche tra 100 anni.<FB>
+
+### 2268
+Volete che venga con
+2|voi?
+3|Non dite sciocchezze!<P>
+1|Un capitano affonda
+1|con la sua nave.<FB>
+
+### 2269
+Questo muro sembra
+2|nuovo.<FB>
+
+### 2270
+2|Ssst! Silenzio!<FB>
+
+### 2271
+2|È un vecchio diario.<FB>
+
+### 2272
+2|Ehi~, fa ridere?<FB>
+
+### 2273
+Orologi grandissimi~.
+2|Orologi a pendolo~.
+3|Ora… Sono… Spariti!<FB>
+
+### 2274
+2|  Vi stavo aspettando!<FB>
+
+### 2275
+Ci sono delle scale
+2|quassù…<FB>
+
+### 2276
+Sono emozionatissima.
+2|Il cuore mi batte forte.<FB>
+
+### 2277
+Ahah, vi ho fregati!
+2|Questi scoppiano se
+3|colpiti dall'alto.<P>
+1|Non fanno male,
+1|tranquilli.<FB>
+
+### 2278
+Questo è un mio amico,
+2|un uccello migratore.<P>
+3|Stava venendo a
+1|trovarmi.<P>
+1|Su, saluta.<FA>
+
+### 2279
+C'era qualcosa sotto
+2|la lapide.<FA>
+
+### 2280
+<F2>Ottenuta una vecchia
+2|Fotografia Misteriosa!<FA>
+
+### 2281
+È proprio una vecchia
+2|foto…<P>
+3|Chi saranno queste
+1|persone…?<P>
+1|E cosa tiene in mano
+1|quel tizio?
+1|Non sarà mica…!<P>
+1|La gente in città
+1|potrebbe saperne di più.
+1|<FB>
+
+### 2282
+Era una città vivace
+2|finché non hanno
+3|attaccato i banditi.<P>
+1|Ora i nostri raccolti
+1|non crescono più!<FB>
+
+### 2283
+La tomba isolata è
+2|dove riposa Indio,<P>
+3|il capo dei
+1|banditi delle
+1|montagne.<P>
+1|Fu arrestato
+1|subito,<P>
+1|ma il "Tesoro della
+1|Città" non fu mai trovato…<FB>
+
+### 2284
+Mmmh… Il figlio di quella
+2|donna è stato rapito
+3|dalla figlia di Indio,<P>
+1|o almeno così
+1|pare…<P>
+1|La ragazza vive a Est
+1|del Lago della Morte,
+1|laggiù…<P>
+1|Ma solo a sentirne
+1|il nome mi vengono
+1|i brividi,<P>
+1|e ho paura che non
+1|ci andrò tanto
+1|presto…<P>
+1|Ci andreste voi al
+1|posto mio?<P>
+1|Non credo che la figlia
+1|di Indio voglia fare
+1|del male al bimbo,<P>
+1|ma giusto per
+1|stare tranquilli…<P>
+1|L'ingresso al Lago della
+1|Morte è sorvegliato dal
+1|mio cane,<P>
+1|ma niente paura.<P>
+1|Tirategli un osso
+1|e si addormenterà
+1|subito. …Voilà!<FA>
+
+### 2285
+Sono lo sceriffo da
+2|queste parti.<P>
+3|Quella donna laggiù
+1|sembra avere un sacco
+1|di guai.<FB>
+
+### 2286
+Avete trovato il
+2|piccolino?<P>
+3|È con la figlia di
+1|Indio dall'altra parte
+1|del "Lago della Morte".<FB>
+
+### 2287
+Cosa?! L'avete perso?
+2|E va bene~.
+3|…Prendete questo.<FA>
+
+### 2288
+Vi prego, salvate mio
+2|figlio!<P>
+3|Non andrebbe mai da
+1|solo al "Lago della
+1|Morte".<P>
+1|Sono sicura che l'ha
+1|rapito la figlia
+1|di Indio!<P>
+1|Dopotutto, suo padre
+1|era il capo dei
+1|banditi.<FB>
+
+### 2289
+Salve, piccoli
+2|viaggiatori, come
+3|state oggi?<P>
+1|Questa città era
+1|un porto di pirati.<FB>
+
+### 2290
+Quel vecchio coso?<FB>
+
+### 2291
+È una mongolfiera!
+2|C'è una cesta in
+3|fondo.<FB>
+
+### 2292
+Vi siete liberati dei
+2|fiori mutanti?
+3|Wow!<P>
+1|Questo bimbo cercava
+1|me e si è perso al
+1|Lago della Morte…<P>
+1|L'ho trovato e
+1|portato qui, ma
+1|eravamo intrappolati.<P>
+1|Grazie a voi, ora può
+1|tornare a casa sano
+1|e salvo.<FB>
+
+### 2293
+In città parlano
+2|sempre male di Sisko,<P>
+3|ma non è una
+1|cattiva persona!<P>
+1|Mi insegna un sacco
+1|di cose!<FB>
+
+### 2294
+Non badate a ciò che
+2|ha detto.<P>
+3|La gente della città
+1|crede che mio padre
+1|abbia rubato il tesoro.<P>
+1|Ma io credo da tempo
+1|che mio padre sia
+1|innocente.<P>
+1|Eppure, nessuno visita
+1|nemmeno la sua
+1|tomba…<P>
+1|Solo il suo corvo
+1|gli fa compagnia.<P>
+1|
+1|          …Ho un
+1|favore da chiedervi.<P>
+1|Potreste portare
+1|questi fiori sulla
+1|sua tomba?<FA>
+
+### 2295
+Non lo diceva
+2|con cattiveria.<FB>
+
+### 2296
+Avete portato i fiori
+2|sulla tomba di papà?<P>
+3|Il corvo si ricorderà
+1|di me se gli
+1|mostrate i fiori.<FB>
+
+### 2297
+Grazie! Grazie!<P>
+2|È stata Sisko,
+3|vero?<P>
+1|Tale padre, tale
+1|figlia,
+1|non è vero?<FB>
+
+### 2298
+Vi prego, ragazzi!<P>
+2|Dite a tutti che
+3|Sisko non è una
+1|cattiva persona!<FB>
+
+### 2299
+Grazie, compari!<P>
+2|Se qualcos'altro va
+3|storto, tornate pure
+1|a trovarmi!<FB>

@@ -1,0 +1,473 @@
+### 2110
+<F5 01>6Cracbzzz! Cracbzzz!<P>
+2|TR<FC 1A> Waahh! Fer-bzzt-ma
+3|tutto~~! CRA CRA!<FB>
+
+### 2111
+<F5 01>6Cra! Cra.<P>
+2|TR<FC 1A> Cos'era quello?!<FB>
+
+### 2112
+My, mymy my.<P>
+2|TR<FC 1A> Vi piace la mia
+3|casa rossa?<P>
+1|Ha una stanza sola,
+1|ma è bella grande!<FB>
+
+### 2113
+My, my, mymy.
+2|TR<FC 1A> Che ne dite
+3|della mia casa blu?<P>
+1|Ho traslocato da poco.<FB>
+
+### 2114
+Mymy, my, aimymii.<P>
+2|TR<FC 1A> Non mi basta
+3|una casa qualunque.<P>
+1|Voglio qualcosa
+1|che dia nell'occhio.<FB>
+
+### 2115
+Mymy, my, my.<P>
+2|TR<FC 1A> Servo i clienti
+3|da ben 20
+1|anni.<P>
+1|Se cercate casa,
+1|non c'è niente di
+1|meglio di "My My Home".<FB>
+
+### 2116
+Abbiamo tutto ciò che
+2|non vi serve, e
+3|niente di ciò che serve!<P>
+1|Benvenuti al
+1|"Negozio di Tutto".
+1|Qui si fa solo baratto.<FB>
+
+### 2117
+Siamo porcellini di terra.<P>
+2|Siamo furbi, quindi
+3|capiamo le parole
+1|umane.<P>
+1|Provate a rispondere
+1|alle nostre domande!<FB>
+
+### 2118
+Questa è la sala
+2|archivi.<P>
+3|Chi non ha il
+1|permesso non può
+1|entrare.<FB>
+
+### 2119
+Qui ci sono un sacco
+2|di documenti.<FB>
+
+### 2120
+Sembra l'interruttore
+2|della corrente.<FB>
+
+### 2121
+Pensate a me, tutto
+2|solo al buio in questo
+3|modo!<P>
+1|Sbrigatevi a riaccendere
+1|le luci!<FB>
+
+### 2122
+Dopo tutta la fatica
+2|per liberarsi di noi…<FB>
+
+### 2123
+Sembra la pianta
+2|del
+3|villaggio.<FB>
+
+### 2124
+Eh!?<F5 01>3
+2|C'è stata una
+3|reazione!<FB>
+
+### 2125
+Ehi, aspettate un attimo.<FA>
+
+### 2126
+C'è un interruttore….<FB>
+
+### 2127
+Sembra una
+2|leva?!<FB>
+
+### 2128
+Una bibita energetica?!
+2|Chi l'ha persa?<FB>
+
+### 2129
+È un topo gigante!
+2|Ha rotto lui il
+3|ponte?<FB>
+
+### 2130
+È un topo minuscolo!
+2|Ha rotto lui il
+3|ponte?<FB>
+
+### 2131
+Sembra che qui ci
+2|fosse un ponte.<FB>
+
+### 2132
+Avete trovato ciò
+2|che cercavate?<FB>
+
+### 2133
+Me l'ha detto mio
+2|marito.<P>
+3|Ragazzi, siete
+1|incredibili!<FB>
+
+### 2134
+Di chi farò la
+2|prossima maschera?<FB>
+
+### 2135
+Ho imparato la
+2|lezione…!<FB>
+
+### 2136
+Mi troverò un lavoro
+2|migliore, per il bene
+3|dei miei ragazzi.<FB>
+
+### 2137
+Grazie a voi, ho
+2|aperto gli occhi.<FB>
+
+### 2138
+Chi ascolta più il
+2|rock, ormai?<FB>
+
+### 2139
+Uuh, che bomba~!
+2|Non sarà un genio,
+3|ma guardatelo!<FB>
+
+### 2140
+Essere belli è
+2|un peccato…?<FB>
+
+### 2141
+Che meraviglia!<FB>
+
+### 2142
+Detto tra noi,
+2|però…<FB>
+
+### 2143
+Oh, oh!
+2|Voi ragazzi siete a posto!<FB>
+
+### 2144
+Sono salvo, grazie
+2|a voi!<FB>
+
+### 2145
+Fugo, fugofu. Fugogo!<P>
+2|TR<FC 1A> Sono il maggiore
+3|dei 4 fratelli ragno.<P>
+1|Come osate calpestare
+1|la mia ragnatela?!<FB>
+
+### 2146
+Fugo. Fugooo. Fuungo.<P>
+2|TR<FC 1A> Ho fatto a pezzi un
+3|umano poco tempo fa.<P>
+1|Non sono rimaste
+1|nemmeno le ossa.<FB>
+
+### 2147
+<FE 6A>È Seta di Ragno.<FB>
+
+### 2148
+Sembra che ci stia
+2|solo una persona…
+3|È un ascensore?<FB>
+
+### 2149
+Fugo. Fugo. Fugoo.<P>
+2|TR<FC 1A> Ho perso.
+3|Prendetela pure.
+1|Non vi darò più
+1|fastidio.<FB>
+
+### 2150
+Doccia~.
+2|Mi faccio la doccia~.<P>
+3|Che bello farsi una
+1|doccia calda~.
+1|Lalalala~.<FB>
+
+### 2151
+Ehi! Non entrate così
+2|nelle stanze altrui!
+3|Fuori, all'istante!<P>
+1|Vi aggiungo 20 anni
+1|di pena!<FB>
+
+### 2152
+Ha lasciato i vestiti
+2|sul pavimento.
+3|…Come un bambino.<FB>
+
+### 2153
+È la veste ufficiale
+2|del re.<FB>
+
+### 2154
+"Guida alla pittura
+2|di Caesar n.1, Come
+3|fare il nero"<FB>
+
+### 2155
+"Guida alla pittura
+2|di Caesar n.2, Motivi"<FB>
+
+### 2156
+Stanno tremando!<FB>
+
+### 2157
+Sono ipnotizzati!<FB>
+
+### 2158
+È una porta chiusa
+2|ermeticamente.<FB>
+
+### 2159
+Ahahah, pensate che
+2|abbia paura dei topi?
+3|Sciocchi, sciocchini…<FB>
+
+### 2160
+Contando me e il
+2|sig. Smith, siamo 10
+3|abitanti. 3 sono<P>
+1|donne.<FB>
+
+### 2161
+Voi bambini non
+2|dovreste stare qui…!<FB>
+
+### 2162
+È un cactus
+2|misterioso.<FB>
+
+### 2163
+Accidenti! Deve avere
+2|un punto debole!<FB>
+
+### 2164
+Sembra esserci un
+2|interruttore in cima a
+3|tutte queste casse.<FB>
+
+### 2165
+Sembra una cuccia
+2|per cani…<FB>
+
+### 2166
+Che ci fa qui una
+2|cassaforte…? Si apre?<FB>
+
+### 2167
+La cassaforte è
+2|aperta…<FB>
+
+### 2168
+Ma che diavolo
+2|succede qui…!?<FB>
+
+### 2169
+Lo scantinato di
+2|questa casa porta
+3|alla grotta,<P>
+1|ma il cancello è chiuso
+1|e non si passa!<FB>
+
+### 2170
+2|C'è una corda.<FB>
+
+### 2171
+Questo buco porta alla
+2|colonia dei Blu.<P>
+3|La prima linea l'ha
+1|scavato a rischio vita.<FB>
+
+### 2172
+Oh, cavoli e
+2|cavolini!<P>
+3|Di questo passo, il re
+1|mi farà tagliare la
+1|testa!<P>
+1|Che faccio~?<FB>
+
+### 2173
+Resta solo da dipingere
+2|la veste, ma sono
+3|bloccato.<FB>
+
+### 2174
+    Caesar o Enai
+2|  "Ritratto del Re"
+3|Per i suoi 50 anni.<FB>
+
+### 2175
+Che state facendo?
+2|Lo sistemo io, tornate
+3|più tardi!<FB>
+
+### 2176
+Va bene, va benone,
+2|va bene.<FB>
+
+### 2177
+Come sarebbe che odio
+2|i topi…?<P>
+3|Gli abitanti sono 10
+1|contando me e il
+1|sig. Smith.<P>
+1|3 di loro sono donne…<FB>
+
+### 2178
+Bzz, bzz.<P>
+2|TR<FC 1A> Portiamo questo
+3|dolce miele~.
+1|Por, por, portiamo~.<FB>
+
+### 2179
+Ehi, c'è del
+2|"Soldato Blu"
+3|laggiù!<FB>
+
+### 2180
+Bzz, bzz! Bzz?<P>
+2|TR<FC 1A> Oh, cielo!
+3|Cos'è stato quel rumore?<FB>
+
+### 2181
+<F5 02>pL'altra linea elettrica
+2|va allo stagno…<FB>
+
+### 2182
+<FE 6A>Ahi~! Ahia~!
+2|Scotta. Scotta tanto.<FB>
+
+### 2183
+Mino? Mino, mino?<P>
+2|TR<FC 1A> E voi chi
+3|sareste?<P>
+1|E perché avete fermato
+1|la mia danza geniale?<P>
+1|Quale affare urgente
+1|vi ha spinti a
+1|interferire~?<FB>
+
+### 2184
+Mino, mino, mino, mi!<P>
+2|TR<FC 1A>Gira e rigira.
+3|Giriamo in tondo~.<P>
+1|Se tu sei con me, io
+1|vinco sul mondo~.
+1|<FB>
+
+### 2185
+Mino! Miiino!!<P>
+2|TR<FC 1A> Bene, bene! Ottimo!
+3|Proprio ottimo~!!!<P>
+1|Il mio cappotto è rovinato!<FB>
+
+### 2186
+Mino! Mino, Mino.<P>
+2|TR<FC 1A> Come avete potuto
+3|fare una cosa simile!<P>
+1|Questo… Questo era il
+1|mio preferito…<FB>
+
+### 2187
+Mino, mino, miino.<P>
+2|TR<FC 1A> Se non trovo
+3|presto un altro
+1|cappotto, mi raffreddo!<FB>
+
+### 2188
+Miino, mino, miino.<P>
+2|TR<FC 1A> Dite quel che vi
+3|pare, io non torno
+1|giù~!<FB>
+
+### 2189
+Sembra promettente!<P>
+2|Ci ho lavorato per anni,
+3|quindi sono un po'
+1|nervoso.<FB>
+
+### 2190
+Appunti di Hassan,
+2|"I 5 ingredienti
+3|dell'Ammazzaformiche"<FB>
+
+### 2191
+Che ci fate
+2|qui?<P>
+3|Se non volete essere
+1|di nuovo arrestati,
+1|smettete di fare i loschi!<FB>
+
+### 2192
+Che succede?!
+2|Gli avevo detto di non
+3|fare colpi di testa…<P>
+1|Guardate in che guaio
+1|si è cacciato!<FB>
+
+### 2193
+La squadra d'assalto
+2|della principessa Polly
+3|è stata annientata!<P>
+1|…E peggio ancora…
+1|Lei stessa è stata
+1|fatta prigioniera!<FB>
+
+### 2194
+In tempo di pace i
+2|nostri soldati si sono
+3|così impigriti che<P>
+1|non sono all'altezza
+1|delle formiche!<FB>
+
+### 2195
+È un ponte con un
+2|ingranaggio.<FB>
+
+### 2196
+Cosa posso dire alla
+2|principessa perché mi
+3|perdoni?<FB>
+
+### 2197
+2|Qui c'è una lettera.<FB>
+
+### 2198
+Questo dipinto ritrae
+2|la compianta madre
+3|di Polly…<FB>
+
+### 2199
+Tutti questi bambini
+2|vengono qui per il
+3|giocattolo in omaggio.<P>
+1|Ogni caramella ha in
+1|regalo un giocattolo
+1|"Great Mecha".<P>
+1|A quanto pare, "Great
+1|Mecha" va di moda tra
+1|i bambini di oggi.<FB>

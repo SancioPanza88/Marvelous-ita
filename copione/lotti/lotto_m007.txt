@@ -1,0 +1,560 @@
+### 0501
+Quello non è in
+2|vendita.<P>
+3|Ma se lo vuoi DAVVERO,
+1|credo che si possa
+1|trattare.<P>
+1|Scegli cosa scambiare
+1|dal pannello <FE 6D 4A>
+1|qui accanto.<FB>
+
+### 0502
+I suoi vestiti sono
+2|proprio come…
+3|…<P>
+1|Proprio come… il
+1|pirata… che sta…
+1|dietro di voi…?!<FB>
+
+### 0503
+Eh? Quel tipo dietro
+2|di voi ha un'aria
+3|familiare.<FB>
+
+### 0504
+Non posso scambiarlo
+2|con una cosa così.<P>
+3|Non avete
+1|niente di meglio?<FB>
+
+### 0505
+Cosa? Non si apre.
+2|Questa chiave dev'essere
+3|sbagliata.<FA>
+
+### 0506
+<F5 00>{D3}…Qualcuno…
+2|Aiutatemi!<FA>
+
+### 0507
+<F2>Avete il Vaso di
+2|Napoleone!<P>
+3|Guardandolo bene, è
+1|pieno di buchi.
+1|<P>
+1|C'è qualcosa
+1|di losco…
+1|<P>
+1|
+1|
+1|<FA>
+
+### 0508
+<F2>Avete il Vaso dello
+2|Shogun!<P>
+3|Sem… sembra un
+1|vaso normale.<P>
+1|
+1|Sarà un falso…?
+1|<FA>
+
+### 0509
+<F2>Avete il Cappello da
+2|Chef!<P>
+3|Per essere usato da 30
+1|anni sembra nuovo…<P>
+1|
+1|…Che storia è?
+1|<FA>
+
+### 0510
+<F2>Avete una Cuccia!<P>
+2|Sembra l'unico
+3|oggetto autentico
+1|del negozio.<FA>
+
+### 0511
+Quello è il pezzo
+2|migliore che ho!<P>
+3|E' il guscio di un
+1|mostro alieno di un
+1|famoso film di fantascienza.<P>
+1|Si addice ai tuoi
+1|gusti da nerd?
+1|<P>
+1|Scegli cosa scambiare
+1|con <FE 6D 4A>.<FB>
+
+### 0512
+Aprila in fretta, così
+2|entriamo!<FB>
+
+### 0513
+<F2>Avete ripreso il
+2|Guscio d'Insetto!<P>
+3|Quel coso non era in
+1|nessun film.<FA>
+
+### 0514
+Cosa c'è? Volete
+2|mostrarmi qualcosa?<P>
+3|Da laggiù non
+1|vedo.
+1|Avvicinatevi un po'.<FB>
+
+### 0515
+Oh! Guarda qua, una
+2|Coda di Rana! Bravi.
+3|Un momento.<FA>
+
+### 0516
+Oh! Guarda qua, una
+2|Conchiglia Silvana!
+3|Bravi. Un momento.<FA>
+
+### 0517
+Oh! Guarda qua, una
+2|Pelliccia Silvana!
+3|Bravi. Un momento.<FA>
+
+### 0518
+Oh! Guarda qua, una
+2|Goccia d'Oro! Bravi.
+3|Un momento.<FA>
+
+### 0519
+Oh! Guarda qua, il
+2|Filo d'Argento! Bravi.
+3|Un momento.<FA>
+
+### 0520
+Mancano ancora <FE 6B>
+2|oggetti.<FB>
+
+### 0521
+Ottimo! Ora ho tutto
+2|quello che serve per
+3|l'Antiformiche.<P>
+1|Cominciamo
+1|subito.<FA>
+
+### 0522
+Ora siete liberi.
+2|Godetevi una visita
+3|al nostro regno.<P>
+1|Vi sono molto grato.
+1|
+1|Bel lavoro.<FB>
+
+### 0523
+Questo quadro è
+2|proprio brutto.<FB>
+
+### 0524
+Avvicinatevi un po'!<FB>
+
+### 0525
+<F5 01>wQuiz di Gingham!
+2|Avete 3 secondi.
+3|Il castello ha…<P>
+1|    18 ventagli
+1|    20 ventagli
+1|    22 ventagli<FE 6E><FA>
+
+### 0526
+<F5 01>wQuiz di Gingham!
+2|Avete 3 secondi.
+3|Questo re è il…<P>
+1|    2° re
+1|    3° re
+1|    4° re<FE 6E><FA>
+
+### 0527
+<F5 01>wQuiz di Gingham!
+2|Avete 3 secondi.
+3|La sedia di Polly era…<P>
+1|    Blu
+1|    Rossa
+1|    Gialla<FE 6E><FA>
+
+### 0528
+<F5 01>wQuiz di Gingham!
+2|Avete 3 secondi.
+3|Se Hassan è alto 3cm,<P>
+1|    Solomon è 6cm
+1|    Solomon è 5cm
+1|    Solomon è 4cm<FE 6E><FA>
+
+### 0529
+<F5 01>wQuiz di Gingham!
+2|Avete 3 secondi.
+3|I boxer del re sono<FC 1A><P>
+1|    A pois
+1|    A righe
+1|    A quadri<FE 6E><FA>
+
+### 0530
+<F5 01>wQuiz di Gingham!
+2|Avete 3 secondi.
+3|Vi siete rimpiccioliti…<P>
+1|    Palla nella foresta
+1|    Palla nel castello
+1|    Palla nella grotta<FE 6E><FA>
+
+### 0531
+<F5 01>wQuiz di Gingham!
+2|Avete 3 secondi.
+3|Il soprannome di Polly…<P>
+1|    Gattaccio
+1|    Maschiaccio
+1|    Monello<FE 6E><FA>
+
+### 0532
+<F5 01>wQuiz di Gingham!
+2|Avete 3 secondi.
+3|Chi parla da femminuccia?<P>
+1|    Hassan
+1|    Solomon
+1|    Polly<FE 6E><FA>
+
+### 0533
+Caspita! Risposta
+2|esatta. Se rispondete
+3|ai miei amici,<P>
+1|vi darò un bel
+1|regalo.<FA>
+
+### 0534
+<FE 6A>
+2|       Fiuu~!<FB>
+
+### 0535
+Pecca~to.
+2|Risposta sbaglia~ta!<FA>
+
+### 0536
+Din-din! Esatto!
+2|Le avete indovinate tutte!
+3|Ecco un regalo.<FA>
+
+### 0537
+<F2>Guscio di Porcellino.<P>
+2|E' una bella cosa?
+3|…Non sembra un
+1|granché come premio.<FA>
+
+### 0538
+Non fate cadere altro
+2|miele quaggiù,
+3|capito?<P>
+1|Io qui ci devo
+1|campare,<P>
+1|quindi non ve ne do
+1|più!<FA>
+
+### 0539
+Visto che avete trovato
+2|la strada, ecco una
+3|poesia…<P>
+1|Volere è
+1|potere.<P>
+1|
+1|Se non vuoi,
+1|non succede niente.<P>
+1|
+1|…L'ho copiata.
+1|            del Cactus<FB>
+
+### 0540
+Qui conserviamo vari
+2|documenti usati per
+3|fare l'Antiformiche.<P>
+1|Non potete entrare
+1|così e leggere
+1|tutto!<FB>
+
+### 0541
+Cosa? Nella foresta c'è
+2|un cavo elettrico
+3|caduto?<P>
+1|L'interruttore è
+1|dentro questa stanza…
+1|Ma se volete entrare,<P>
+1|vi serve il permesso
+1|esplicito del
+1|soldato n.<FE 6D 28>.<P>
+1|Fatevi dare il permesso
+1|e poi tornate.<FA>
+
+### 0542
+Qui ci sono un sacco
+2|di libri difficili.
+3|<P>
+1|Io non ci capisco
+1|niente. Forse a voi
+1|diranno qualcosa.<FB>
+
+### 0543
+Ci sono due leve.
+2|Quale tirate?<FB>
+
+### 0544
+…Ok… Forse ha
+2|funzionato?<FA>
+
+### 0545
+2|Ops! E' buio pesto!<FA>
+
+### 0546
+Si dice che
+2|nell'archivio appaia
+3|un fantasma…<P>
+1|Spero di non vederlo mai!<FB>
+
+### 0547
+Sembra che il
+2|parassita stia
+3|succhiando la linfa<P>
+1|del baobab.<P>
+1|Sembra che possa
+1|prendere vita da un
+1|momento all'altro…<P>
+1|Che schifo…
+1|Smettila di fissarlo!
+1|<FB>
+
+### 0548
+E' un bersaglio con
+2|la faccia di qualcuno!<FB>
+
+### 0549
+E' duro e non si muove,
+2|e gli attacchi normali
+3|non lo scalfiscono!<P>
+1|Non c'è un attacco
+1|che possiamo fare
+1|da vicino?<FB>
+
+### 0550
+Vorrei attaccare
+2|qui, ma se vi
+3|avvicinate vi colpisce!<FB>
+
+### 0551
+Fa un po' cal~do.
+2|Non c'è una canzone
+3|più fresca…?<FB>
+
+### 0552
+A meno di tirarlo
+2|con qualcosa…<P>
+3|Da qui non possiamo
+1|fare niente.<FB>
+
+### 0553
+Questo è il massimo
+2|per nutrirsi!<FB>
+
+### 0554
+Squit, squit.<P>
+2|TR<FC 1A> Che fame…
+3|Se mi entrasse in bocca,
+1|mangerei pure un amo!<FB>
+
+### 0555
+Squit, squit!<P>
+2|TR<FC 1A> Lo sapete che ci
+3|sentiamo tanto soli?<P>
+1|Così soli che ci
+1|teniamo l'un l'altro
+1|per la coda.<P>
+1|Abbiamo scoperto che
+1|un po' consola…
+1|<FB>
+
+### 0556
+Non c'è qualcosa da
+2|usare come
+3|ponte?<FB>
+
+### 0557
+Aspettate che esca la
+2|faccia e cercate
+3|di nuovo!<FB>
+
+### 0558
+In montagna è così
+2|pericoloso.<P>
+3|Voglio sistemarmi e
+1|aprire un ristorante
+1|con mia moglie!<P>
+1|La sua cucina è la
+1|fine del mondo!<FB>
+
+### 0559
+Che ne dite di sposare
+2|la mia bambina quando
+3|sarà grande…?<P>
+1|
+1|…Scherzo, piccolo
+1|furfante!!<FB>
+
+### 0560
+Da grande voglio fare
+2|i costumi per il
+3|cinema.<P>
+1|Oggi i film usano
+1|troppa computer grafica.<FB>
+
+### 0561
+Grazie al signor Smith,
+2|sono diventato il
+3|vero gestore.<FB>
+
+### 0562
+…Ma senza la boxe,
+2|sono solo un altro
+3|bel faccino…<P>
+1|Forse diventerò una
+1|celebrità!<FB>
+
+### 0563
+Voglio guadagnare {9E}10K
+2|al mese…<P>
+3|Quindi troverò un vero
+1|lavoro e sgobberò
+1|finché non ci riesco!<FB>
+
+### 0564
+Ascolta, adesso sono
+2|un rapper, fratello!<FB>
+
+### 0565
+Ehi ragazzi, guardate
+2|qui! Questo è più
+3|tonto di una pianta!<FB>
+
+### 0566
+Se queste foto
+2|girano,<P>
+3|finirò per rubare
+1|ancora più cuori…<FB>
+
+### 0567
+Mi avete proprio
+2|salvato!…
+3|Non vi ricordate di me?<FB>
+
+### 0568
+Non è che sia un'isola
+2|deserta,<P>
+3|quindi non capisco
+1|perché dobbiamo stare
+1|in tenda qui fuori…<FB>
+
+### 0569
+Grazie di tutto
+2|l'aiuto.<P>
+3|Credo che scriverò
+1|queste avventure
+1|in un libro.<P>
+1|Se lo vedete, datene
+1|una lettura…
+1|<P>
+1|  Sei un brav'uomo!
+1|<FB>
+
+### 0570
+Potete tenere la
+2|Sfera di Cristallo.<P>
+3|Oggi ho imparato che
+1|ci sono ancora dei
+1|misteri<P>
+1|a questo mondo che
+1|non si spiegano
+1|facilmente.<P>
+1|Ah, ho dimenticato di
+1|chiedervi i nomi.<P>
+1|Vi chiamate squadra
+1|<FE 6D 1A>?
+1|<P>
+1|Capisco, perché siete
+1|sempre insieme.
+1|Va bene!<FB>
+
+### 0571
+Fugugo? Fuugo, fugogo!<P>
+2|TR<FC 1A> .. Lo so. Siete
+3|qui per la cosa sulla
+1|mia schiena.<P>
+1|Se pensate di poterla
+1|prendere, metteteci
+1|tutto quello che avete!<P>
+1|Non sono un pivello
+1|come i miei fratelli,
+1|preparatevi!<FB>
+
+### 0572
+Fugo, fugo… Fuuugo.<P>
+2|TR<FC 1A> Fra tutti gli
+3|umani del mondo… vi
+1|giudico…<P>
+1|
+1|…IMBATTIBILI.
+1|<FB>
+
+### 0573
+<FE 6A>Sembra che si
+2|possa staccare.<FB>
+
+### 0574
+E' la voce della
+2|maestra Gina!! Maestra,
+3|siamo noi, squadra <FE 6D 1A>!!<FA>
+
+### 0575
+Fugo. Fugo, fuugo.<P>
+2|TR<FC 1A> Usatela bene.<FB>
+
+### 0576
+Sbirciamo?
+2|    C…certo.
+3|    N…non potrei!<FE 68><FA>
+
+### 0577
+Se facciamo arrabbiare
+2|ancora il re,<P>
+3|chissà quale sarebbe
+1|la punizione.
+1|<FB>
+
+### 0578
+Come osate!!<P>
+2|Voi cretini siete
+3|piombati nelle mie
+1|stanze private e…<P>
+1|
+1|…Mi avete spiato!!
+1|<P>
+1|Dove sono le guardie?!
+1|Fuori di qui in
+1|questo istante!!<FB>
+
+### 0579
+Per favore, uscite…
+2|Perderò la mia
+3|dignità di re!<FB>
+
+### 0580
+<F2>Tadadadadan!
+2|Avete le "Mutande a
+3|Righe" del re.<FA>
+
+### 0581
+Avrà caldo con una
+2|veste così spessa.<FB>
+
+### 0582
+Hanno righe blu e
+2|verdi.
+3|Molto eleganti.<FB>

@@ -1,0 +1,107 @@
+### 0505
+Cosa? Non si apre.
+2|Questa chiave sarà
+3|sbagliata.<FA>
+
+### 0507
+<F2>Avete il Vaso di
+2|Napoleone!<P>
+3|No, non è un vaso
+1|da notte…
+1|<P>
+1|Guardandolo bene,
+1|è pieno di buchi.<P>
+1|C'è qualcosa
+1|di losco…
+1|<FA>
+
+### 0509
+<F2>Cappello da Chef!<P>
+2|Sembra un po' troppo
+3|nuovo per essere usato
+1|da 30 anni…<P>
+1|
+1|…Che storia è?
+1|<FA>
+
+### 0511
+Quello è il pezzo
+2|migliore che ho!<P>
+3|E' il guscio di un
+1|mostro alieno di un
+1|famoso film sci-fi.<P>
+1|Si addice ai tuoi
+1|gusti da nerd?
+1|<P>
+1|Scegli cosa scambiare
+1|con <FE 6D 4A>.<FB>
+
+### 0526
+<F5 01>wQuiz di Gingham!
+2|Avete 3 secondi.
+3|Questo re è il…<P>
+1|    Secondo re
+1|    Terzo re
+1|    Quarto re<FE 6E><FA>
+
+### 0532
+<F5 01>wQuiz di Gingham!
+2|Avete 3 secondi.
+3|Chi parla da donnina?<P>
+1|    Hassan
+1|    Solomon
+1|    Polly<FE 6E><FA>
+
+### 0536
+Din-din! Esatto!
+2|Tutte giuste!
+3|Ecco un regalo.<FA>
+
+### 0539
+Avete trovato la
+2|strada, ecco una
+3|poesia…<P>
+1|Volere è
+1|potere.<P>
+1|
+1|Se non vuoi,
+1|non succede niente.<P>
+1|
+1|…L'ho copiata.
+1|            del Cactus<FB>
+
+### 0546
+Si dice che
+2|nell'archivio appaia
+3|un fantasma…<P>
+1|Spero di non vederlo!<FB>
+
+### 0560
+Da grande voglio fare
+2|i costumi per il
+3|cinema.<P>
+1|Oggi i film usano
+1|troppi effetti al PC.<FB>
+
+### 0570
+Potete tenere la
+2|Sfera di Cristallo.<P>
+3|Oggi ho imparato che
+1|ci sono ancora dei
+1|misteri<P>
+1|a questo mondo che
+1|non si spiegano
+1|facilmente.<P>
+1|Ah, ho dimenticato di
+1|chiedervi i nomi.<P>
+1|Siete la squadra <FE 6D 1A>
+1|giusto?
+1|<P>
+1|Capisco, perché siete
+1|sempre insieme.
+1|Va bene!<FB>
+
+### 0574
+E' la voce della
+2|maestra!! Maestra,
+3|siamo la squadra <FE 6D 1A>!!<FA>

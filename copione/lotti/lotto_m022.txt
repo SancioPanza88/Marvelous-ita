@@ -1,0 +1,449 @@
+### 1840
+Avete aperto il forziere
+2|blu?<P>
+3|Se usate quello che
+1|c'era dentro con <FE 6D 4A>,
+1|comandate il robot!<FA>
+
+### 1841
+Premete i 4 interruttori
+2|nella grotta con
+3|<FE 6D 48>!<P>
+1|Fate capo il ragazzo
+1|più forte!<FA>
+
+### 1842
+Aprite il forziere e
+2|premete l'interruttore
+3|a sinistra.<P>
+1|Capite cosa
+1|intendo?<FA>
+
+### 1843
+La corda si usa
+2|con <FE 6D 4A>.<P>
+3|Usatela vicino al
+1|masso spostabile!<FA>
+
+### 1844
+Usate il carrello della
+2|miniera per andare
+3|avanti!<P>
+1|Salite sul carrello,
+1|perché io in braccio
+1|non vi porto~!<FA>
+
+### 1845
+Sei una vergogna,
+2|Max.<FB>
+
+### 1846
+Siete entrati nella
+2|villa?<P>
+3|Lì dentro c'è una
+1|pendola…<P>
+1|Secondo il biglietto
+1|di Indio, mettetela
+1|sulle 9<FC 1A>30 e poi 10<FC 1A>30.<FA>
+
+### 1847
+La persona uscita
+2|dall'orologio era
+3|l'uomo della foto.<P>
+1|Quindi quella stanza
+1|è una stanza del tempo!<P>
+1|Se guardate lì dentro,
+1|forse troverete la
+1|macchina del tempo!<P>
+1|L'orologio viola
+1|è parecchio sospetto~.<FA>
+
+### 1848
+Trovate l'uomo del
+2|lago e mostrategli il
+3|pinguino!<P>
+1|Forse sarà così
+1|felice da farvi
+1|un regalo.<FA>
+
+### 1849
+Avete ascoltato
+2|Indio?<P>
+3|Chissà cosa dirà
+1|se gli mostrate
+1|quella foto.<FA>
+
+### 1850
+Avete mostrato la foto
+2|a Benson?<P>
+3|Di sicuro così
+1|vi crederà.<FA>
+
+### 1851
+Benson sa tutto dei
+2|Fratelli Mammut,<P>
+3|perché non gli
+1|chiedete di farvi
+1|da guida?<FA>
+
+### 1852
+Cercate il segnale di
+2|fumo di Benson.<P>
+3|Usate il cannocchiale
+1|nel covo dei banditi.<P>
+1|Andate dove si trova
+1|il suo segnale.<P>
+1|E usate il gioco
+1|di squadra~.<FA>
+
+### 1853
+A proposito di Pietre
+2|Fortuna, ne avete
+3|una bella scorta?<P>
+1|Ne servono tante per
+1|battere i banditi.<FA>
+
+### 1854
+Esaminate i Fratelli
+2|Mammut col tasto
+3|<FE 6D 02>~!<FA>
+
+### 1855
+Le ultime parole di
+2|Benson saranno nascoste
+3|nel villaggio.<P>
+1|Se seguite le sue
+1|istruzioni, troverete
+1|la Sfera di Cristallo!<FA>
+
+### 1856
+Provate a parlare con
+2|l'uomo vicino al gorilla.<FA>
+
+### 1857
+C'è un punto da cui
+2|sbirciare in casa
+3|di John.<P>
+1|L'avete trovato?
+1|Tutti hanno segreti!<FA>
+
+### 1858
+Siete bloccati nella
+2|grotta dei topi?<P>
+3|Prendete papà topo
+1|come un pesce e poi
+1|tiratelo piano.<FA>
+
+### 1859
+La Sfera di Cristallo
+2|è nella grotta sotto!
+3|Presto, prendetela!<FA>
+
+### 1860
+Non scordate di dare
+2|a Hassan gli oggetti
+3|trovati nella foresta!<FA>
+
+### 1861
+Dovreste scavare qui.<FB>
+
+### 1862
+Che noia. Lo swing
+2|piace solo ai
+3|vecchi!<FB>
+
+### 1863
+Il nonno sarebbe
+2|felice di sentirlo…<FB>
+
+### 1864
+Trovate Hassan.
+2|E' da qualche parte
+3|nel formicaio.<P>
+1|Forse sotto un masso.<FA>
+
+### 1865
+Nasi, zampe d'uccello,
+2|di formica, di ragno…
+3|Saranno numeri?<FB>
+
+### 1866
+Avvicinatevi.<FB>
+
+### 1867
+…Non è questo che
+2|dovrei dire adesso!<FB>
+
+### 1868
+E' un cartello
+2|"Vietato l'ingresso".<FB>
+
+### 1869
+2|I tipi di prima?<FB>
+
+### 1870
+Tu sei il fratello
+2|maggiore!<FB>
+
+### 1871
+Oh, ha preso…
+2|qualcosa!<FB>
+
+### 1872
+Tu sei il secondo
+2|fratello!<FB>
+
+### 1873
+E' un masso
+2|sospetto.<P>
+3|Credo che potremmo
+1|sollevarlo lavorando
+1|insieme…<FB>
+
+### 1874
+E' la scimmia di
+2|prima.<FB>
+
+### 1875
+Non usciranno più
+2|Pietre Fortuna.<FB>
+
+### 1876
+Tu sei il più piccolo!<FB>
+
+### 1877
+Uuu, kii, kii, kii!<P>
+2|TR<FC 1A> Siete in ritardo!
+3|Che succede?<FB>
+
+### 1878
+Cosa sono queste tavole?<FB>
+
+### 1879
+Eh? Le impronte
+2|finiscono qui.
+3|Chissà perché?<FB>
+
+### 1880
+Cos'è questo?
+2|Ci sono 4 maniglie.<FB>
+
+### 1881
+Cos'ha quest'erba?
+2|E' secca come una
+3|mummia.<FB>
+
+### 1882
+Che robot strano.
+2|Spruzza acqua come
+3|se fosse impazzito.<FB>
+
+### 1883
+C'è qualcosa scritto
+2|per terra…<FB>
+
+### 1884
+2|Grr. Bau bau. Grrr.<FB>
+
+### 1885
+Non si legge cosa
+2|c'è scritto.<FB>
+
+### 1886
+Ehi!
+2|E' la Sfera di Cristallo!<FB>
+
+### 1887
+E' un tubo.<FB>
+
+### 1888
+Esce un sacco d'acqua.<FB>
+
+### 1889
+Allora, ragazzi, non
+2|fate niente di troppo
+3|pericoloso, d'accordo?<P>
+1|Non serve che diciate
+1|niente.<P>
+1|Lo vedo nei vostri
+1|occhi…<FB>
+
+### 1890
+Ah… Quindi vuol dire…
+2|Eravate preoccupati
+3|per me,<P>
+1|e ora siete diventati
+1|fantasmi per venire
+1|a trovarmi?!<FB>
+
+### 1891
+E' una strana roccia
+2|che va su e
+3|giù!<FB>
+
+### 1892
+Grazie di aver
+2|raccolto la legna,
+3|squadra <FE 6D 1A>.<FB>
+
+### 1893
+Questo tubo è
+2|proprio d'intralcio…<FB>
+
+### 1894
+Cos'è questo segno?<FB>
+
+### 1895
+La pianta che mi ha
+2|attaccato era
+3|enorme…!<FB>
+
+### 1896
+2| Eh? C'è un buco.<FB>
+
+### 1897
+2|     E' un cartello!<FB>
+
+### 1898
+Un forziere!!<FB>
+
+### 1899
+Dorothy mi ha detto
+2|che avete raccolto
+3|la legna!<FB>
+
+### 1900
+Il parassita è stato
+2|eliminato dal
+3|baobab.<FB>
+
+### 1901
+Peccato.
+2|Il forziere è vuoto.<FB>
+
+### 1902
+Perché c'è una porta
+2|qui?<FB>
+
+### 1903
+Cip cip. Cirù.<P>
+2|TR<FC 1A> Finalmente siete
+3|qui.<P>
+1|Da qui in poi comincia
+1|il bello.<FB>
+
+### 1904
+Ehm, è uscito
+2|qualcosa.<FB>
+
+### 1905
+<F5 00>WEh?
+2|Questo è… Sangue!!
+3|M…Maestra Gina…!!<FB>
+
+### 1906
+Yahoo~!!<P>
+2|Voi teppistelli non
+3|entrate se non siete
+1|tutti insieme!<FB>
+
+### 1907
+Ehi, ehi!
+2|Se sei un uomo, vieni
+3|uno contro uno.<FB>
+
+### 1908
+Mi chiamano Bob lo
+2|Schiacciatore!<P>
+3|Sono specialista nel
+1|risistemare facce!<FB>
+
+### 1909
+Ciuf, ciuf!
+2|Arriva il treno!<P>
+3|Se vi prende vi
+1|rovina la giornata!<FB>
+
+### 1910
+Guardate! Legna!<FB>
+
+### 1911
+La foto ha detto
+2|qualcosa?<FB>
+
+### 1912
+E' il ritratto del
+2|nonno del pirata
+3|Blue.<FB>
+
+### 1913
+Quel pannello è per
+2|il motore della nave.<FB>
+
+### 1914
+…Che quadro
+2|grande.<FB>
+
+### 1915
+Chissà cosa tirerà
+2|su.<FB>
+
+### 1916
+Avete preso <FE 6D 2A> pezzi
+2|di legna, squadra
+3|<FE 6D 1A>?<FB>
+
+### 1917
+Cos'è?<FB>
+
+### 1918
+Che succede, marmocchi?<FB>
+
+### 1919
+Un lettino minuscolo…
+2|Chi ci riuscirà
+3|a dormire?<FB>
+
+### 1920
+Cosa volete,
+2|mocciosi?<P>
+3|Siete invidiosi della
+1|mia bellezza e volete
+1|rubarci l'olio!?<FB>
+
+### 1921
+Cos'è questo?
+2|Sembra un
+3|interruttore…<FB>
+
+### 1922
+La vostra squadra si
+2|occupa della legna.<P>
+3|Vediamo, ne servono
+1|<FE 6D 2A> pezzi…<FB>
+
+### 1924
+E' una Sfera di Cristallo!<FB>
+
+### 1925
+…Abbiamo ascoltato gli
+2|animali e raccolto
+3|le Sfere di Cristallo…<P>
+1|E adesso?<FB>
+
+### 1926
+Oh, della legna?<FA>
+
+### 1927
+Cip cip, cip.<P>
+2|TR<FC 1A> …Il nostro compito
+3|è finito.
+1|Il resto tocca a voi.<FB>
+
+### 1928
+L'avete preso?
+2|Il tempo è denaro,
+3|sbrigatevi!<FB>
+
+### 1929
+2|    Abboccaaaa!!!!<FB>

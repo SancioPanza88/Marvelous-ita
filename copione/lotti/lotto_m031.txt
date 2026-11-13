@@ -1,0 +1,595 @@
+### 2700
+Polly non è nella sua
+2|stanza… Chissà dove
+3|sarà andata?<FB>
+
+### 2701
+Cos'è successo a
+2|Polly?<P>
+3|…Oh, è salva?
+1|Che sollievo.<FB>
+
+### 2702
+È il nostro ritratto!<P>
+2|È stato dipinto in
+3|blu… Rosso… E
+1|poi verde, credo.<FB>
+
+### 2703
+Benv…
+2|Oh, i ragazzi che
+3|hanno invaso il regno.<P>
+1|Dovreste stare a
+1|gironzolare qui?<FB>
+
+### 2704
+Che c'è,
+2|bambini?<P>
+3|Se siete stanchi,
+1|riposate pure nella
+1|mia locanda.<P>
+1|Il conto lo paga
+1|Hassan, quindi non
+1|preoccupatevi.<FB>
+
+### 2705
+Fugofugo, fugogo.<P>
+2|TR<FC 1A> Sai calciare?
+3|Faccio passare 1
+1|calciatore.<P>
+1| Che ne dici?<FE 6A>
+1|    Fammi passare.
+1|    Tornerò dopo.<FE 68><FA>
+
+### 2706
+Guardate!! Ragazzi,
+2|dicevate la verità!!<P>
+3|Tutto fuori dal
+1|castello sta tornando
+1|normale.<FB>
+
+### 2707
+…Qualcosa si muove.<FB>
+
+### 2708
+Ah! Questo è un uovo
+2|d'aquila!<FB>
+
+### 2709
+Oh!
+2|Viaggiatori, grazie!<P>
+3|La principessa Polly
+1|è tornata sana e salva
+1|al castello.<FB>
+
+### 2710
+Oh! Siete tornati!<P>
+2|…Lo sapevo che non
+3|eravate ragazzi
+1|qualunque.<FB>
+
+### 2711
+Grazie per aver salvato
+2|gli altri soldati.<P>
+3|Tutti pregano
+1|per voi.<FB>
+
+### 2712
+Avete avuto problemi
+2|con le "Formiche
+3|Blu"?<P>
+1|Come siete riusciti
+1|a sconfiggerle?<FB>
+
+### 2713
+Ho saputo che avete
+2|sconfitto la "Regina".
+3|Vi ringrazio di cuore.<FB>
+
+### 2714
+Siete ragazzi
+2|davvero notevoli.<P>
+3|Noi adulti eravamo
+1|disperati, ma voi
+1|ci avete salvati.<FB>
+
+### 2715
+Ho sentito. Siete
+2|proprio bravi.<P>
+3|Perché non restate
+1|e vi arruolate?<FB>
+
+### 2716
+Avete già visto
+2|il re?<P>
+3|Di sicuro avrà una
+1|ricompensa speciale
+1|per voi.<FB>
+
+### 2717
+Grazie, squadra <FE 6D 1A>.<P>
+2|    …Cosa?…<P>
+3|Volete sapere come
+1|so il vostro nome?<FB>
+
+### 2718
+Ho perso il "Soldato
+2|Blu" dentro il nido
+3|delle "Cose Blu".<P>
+1|Vi ricordate di me?<FB>
+
+### 2719
+Davvero notevoli.<P>
+2|Spero che i miei figli
+3|crescano come
+1|voi.<FB>
+
+### 2720
+Bambini che non
+2|conoscono paura.<P>
+3|Finché vivrò,<P>
+1|non dimenticherò ciò
+1|che la squadra <FE 6D 1A>
+1|ha fatto per noi.<FB>
+
+### 2721
+Grazie per avermi
+2|salvato nel nido.
+3|Eravate come angeli.<FB>
+
+### 2722
+Grazie per avermi
+2|salvato nel nido.
+3|Non vi dimenticherò.<FB>
+
+### 2723
+Grazie, squadra
+2|<FE 6D 1A>.<P>
+3|Se non fosse per voi,
+1|ora non sarei
+1|qui in piedi.<FB>
+
+### 2724
+Bravi, siete tornati
+2|tutti interi.<P>
+3|Non voglio pensare
+1|a cosa mi sarebbe
+1|successo se voi<P>
+1|non ci foste stati,
+1|squadra <FE 6D 1A>…<FB>
+
+### 2725
+Evviva!<P>
+2|Che shock, avete
+3|sconfitto la regina
+1|tutti da soli!<FB>
+
+### 2726
+Grazie, viaggiatori.<P>
+2|Ci dispiace tanto
+3|avervi trattato da
+1|criminali.<P>
+1|Nella confusione,
+1|abbiamo esagerato.<FB>
+
+### 2727
+Oh! Siete tornati!
+2|Com'era il Cannone
+3|Buster?<P>
+1|Sapevo che ce
+1|l'avreste fatta!<FB>
+
+### 2728
+Oooh, il giardino
+2|privato del re…<P>
+3|Non ne avevo idea…<P>
+1|…Beh… È un…
+1|bel giardino, credo.<FB>
+
+### 2729
+…Eh?
+2|Cos'è questa sfera
+3|gigante…?<FB>
+
+### 2730
+Cosa?…
+2|Cos'ha la Sfera
+3|di Cristallo?<FB>
+
+### 2731
+Cosa state dicendo?!
+2|Allora…!!<P>
+3|State dicendo che
+1|tutto fuori dal
+1|castello sembra enorme…<P>
+1|Perché NOI ci siamo
+1|rimpiccioliti?!?<FB>
+
+### 2732
+Ho sentito cosa avete
+2|detto. Prendete pure
+3|questa "ricompensa".<FB>
+
+### 2733
+Cosa farete?<P>
+2|…La Sfera di Cristallo
+3|è troppo grande per
+1|passare dall'ingresso.<FB>
+
+### 2734
+Il re è un po'
+2|pigro.<P>
+3|Scarica sempre i suoi
+1|problemi sugli altri…<P>
+1|Ah, ma non ditegli
+1|che ve l'ho detto.<FB>
+
+### 2735
+Come si sposta questa
+2|sfera gigante?<FB>
+
+### 2736
+Chissà se unendo le
+2|forze riusciamo a
+3|sollevarla…?<FB>
+
+### 2737
+Avete imparato il
+2|motivo dell'uovo?<FB>
+
+### 2738
+Chissà se l'idea di
+2|Solomon funzionerà
+3|davvero?<P>
+1|L'aquila la porterà
+1|davvero via…?<FB>
+
+### 2739
+Quindi dovete dipingere
+2|il motivo di un uovo
+3|su questa sfera…<FB>
+
+### 2740
+Che cosa state
+2|aspettando?<P>
+3|Sbrigatevi a trovare
+1|un uovo!<FB>
+
+### 2741
+Oh, sono tornati gli
+2|eroi.<P>
+3|Pare che abbiate dato
+1|spettacolo là dentro.<P>
+1|Tutta la città
+1|ne parla.<FB>
+
+### 2742
+Cippi cip~.<P>
+2|TR<FC 1A> Che state
+3|facendo?<P>
+1|Sbrigatevi a trovare
+1|la Sfera di Cristallo!<FB>
+
+### 2743
+Cip cip.<P>
+2|TR<FC 1A> Pare che abbiate
+3|trovato un'altra
+1|Sfera di Cristallo.<FB>
+
+### 2744
+Cippi cip!!<P>
+2|TR<FC 1A> Il "Cristallo
+3|Blu"!!
+1|Ottimo lavoro.<P>
+1|Pare che fosse questo
+1|il responsabile di
+1|tutti i salti nel tempo.<FB>
+
+### 2745
+Cippi cip!<P>
+2|TR<FC 1A> Wow, il "Cristallo
+3|Giallo"!!
+1|Ottimo lavoro.<P>
+1|Chissà se era questa
+1|sfera a far prendere
+1|alle piante forme<P>
+1|umane e farle
+1|muovere.<FB>
+
+### 2746
+Cippi cip.
+2|TR<FC 1A> Il "Cristallo
+3|Verde".
+1|Ottimo lavoro.<P>
+1|Credo che questa Sfera
+1|abbia rimpicciolito
+1|tutto il regno.<FB>
+
+### 2747
+Uuukii! Uuukii!<P>
+2|TR<FC 1A> Tu trovato Sfera
+3|di Cristallo?<FB>
+
+### 2748
+Cippi cip.<P>
+2|TR<FC 1A> Che state
+3|facendo?<P>
+1|Squadra <FE 6D 1A>?
+1|Squadra Pigrona!<P>
+1|Mettete <FE 6B> Pietra
+1|Fortuna nella fornace
+1|e salteteci sopra!<P>
+1|Sennò la nave non
+1|si muove!<FB>
+
+### 2749
+Uuu-kii-kii!<P>
+2|TR<FC 1A> Se no avere <FE 6B>
+3|Pietra, trova altre
+1|su isola.<FB>
+
+### 2750
+Cip cip.<P>
+2|TR<FC 1A> Se non spingete
+3|la leva laggiù,
+1|la nave non si muove.<FB>
+
+### 2751
+Uuu-kii!<P>
+2|TR<FC 1A> Spingi leva, muovi
+3|nave!<FB>
+
+### 2752
+Cip cippù~!<P>
+2|TR<FC 1A> La nave sta
+3|uscendo di rotta!<FB>
+
+### 2753
+Cippi cip.<P>
+2|TR<FC 1A> Questa nave era
+3|di Maverick,
+1|sapete.<FB>
+
+### 2754
+Uuu uuu!<P>
+2|TR<FC 1A> Non muovere leva
+3|finché arriva prossima
+1|isola.<FB>
+
+### 2755
+Sembra un
+2|timone.
+3|Mmm?<FB>
+
+### 2756
+È un timone.<FB>
+
+### 2757
+È un timone
+2|enorme!<FB>
+
+### 2758
+Cippù cip.<P>
+2|TR<FC 1A> Presto arriveremo
+3|alla prossima isola.<FB>
+
+### 2759
+Uuu-ki uuu!<P>
+2|TR<FC 1A> Arriviamo presto.
+3|Tira maniglia.<FB>
+
+### 2760
+Craa cra!<P>
+2|TR<FC 1A> Statemi lontani!
+3|Volete prendermi le
+1|uova, vero!?<FB>
+
+### 2761
+Cra cra!<P>
+2|TR<FC 1A> Perché succede
+3|sempre alle mie uova?<FB>
+
+### 2762
+…L'avete trovata.
+2|Dev'essere la 4a
+3|Sfera di Cristallo.<FB>
+
+### 2763
+Muovetevi!
+2|Avete trovato la
+3|Sfera, vero?<FB>
+
+### 2764
+Quanto ancora mi
+2|farete aspettare?<P>
+3|Voi ragazzi non avete
+1|proprio educazione.<FB>
+
+### 2765
+Su, sbrigatevi!
+2|Ce ne andremo mai
+3|da qui?<FB>
+
+### 2766
+Uuu-kii uu-kii-kii!<P>
+2|TR<FC 1A> Perché bambina
+3|diventata grande?
+1|Lei preso mio posto…<FB>
+
+### 2767
+Cip? Cippipò.<P>
+2|TR<FC 1A> Quella ragazza
+3|è Polly, vero?
+1|Quando è arrivata?<FB>
+
+### 2768
+È un nido d'uccello.<FB>
+
+### 2769
+È una grossa leva.<FB>
+
+### 2770
+È una leva per il
+2|motore della nave.<FB>
+
+### 2771
+È una sedia elegante.<FB>
+
+### 2772
+Che nave è mai questa?<P>
+2|Fuori sembra vecchia,
+3|ma dentro è in
+1|ottimo stato…<FB>
+
+### 2773
+<F5 01>ZCraa! Craa!<P>
+2|TR<FC 1A> Meno male che ho
+3|trovato la vostra nave!<P>
+1|Avevo bisogno di
+1|riprendere fiato…<P>
+1|Fin dove andate,
+1|ragazzi?<FB>
+
+### 2774
+Cip cip…<P>
+2|TR<FC 1A> Pare ci sia
+3|trambusto fuori…<FB>
+
+### 2775
+Uuu kii-kii!<P>
+2|TR<FC 1A> C'è qualcosa
+3|fuori nave…<FB>
+
+### 2776
+È uno stormo di
+2|uccelli migratori…<P>
+3|Perché hanno tanta
+1|fretta?<FB>
+
+### 2777
+Cippi cip!<P>
+2|TR<FC 1A> Il blocco del timone
+3|è saltato!<FB>
+
+### 2778
+Uuu kii-kii!<P>
+2|TR<FC 1A> Tempesta fuori!
+3|Oh no! Oh no!<FB>
+
+### 2779
+Cip cip!<P>
+2|TR<FC 1A> Comincia a fare
+3|un po' freddo.<FB>
+
+### 2780
+Uuu uuu!<P>
+2|TR<FC 1A> Guarda, fuori!
+3|Roba bianca!
+1|Cade roba bianca!<FB>
+
+### 2781
+È ghiaccio!!<FB>
+
+### 2782
+Pegi pegi!<P>
+2|TR<FC 1A> Salve! Qui ci sono
+3|tanti iceberg<P>
+1|quindi attenzione~.<FB>
+
+### 2783
+Cip cip.<P>
+2|TR<FC 1A> Oh cielo, oh cielo!<P>
+3|La nave ha urtato
+1|qualcosa e si è
+1|fermata!<FB>
+
+### 2784
+Uuu-kii!
+2|TR<FC 1A> Oh no! Oh no!
+3|Nave no muove!<FB>
+
+### 2785
+È un iceberg enorme!!<FB>
+
+### 2786
+Wow, guardate che nave
+2|enorme.<P>
+3|Ha un'aria piuttosto
+1|antica…<P>
+1|Ma a cosa serve
+1|qui?<FB>
+
+### 2787
+…Questo SOS mi sembra
+2|familiare.<FB>
+
+### 2788
+Questo SOS ci ha
+2|portato da Polly…<FB>
+
+### 2789
+Ehi, i bambini non
+2|devono curiosare lì.
+3|Entrate in tenda.<FB>
+
+### 2790
+Oh-oh? Il robot ha
+2|smesso di funzionare.<FB>
+
+### 2791
+Fermi lì.<P>
+2|Stiamo ancora
+3|lavorando più avanti,
+1|non potete entrare.<FB>
+
+### 2792
+Vi serve qualcosa?<P>
+2|Stiamo indagando
+3|sulla
+1|situazione,<P>
+1|quindi tornate nella
+1|vostra tenda e
+1|aspettate lì.<FB>
+
+### 2793
+Non vi avevano detto
+2|di stare in tenda?<P>
+3|Qui fuori intralciate
+1|le nostre
+1|indagini.<FB>
+
+### 2794
+Vi serve qualcosa?
+2|Non siamo qui per
+3|giocare con voi.<P>
+1|Cerchiamo i bambini
+1|scomparsi.<FB>
+
+### 2795
+Abbiamo catturato
+2|degli stupidi complici
+3|del pirata Blu.<P>
+1|Sono pericolosi, meglio
+1|che stiate alla larga.<FB>
+
+### 2796
+Non potete passare
+2|di qui.<P>
+3|Dei bambini e una
+1|maestra sono stati
+1|visti l'ultima volta qui.<FB>
+
+### 2797
+Cippi cip~.<P>
+2|TR<FC 1A> Torniamo in fretta
+3|sull'isola!<FB>
+
+### 2798
+Uuu-kii-kii!<P>
+2|TR<FC 1A> Metti <FE 6B> Pietra
+3|in fornace!<FB>
+
+### 2799
+Uuu-kii-kii!!<P>
+2|TR<FC 1A> Spingi leva!
+3|Spingi leva!<FB>
