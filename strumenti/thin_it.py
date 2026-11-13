@@ -64,7 +64,7 @@ def patch(d, check_only=False):
         rep.append((text, used, tot))
         if used > tot: raise SystemExit('troppo lungo: %s %d/%d' % (text, used, tot))
         if check_only: continue
-        x0 = 0; x = 0
+        x0 = (tot - used) // 2 if codes[0] in range(0x60, 0x7E) else 0; x = 0
         for c in codes:
             rows = [[0] * 16 for _ in range(16)]
             for y in range(16):

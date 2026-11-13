@@ -2,12 +2,12 @@
 import sys, numpy as np
 sys.path.insert(0,'/home/claude/emu'); sys.path.insert(0,'/home/claude/marv/tools')
 from intro_it import build; from streamio import insert; from glyphs_it import apply
-from scene2_it import patch; import signs_it, bubble, icons_it; import thin_it; from title_credit import patch_title; import compila_m as C
+from scene2_it import patch; import signs_it, bubble, icons_it; import thin_it, life_it; from title_credit import patch_title; import compila_m as C
 rom_p, jp_p, bps_p = sys.argv[1:4]
 rom=bytearray(open(rom_p,'rb').read())
 S=apply(build(np.load('/home/claude/emu/stream.npy')))
 print('intro', insert(rom,S)); print('scena2', patch(rom)); print('titolo', patch_title(rom, np.load('/home/claude/emu/cred.npy')))
-signs_it.patch(rom); bubble.patch(rom); icons_it.patch(rom); thin_it.patch(rom); print('menu ok')
+signs_it.patch(rom); bubble.patch(rom); icons_it.patch(rom); thin_it.patch(rom); life_it.patch(rom); print('menu ok')
 C.fix_checksum(rom)
 open(rom_p,'wb').write(rom)
 open(bps_p,'wb').write(C.make_bps(open(jp_p,'rb').read(), bytes(rom)))

@@ -35,7 +35,9 @@ Nella schermata del titolo, sotto i crediti di Nintendo e di Tashi e DackR, c'è
 
 Ho tradotto anche il menu di gioco: i cartelli ora dicono SQUA-DRA ed ESCI (ITEM è rimasto ITEM), e i fumetti in basso sono in italiano ("per cercare", "Muovi con", "Non funziona"...). Anche le icone che compaiono nei dialoghi corrispondono al menu italiano, e sono tradotte le schermate dei salvataggi e del nome della squadra, compresi i titoli dei capitoli.
 
-Sono rimasti in inglese il logo del titolo, la scritta LIFE nella schermata della squadra e alcune scritte disegnate negli scenari, come cartelli e biglietti.
+Nella schermata della squadra LIFE è diventato VITA.
+
+Sono rimasti in inglese il logo del titolo e alcune scritte disegnate negli scenari, come cartelli e biglietti.
 
 ## Una cosa da sapere
 
