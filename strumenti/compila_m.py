@@ -125,6 +125,9 @@ def main(en_path, script_path, jp_path, outdir, en_mode=False):
         raise SystemExit('ERRORE: il copione deve avere le voci 0000-%04d' % (len(orig) - 1))
     warn = []; blob = bytearray()
     for n in range(len(orig)):
+        if not en_mode and script[n].strip() == M.toks_to_text(orig[n], M.EN_TABLE).strip():
+            # voce non tradotta (menu, tabelle, versi): si copiano i byte originali
+            blob += b''.join(bytes([v]) if k == 'c' else v for k, v in orig[n]); continue
         toks = tokenize(n, script[n], table, warn)
         if ctrl_seq(toks) != ctrl_seq(orig[n]):
             warn.append('%04d: codici diversi dall\'originale' % n)

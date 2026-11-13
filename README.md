@@ -29,13 +29,15 @@ La patch parte dalla versione FastROM di Kandowontu, che è basata sulla traduzi
 
 Gli indovinelli coi numeri, quelli dove "1 è la coda di un cane" e via dicendo, li ho riscritti in modo che funzionino in italiano e abbiano ancora le stesse soluzioni. Se vi incastrate lì, non è colpa vostra: segnalatemelo.
 
-Non ho toccato il logo del titolo e le scritte disegnate come grafica. Il mio nome all'inizio del gioco non c'è ancora: arriverà in una versione successiva.
+Anche l'introduzione è in italiano: sia il racconto in corsivo sul Capitano Maverick, sia la parte a lettere grandi sul campeggio e sui pirati, che nel gioco sono immagini e non testo. Il corsivo l'ho ridisegnato con un carattere simile all'originale. Subito dopo il racconto compare la scritta "TRAD. ITA SANCIOPANZA88".
+
+Sono rimasti in inglese il logo del titolo e le scritte disegnate nei menu ("New Game", "Team" e simili).
 
 ## Una cosa da sapere
 
 Non ho fatto tutto da solo. Per questo progetto mi sono fatto aiutare da un'intelligenza artificiale (Claude, di Anthropic): con lei ho capito come il gioco memorizza il testo, ho scritto gli strumenti per estrarlo e reinserirlo e ho preparato la prima stesura della traduzione. Mi sembra giusto dirlo chiaramente.
 
-Proprio per questo la v1.0 va presa per quello che è, cioè una versione da testare. Il testo è stato controllato in automatico: nessuna riga esce dalla finestra e i codici di ogni messaggio sono quelli originali. Il gioco però non l'ho ancora finito con la patch. Qualche frase storta, un refuso o un nome che cambia da un dialogo all'altro ci saranno di sicuro. Le prime cose da guardare sono il menu di salvataggio e quello degli oggetti, perché sono quelli che lo strumento di controllo vede peggio.
+Proprio per questo la v1.0 va presa per quello che è, cioè una versione da testare. Il testo è stato controllato in automatico: nessuna riga esce dalla finestra e i codici di ogni messaggio sono quelli originali. Il gioco però non l'ho ancora finito con la patch. Qualche frase storta, un refuso o un nome che cambia da un dialogo all'altro ci saranno di sicuro. Ho provato in emulatore l'introduzione, la schermata dei salvataggi e quella del nome della squadra. Il resto va giocato: le prime cose da guardare sono il menu di salvataggio durante la partita e la lista degli oggetti.
 
 Se trovate un errore, aprite una [issue](https://github.com/SancioPanza88/marvelous-ita/issues) con uno screenshot e mi date una grossa mano. Se riuscite, aggiungete il numero della voce (tipo `### 2294`): lo trovate cercando la frase in `copione/copione_it.txt`.
 
@@ -47,7 +49,7 @@ Gli script Python che ho usato sono in `strumenti/`. Serve Python 3, più Pillow
 python3 strumenti/compila_m.py ROM_INGLESE_FASTROM.sfc copione/copione_it.txt ROM_GIAPPONESE.sfc build
 ```
 
-Nella cartella `build` trovate la ROM italiana e il file .bps. Il copione è un normale file di testo con le regole scritte in cima: ogni riga deve stare nella finestra e i codici tra `< >` non vanno toccati. Se sbagliate, il compilatore ve lo dice. Per vedere com'esce una voce senza aprire l'emulatore:
+Nella cartella `build` trovate la ROM italiana e il file .bps. Gli script in `strumenti/grafica/` aggiungono l'introduzione tradotta (vanno sistemati i percorsi in cima ai file). Il copione è un normale file di testo con le regole scritte in cima: ogni riga deve stare nella finestra e i codici tra `< >` non vanno toccati. Se sbagliate, il compilatore ve lo dice. Per vedere com'esce una voce senza aprire l'emulatore:
 
 ```
 python3 strumenti/anteprima_m.py build/ROM_ITA.sfc copione/copione_it.txt anteprima.png 2294 2731
