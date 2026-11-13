@@ -29,7 +29,9 @@ La patch parte dalla versione FastROM di Kandowontu, che è basata sulla traduzi
 
 Gli indovinelli coi numeri, quelli dove "1 è la coda di un cane" e via dicendo, li ho riscritti in modo che funzionino in italiano e abbiano ancora le stesse soluzioni. Se vi incastrate lì, non è colpa vostra: segnalatemelo.
 
-Anche l'introduzione è in italiano: sia il racconto in corsivo sul Capitano Maverick, sia la parte a lettere grandi sul campeggio e sui pirati, che nel gioco sono immagini e non testo. Il corsivo l'ho ridisegnato con un carattere simile all'originale. Subito dopo il racconto compare la scritta "TRAD. ITA SANCIOPANZA88".
+Anche l'introduzione è in italiano: sia il racconto in corsivo sul Capitano Maverick, sia la parte a lettere grandi sul campeggio e sui pirati, che nel gioco sono immagini e non testo. Il corsivo l'ho ridisegnato con un carattere simile all'originale.
+
+Nella schermata del titolo, sotto i crediti di Nintendo e di Tashi e DackR, c'è anche "©26 Sanciopanza88".
 
 Sono rimasti in inglese il logo del titolo e le scritte disegnate nei menu ("New Game", "Team" e simili).
 

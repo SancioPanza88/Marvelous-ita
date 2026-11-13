@@ -4,7 +4,7 @@ L='ABCDEFGHI8ZLMNOP-RSTUVW:Y,.'
 def ent(ch):
     if ch==' ': return 0x22a
     col=202+2*L.index(ch); return 0x2000|((col//16)*32+col%16)
-TOP=[(0,'TRAD. ITA'),(2,'SANCIOPANZA88'),(6,'-OGGI-'),(10,'UN CAMPEGGIO'),(12,'PER GIOVANI SI'),(14,'TIENE SU UNA'),(16,'ISOLA LONTANA.'),(20,'INTANTO...'),
+TOP=[(0,'-OGGI-'),(4,'UN CAMPEGGIO'),(6,'PER GIOVANI SI'),(8,'TIENE SU UNA'),(10,'ISOLA LONTANA.'),(14,'INTANTO...'),
      (23,'UNA BANDA DI'),(25,'PIRATI SBARCA'),(27,'SULLA STESSA'),(29,'ISOLA PER'),(31,'CERCARE IL')]
 def put(w,half,row,c0,text):
     for c in range(16): w[half*1024+row*32+c0+c]=0x22a
