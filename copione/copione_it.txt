@@ -1377,7 +1377,7 @@ Se perdete tempo,
 ;EN <FE 6D 1A> Team's Final Score<FC 1A>
 ;EN 2|Collected<FC 1A> <FE 6B><FE 6D 34>
 ;EN 3|Helped people<FC 1A> <FE 6C><F4>{65}<FE 6D 32>  That  means…<FA>
-Punteggio squadra <FE 6D 1A><FC 1A>
+Punti squadra <FE 6D 1A><FC 1A>
 2|Raccolto<FC 1A> <FE 6B><FE 6D 34>
 3|Aiutati<FC 1A> <FE 6C><F4>{65}<FE 6D 32>  Ovvero…<FA>
 
@@ -8512,16 +8512,16 @@ Capisco.<P>
 ;EN 1|Let's see <FE 6D 1A> Team's
 ;EN 1|<FE 6D 48>!<FA>
 Bella risposta!<P>
-2|Bene, tutti e <FE 6D 24> dovete
+2|Ora tutti e <FE 6D 24> dovete
 3|radunarvi e
 1|prendere posto.<P>
-1|Quando siete in
-1|posizione, premete <FE 6D 02> su
+1|Quando siete pronti,
+1|premete <FE 6D 02> su
 1|<FE 6D 48> nel menu laterale.<P>
 1|Bene, tutti
 1|indietro.<P>
 1|Squadra <FE 6D 1A>, ora
-1|mostrateci il <FE 6D 48>!<FA>
+1|fateci il <FE 6D 48>!<FA>
 
 ### 0744
 ;EN …What are you
@@ -11258,8 +11258,8 @@ Vorrei darvi la
 ;EN 2|are <FE 6D 24> spots in town
 ;EN 3|just right for a well.<FA>
 Il mio istinto dice che
-2|in paese ci sono <FE 6D 24> punti
-3|giusti per un pozzo.<FA>
+2|in paese ci sono <FE 6D 24>
+3|punti per un pozzo.<FA>
 
 ### 0988
 ;EN If we don't dig them
@@ -12898,7 +12898,7 @@ Squit, squit!<P>
 ;EN <FE 6D 1A> Team… please!
 ;EN 2|I'm… begging you!
 ;EN 3|Do somethiiiiing!!<FB>
-Squadra <FE 6D 1A>… vi prego!
+<FE 6D 1A>, vi prego!
 2|Vi… supplico!
 3|Fate qualcosaaaa!!<FB>
 
@@ -13568,8 +13568,8 @@ Su quel foglio ci
 1|leggetelo bene.<P>
 1|Per uscire da questa
 1|schermata,<P>
-1|premete <FE 6D 04> o scegliete <FE 6D 44>
-1|e premete <FE 6D 02>.<P>
+1|premete <FE 6D 04> o <FE 6D 44>
+1|e poi <FE 6D 02>.<P>
 1|Allora il campeggio
 1|può davvero iniziare!<FA>
 
@@ -14089,7 +14089,7 @@ Pii! pii!<P>
 ### 1306
 ;EN <FE 79>Move it. <FE 6D 04> to cancel.
 ;EN 2|        <FE 6D 42><FE>{7E}<FA>
-<FE 79>Muovi. <FE 6D 04> per annullare.
+<FE 79>Muovi. <FE 6D 04> annulla.
 2|        <FE 6D 42><FE>{7E}<FA>
 
 ### 1307
@@ -14640,7 +14640,7 @@ A guardare meglio,
 ;EN 1|It's the only way.<FA>
 Qualcosa non va.
 2|Mettetevi su 3 lati
-3|del masso e premete <FE 6D 48>!<P>
+3|del masso e <FE 6D 48>!<P>
 1|E' l'unico modo.<FA>
 
 ### 1362
@@ -16859,7 +16859,7 @@ Grazie a voi ho visto
 ;EN 1|pieces of 'em!! Wow!<FA>
 <F2>Il re vi ha dato
 2|delle Pietre Fortuna!<P>
-3|Ve ne ha date <FE 6D 28><FE 6D 1E>
+3|Sono ben <FE 6D 28><FE 6D 1E>
 1|!! Wow!<FA>
 
 ### 1586
@@ -24246,7 +24246,7 @@ Possiamo usarlo per
 <F5 03>sCip-cip!<P>
 2|TR<FC 1A> Grazie per la
 3|fiducia!
-1|Fanno <FE 6D 20> Pietra Fortuna!<FA>
+1|Fa <FE 6D 20> Pietra Fortuna!<FA>
 
 ### 2325
 ;EN If this were the sea,
@@ -26038,7 +26038,7 @@ Quella cassa l'ho
 2|inventata io. È la
 3|"Cassa Sparisci-Cose".<P>
 1|Volete provarla?<P>
-1|Prima, premete <FE 6D 02> su <FE 6D 4A>
+1|Premete <FE 6D 02> su <FE 6D 4A>
 1|e scegliete l'oggetto
 1|da metterci dentro.<P>
 1|Quello che succede poi
@@ -28902,8 +28902,8 @@ Non c'è tempo!<P>
 ;EN 1|and push <FE 6D 08> to dash!<FA>
 <F2>Avete le Scarpe
 2|Scatto!<P>
-3|Tieni <FE 6D 04> per caricare
-1|e premi <FE 6D 08> per scattare!<FA>
+3|Tieni <FE 6D 04> per caricare,
+1|<FE 6D 08> per scattare!<FA>
 
 ### 2826
 ;EN <F2>You got Jump Shoes!<P>
