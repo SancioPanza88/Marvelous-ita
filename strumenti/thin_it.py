@@ -57,7 +57,7 @@ PHRASES = [  # (codici, testo)
     ([0x8B, 0x8C], 'Inizia'), ([0x91, 0x92], 'Salva'),
 ]
 def patch(d, check_only=False):
-    W = M.widths(d); rep = []
+    W = {c: 16 for c in range(0x100)}; rep = []   # in queste schermate ogni casella avanza di 16 pixel
     for codes, text in PHRASES:
         tot = sum(W[c] for c in codes)
         strip, used = render(text, tot + 16)
